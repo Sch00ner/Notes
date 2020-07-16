@@ -1,0 +1,152 @@
+2.7.20
+
+Stakeholders of the criminal justice system.
+-Accused
+-Law enforcement
+-Regulatory agencies such as Excise and Customs
+-Victim: Faces revictimisation from the whole process. For example, victim blaming in sexual assault cases
+-Prosecutor
+-Courts
+-Witness Support Service
+-Correctional Facilities
+
+Differences in adversarial and inquisitorial justice systems.
+-India is an adversarial system
+-Inquisitorial systems have Victim Impact Statements
+
+Books
+-RV Kelkar's Criminal Procedure Editor Chandrasekhar Pillai
+-Dr. S.R. Myneni
+-Ratanlal and Dhirajlal
+
+3.7.20
+
+Theories of Crime -> will be discussed later
+
+-Crimes are not universal. It depends on jurisdiction.
+
+Why do crimes happen?
+-Vengeance
+-Poverty: Migrant workers returning to their native places with no support systems
+-Crime has a direct relationship with economics
+-Achieving an objective is key
+-Sociological balance is upset. Balance between law and society is lost.
+-Peer pressure. Can be held as abetment.
+-Filing of counter cases. It hinders the judicial process.
+-Faulty role models.
+
+4.7.20
+
+Sociological Theories of Crime
+-Crime as a result of social phenomena or social change.
+-Cultural phenomena or external forces are also part of this.
+-The mentality of suicide bombers is molded by their socio-cultural milieu. These are at odds with those of society at large and thus, they are committing crimes.
+-Socio-economic conditions of a person also affect a person and lead them to crime.
+Structural theory
+-If someone doesn't have the legitimate ways to achieve their objective, people will turn to illegitimate methods.
+-Aspiration and attainment are the two points of structural theory. We must find out how to bridge them.
+
+Sub-cultural theory
+-When people adhere to cultural ideals that are inconsistent with the dominant mores of society.
+-Crime in this case is the product of deviation from the overarching morals of society.
+-In this case, people want to earn the respect of their peers and not society at large.
+
+6.7.20
+
+Biological theories of Crime
+-Chromosomal abnormalities, hormone imbalances etc are the causes of crime.
+-Maldeveloped brains are said to be a major factor in criminal activity.
+-Early sociological influences in childhood can lead to this maldevelopment. Sexual violence or malnutrition as a child can strongly affect this.
+-
+
+-Sutherland says that criminal behaviour is a learned behaviour.
+
+Psychological Theory of Crime
+-Psychological trauma can manifest in criminal behaviour later.
+-Psychological defects can lead to people failing to recognise appropriate social boundaries, which may lead them into criminality as they cannot distinguish between criminal and legal acts.
+-Crime is the result of immature super-ego.
+
+7.7.20
+
+-Thus,cause of crime spans the social, biological and psychological spheres of life.
+-If a sexual offence has been committed upon a child and this child goes back to school only to be victimised by the society. Society says it was the fault of the child for being the target of this crime, it leads to further revictimisation. Case in point, the Vishakha case.
+-The role played by the parents is also important in future criminal behaviour. Attachment to a person with criminal tendencies, neglect or abuse lays the field for criminality.
+-Early intervention programmes securing the health and development of children will be essential to preventing criminality. Even online classes where children may be excluded are against the interests of child rights.
+-Supporting positive parenting techniques will also help in reduction of criminality. The kind of supervision a child receives  affects the development of a child. Research shows that risk-taking and delinquent behaviour have a correlative reduction with such techniques.
+
+Economic Theories of Crime
+-Assumes that people are rational actors who will respond predictably to economic stimuli.
+-Increasing the expected cost of a crime, such as increasing the likelihood of getting caught will bring down crime rates.
+-Having advocates engage in other trades with the blessing of the BCI is a legitimate way to suppress criminal behaviour.
+
+Types of procedural law:
+-What the legislature creates
+-What the court creates
+-A combination of both
+
+-Lilavat Behera v State of Odisha: Her son was taken into custody and was later found dead with handcuffs on. Police said that he fled in the night and was hit by the train. The SC ruled against Odisha and compensation had to be paid to her. After this case and DK Basu v State of WB, the charges, place of detention and reason for arrest has to be outlined clearly.
+
+9.7.20
+
+Differences between substantive and procedural law
+
+-Kalyan Chandra Sarkar v Rajesh Ranjan alias Pappu Yadav: Trial was conducted on video. So personal presence can be substituted with video conferencing.
+-Sujay Mitra vs State of WB: Witness statement allowed through video conferencing.
+
+10.7.20
+
+Inquisitorial form of Judiciary
+-Law of precedent is not strictly followed.
+-The statute is supreme.
+	1. Investigative Phase -  Public prosecutor collects evidence and decides whether to press forward with charges.
+	2. Examination Phase - All the evidence is weighted by and a decision togo to trial or not is made by the judge.
+	3. Trial Phase - 
+
+State of Punjab v Gurmeet Singh: Justified the use of Sec. 327 of CrPC as thas that would help the victim in deposing without any intimidation, while sitting in open court.
+
+11.7.20
+
+Jury in Inquisitorial system
+-After the evidence is collated it is handed to the jury.
+-The jury and the judge work hand in hand.
+-Jury may ask the judge for more evidence.
+
+Rules of evidence in Inquisitorial system
+-Evidence which is pre-judicial or of little probable value is more like ly to be withheld from jury.
+-Evidence can be more easily introduced in adversarial system. Like hearsay evidence, which is allowed.
+
+Rights of accused
+-Quite the same in both systems.
+
+Role of the victim
+-Victim is a party with the police who can gather evidence, have a formal role and can request specific avenues of investigation in inquisitorial systems.
+
+Role of Courts
+-Specialised courts for every branch of law.
+
+13.7.20
+
+Cognisable and Non-cognisable offences
+-A complaint will be treated as an FIR in a cognisable offence. A complaint maybe elevated by the Magistrate into an FIR after talking with complainant and examining the situation.
+-In a complaint, a police report does not need to be included. In an FIR, inclusion of a police report is mandatory.
+
+14.7.20
+
+What can a court do to get witnesses into court?
+-In other common law jurisdiction, issue a subpoena writ. In India, issue summons and if they fail to turn up, threaten proceedings or start proceedings. Falls under contempt of court.
+
+Investigation v Inquiry
+-Investigtaion is usually done by a police officer. Inquiry is usually done by the magistrate or the court, they can never conduct an investigation.
+-Investigation is the collection of the evidence. An inquiry verifies the facts, draws a conclusion and takes some action based upon this.
+-Investigation is the first stage. Inquiry is the second stage of a case and usually preceded by the investigation.
+-Inquiry is judicial in nature vs Enquiry is non-judicial and is done by police during the course of investigation. Investigation is also non-judicial. Enquiry is part of Investigation
+
+What if police does not want to register a complaint?
+-As an advocate, you would send the report of the incident to the SP and if he is satisfied, he would ask the police to register an FIR.
+-Sec.166A of CrPC allows us to file a complaint if even the SP is not helping.
+-You can go to the Magistrate in cognisable offences and he will direct the police to register an FIR.
+
+16.7.20
+
+-In an NCO there can never be an investigation.
+We discussed an FIR. Just go look at a standard FIR, nothing else to see here.

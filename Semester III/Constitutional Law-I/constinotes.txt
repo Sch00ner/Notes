@@ -1,0 +1,100 @@
+3.7.20
+
+-Pakistan SC had an inkling of the Basic Structure doctrine in the 1960s.No precedence as such. Restricting the powers of the Parliament to amend the constitution.
+-A similar concept with no precedent is Fraud on the Constitution.
+-Ordinances can be misused to propagate such a fraud on the Constitution. These ordinances are meant to be interim measures. The Parliament needs to be ratified within 6 weeks of it reconvening to be made a permanent law. But, ordinances can be continuously repromulgated to keep them in force. In Bihar, ordinances have been renewed like this for 32 years. The Constitution has no bar on such extended renewal. This is a way of circumventing Parliamentary scrutiny.
+-Secretiveness is not desirable in all cases. For nuclear tests, yes. But, it can have a deleterious effect on the democratic system of governance if all acts were secret.
+-Doctrine of enduring rights: Ordinance and its promulgation.
+
+6.7.20
+
+Constitutionalism = https://plato.stanford.edu/entries/constitutionalism/
+-A certain limit on the power of the sovereign.
+-Problem with an all powerful sovereign.
+-Indian equivalent in the concept of Rajdharma. Certain inherent duties in the position of the Raja circumscribe their powers. they have to live up to the concept of Rajdharma.
+-Separation of powers in the Constitution is not as strict as traditional Western liberal democracies.
+
+7.7.20
+
+Amendment of the Constitution
+-When the federal mechanisms are being affected, half the State Legislatures have to ratify the amendment under Art.368(2)
+-Bihar Darbhanga case. Related to the Fundamental Right of Property. Argued by N.C. Chatterjee(father of Somnath Chatterjee) on behalf of the king of Darbhanga. He won the case and the court declared the particular land reform law unconstitutional.
+-Art 31(A) & (B) brought in by amendment after the above case. Declared that estate laws would be beyond the scrutiny of courts. Brought in a Ninth Schedule to the Constitution, which said that whichever law was brought under this Schedule could not be scrutinised on the basis of Fundamental Rights.
+-Shankari Prasad Singh Deo challenged this first constitutional amendment. Argued that the Parliament does not have an absolite power to amend the Constitution. No Fundamental Rights could be changed, according to him. Art.13 says that FRs cannot be derogated. Two questions were framed by the SC in relation to this case:
+	1. Is an amendment a law?
+	2.Can Fundamental Rights be amended?
+-CJI Patanjali Shastri delivered the judgement. The SC said that amendments are not law. Law making is an act of legislative power, but constitutional amendments are made in the scope of the Constituent power of the Parliament. It is as if the Parliament steps into the shoes of the Constituent Assembly. Thus, FRs could be amended because amendments are outside the scope of "law", as under Art.13. This means that FRs could be amended ad infinitum with no restrictions upon the power of Parliament to change them.
+
+8.7.20
+
+State of WB v Bela Banerjee
+State of WB v Subodh Gopal Bose
+Dwarkadas Srinivas v Sholapur Spinning Company
+-All these three cases were about land reform laws. The plea was to pay compensation at market rates for land confiscated under these laws.
+-Compulsory acquisitioning of property: A nominal amount paid for the compulsory acquisition of any property. This amount is not negotiable or justiciable.
+-Deprivation of property by operation of regulatory laws: No compensation to be paid for any property removed from one's ownership as a result of land reform laws.
+-Hidayatullah and Mudholkar raised questions upon the power of the government to change the Constitution at their will, in the Sajjan Singh case.
+
+9.7.20
+
+-IC Golaknath case: Subbarao says that power to amend the Constitution is also a legislative power coming from Art.245 and 246. That there is nothing called constituent power. Thus, all powers of the Parliament is legislative.
+-AG counters by saying that nothing in the Lists under 7th Schedule stating Constitutional amendments. Subbarao says that the power to make such amendments is a function of the residuary powers under the Union List, specifically Entry 97.
+-Criticism of this judgement stems from the fact that Constitutional amendments are too important to be left upto just the residuary entry of the Union List.
+-Doctrine of Prospective Over-ruling comes from this. In this case, Golaknath does not get this land back, but the Government would not be able acquire any more land under such land reform laws.
+
+10.7.20
+
+-Morarji Desai was opposed to bank nationalisation, a dream of Indira Gandhi.
+-Nationalisation plan was drafted in secret by an under-secretary level officer.
+-Neelam Sanjiva Reddy was the official candidate for Presidency, but Indira Gandhi propped up her own candidate, V.V. Giri. Giri won the Presidential election.
+-IG was thrown out of the INC and formed Congress(R), as opposed to Congress(O). A majority of MPs walked out with her with only 30 or so MPs staying in the old Congress.
+-Princely states' rulers were offered a privy purse, a certain sum of money every month from the public exchecquer. IG felt that this was not required and wanted to abolish the privy purse. IG had a majority in the Lok Sabha, but not in the Rajya Sabha. She has numerical majority in the Rajya Sabha, but only with the full strength of the supporters. Even one absentee would have seen her Bill scuttled. She pulled in all members, even sick people attached to saline IV lines, on a wheelchair.
+-IG had exactly 250 members needed to pass the Bill in the RS. but, one of them disappeared. Thus, the Bill failed and the whole exercise was futile.
+-A Presidential proclamation was passed the next day de-recognising all princely state rulers. Thus, the privy purse was abolished de-facto, since no one could receive the money.
+-Nationalisation of banks is challenged in the case of RC Cooper v Union of India and princely state de-recognition was challenged in Madhav Rao Jivaji Scindia v UOI.
+-RC Cooper struck down the bank nationalisation Act because it violated the Fundamental Rights with a ratio of 10:1 judges.
+-De-recognition of princely states was also struck down with a majority of 9:2.
+-AN Ray was part of the dissent in both cases. Later, he went on to become the CJI superseding 3 other justices.
+-After her re-election in 1971, she brought about the 24th Constitutional amendment. amending Art.13 & 368. Explicitly stated now that Constitutional amendments are not laws and the power to amend the Constitution flows from 368.
+-Art.31(C) was introduced too, in the subsequent 25th amendment. It deprived the power the of the courts to examine any law passed under this Article.
+-Another amendment was passed in the same year, repealing the provision of privy purses under Art.292.
+-In the 29th amendment, Kerala Land Reform and Kerala Land Reform Amendment Acts were included in the 9th Schedule. This led to a man called Kesavananda Bharati losing a lot of property.
+-KB didn't really care about it, but he was persuaded by someparties to pursue this in the SC. Nani Palkhivala along with his junior Soli Sorabjee took up the case in the SC.
+
+13.7.20
+
+This was story time.
+
+14.7.20
+
+Kesavananda Bharati
+-H.R. Khanna is the game changing judgement.
+-The other 6 judges in opposition to the government say that the power of the Parliament to change the Constitution is not legislative but constituent in nature.
+-Amendment does not mean that you can obliterate the basic features of the Constitution. In their opinion the FRs are part of these basic features.
+-The limitation of amending powers is located by these 6 judges in the word amendment itself, in Art.368.
+-Basic features according to these 6 judges:
+	1.Sikri-Gives an exhaustive list. Supremacy of the constitution, republican and democratic form of government, secular characteristic of the constitution, separation of powers, federal character of the constitution, dignity of the individual. These were the only ones he considered basic features of the Constitution.
+	2.Shelat and Grover- Gives an illustrative list. Sovereignty of India, unity and integrity of the nation,dignity of the individual as enshrined in Part 3 and welfare mandate as enshrined in Part 4. This is in addition to what Sikri said.
+	3. Hegde and Mukherjee- Says their list is the same as Shelat and Grover's list. They added a specific element to this discourse.They wanted to figure out how a fundamental(they used this instead of basic) feature could be identified and settled on using the Preamble as a litmus test.
+	4. Jaganmohan Reddy- Sovereign democratic republic, parliamentary democracy and the three organs of the state.
+
+15.7.20
+
+H.R. Khanna
+-Khanna points out several logical fallacies in IC Golaknath
+	1.Art. 245 which Subbarao says forms the power of making the amendments. There is a logical fallacy inherent in the Article itself. How can you change the provisions that you're also subject to, as outlined in Art.245.
+	2.Subbarao says the power to make amendments flow from the Union List. But, for certain amendments even the states need to consent. So, how is it possible that this falls under the Union List?
+	3.In multiple places in the Constitution you can find references to terms such as "Constitution and the law". This means that equating the Constitution with the law would be disastrous in the long run.
+-Khanna does not specify what the Basic Structure is, in the judgement. Because he was wary that the government would use this knowledge to circumvent such protections.
+
+16.7.20
+
+H.R. Khanna(contd.)
+-He ascertained that principles form part of the Basic Structure and not numbered constitutional provisions themselves.
+-Logic being that FRs may need to be amended in the future and it would be a disservice to the nation to restrict their scope.
+-There was a draft Art.304A which stated that FRs cannot be amended. This was rejected in the Constituent Assemsbly as amendments may be needed for future circumstances.
+-Since the first Constitutional Amendment had been done in 1951 by members of the Constituent Assembly members acting as Parliament themselves, it would be illogical to say that FRs cannot be amended as Subbarao said.
+-The Principle of Contemporaneous Exposition is that the true spirit of a law(or in this case, the Constitution) is to be found when it is interpreted according to the times it was constructed in and putting yourselves in the shoes of the makers. This extends to how the original makers themselves implemented and/or treated these provisions.
+-By implication it means that the last part of 31C is strcuk down because it contravenes Basic Structure.
+-Basic Structure is used only to evaluate constitutional amendments.
+-25th and 29th constitutional amendments are valid.

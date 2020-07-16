@@ -1,0 +1,68 @@
+2.7.20
+
+Difference between Price and Value.
+-Value is set by an individual. It can change over time and circumstances. Value is more fundamental to the individual.
+-Price is set by an institution, i.e., the market. The interaction betwenn supply and demand sets the price. Price can be manipulated.
+
+Microeconomics is an optimisation problem. A balance between available resources and generating satisfaction.
+
+Developmental economics in the vein of Amartya Sen.
+-Developing a skillset.
+-Developing your own thoughts without external interference.
+-Access to healthcare.
+-Access to income.
+
+7.7.20
+
+Axiom of Completeness
+
+Axiom of Transitivity
+-If A>B and B>C, then A>C
+
+Axiom of Non-satiety
+-If bundle 1 contains more of at least one fruit and no less of the other fruit, then bundle 1 will be preferable to bundle 2.
+-If bundle 1 has 5 oranges and 10 apples and bundle 2 contains 5 apples and 8 apples, bundle 1 is always better.
+
+Axiom of Convexity
+-Variety is better than extremes.
+-Bundle 1 has only oranges, Bundle 2 has only apples, Bundle 3 has a mix of apples and oranges. Thus, Bundle 3 will be preferred.
+
+Brush up on differential and continuous functions.
+
+8.7.20
+
+What is a function?
+-Mathematical representation of the relationship between variables, which are independent or dependent of each other.
+
+Indifference curves
+-Same utility value along the curve.
+-Maps to the Axiom of Convexity, variety is prized.
+
+9.7.20
+
+-The marginal rate of substitution is the absolute value of the indifference curve.(https://core-econ.org/the-economy/book/text/leibniz-03-02-01.html)
+
+10.7.20
+
+Interaction between two indifference maps
+- Contract curve shows the economic efficiency of the interacting indifference maps.
+-MRS (of person 1)=MRS (of person 2). This is the equation for the contract curve.
+
+13.7.20
+
+Budget line.
+
+14.7.20
+
+Figuring out how to calculate optimal budget constraints.
+
+16.7.20
+
+Started a new journey!
+
+-Different schools of thought in microeconomics.
+-Any policy adopted will be evaluated differently by the different schools of microeconomics.
+-The market consists of both demand and supply sides. The industry will only be on the supply side.
+-Alfred Marshall propounded the Cardinal Utility theory.(https://en.wikipedia.org/wiki/Cardinal_utility)
+-Cardinal Utility doesn't allow us to find marginal values, so it's not really useful to find preference gradients.
+
