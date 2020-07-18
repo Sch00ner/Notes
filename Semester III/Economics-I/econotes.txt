@@ -66,3 +66,16 @@ Started a new journey!
 -Alfred Marshall propounded the Cardinal Utility theory.(https://en.wikipedia.org/wiki/Cardinal_utility)
 -Cardinal Utility doesn't allow us to find marginal values, so it's not really useful to find preference gradients.
 
+17.7.20
+
+-The corporate tax cuts in India was promised to bring about increased demand in the market. However, there is a constraint on the demand side. So, the whole point of surge in demand was irrelevant.
+-Most capital intensive industries had a lot of inventory left over because the demand was too weak. So, this was just a transfer of wealth from the rich to the poor.
+-Before 2012, the Indian car market was dominated by hatchbacks and sedans. City commuters had a real love for sedans, the urban middle class saw it as a sign of status.
+-SUVs at this time had a body on frame of construction method. They were also quite expensive, around Rs.35-40 lakhs. They had bad handling and a bumpy ride.
+-Ford EcoSport came in and revolutionised the market. It had a high ground clearance, comfortable ride and good handling. It had a monocoque frame. It wasn't as good at off-roading as the body on frame SUVs though.
+-The EcoSport was a risky bet because sedans and body on frame SUVs dominated the market at the time around this price point. So, Ford had to do market analysis and take into account consumer preferences.
+-Market analysis was the first thing that Ford did. The second thing they needed to take care of was the cost of making the EcoSport. The engine was imported from Germany and pushed its price up by at least a lakh. Thus, Ford was inclined to do a lot of political lobbying to get the import costs down or consider manufacturing the engine in India itself.
+-Ford came up with a new engine factory in India and replaced the German engine with a homemade one, bringing down the cost.
+-Ford even stuck useless daytime running lights on the EcoSport to make it more attractive to consumers.
+-In an oligopolic market it matters how the oligopolist reacts to price changes in other products and how to differentiate your product from other ones.
+-Profit maximisation is a decent but insufficient theory to explain the behaviour of MNCs. Profit cannot be maximised unless employees can be perfectly tracked and measured. Thus, it is in the employer's incentive to motivate the employees to work as best as they can of their own volition.

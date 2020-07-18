@@ -150,3 +150,32 @@ What if police does not want to register a complaint?
 
 -In an NCO there can never be an investigation.
 We discussed an FIR. Just go look at a standard FIR, nothing else to see here.
+
+17.7.20
+
+-If the complaint is registered outside of the police station jurisdiction, it has to be recorded in the General Diary and then transferred to the appropriate police station.
+-This is important in the context of sexual assault cases. It would be a violation to ask the victim to go back to the place of the assault and register the complaint there.
+-Sec.157(1) emphasises this by saying that the statement of the victim in a sexual assault case should be recorded in their residence or in a place of their choice, by a woman police officer, as far as possible, in the company of parents, guardians, social worker etc.
+-The judicial magistrate may take the help of a special expert when taking the statement of the victim.
+-There is a dearth of training in procedural matters for the judicial machinery.
+-FIR is neither concrete nor primary evidence. It is only corroborative evidence.
+-Executive magistrates hear NCOs.
+-When an oral complaint is the basis of registering an FIR and the complainant brings along a second written complaint about the same offence, the oral complaint will still be treated as the primary complaint. The second instance of information that the complainant brings along will be added to the FIR as additional information, being treated as a statement under Sec.161.
+
+18.7.20
+
+Steps for making a case commentary project
+1.Statutory interpretation of laws involved.
+2.Facts analysis.
+3.Pleadings and what was contended.
+4.Evidence appreciation.
+5.Application of law.
+6.Inferences- Other acts or cases that are relevant.
+7.Cases relied upon.
+8.Comparison of cases relied upon and the present case.
+9.Ratio- Sentencing and punishment.
+
+T.T. Antony v State of Kerala 2001 CRLJ 3329
+-Complaint was made over telephone, something about a cryptic telegram.
+-Information was entered into the station diary.
+-All other info after drawing of FIR is deemed as statement under Sec.162 of CrPC.
