@@ -104,4 +104,87 @@ Any alienation for reasons except for the above, will be considered unauthorised
 	2.An injunction can be obtained from the court against such alienation if it is seen as wasteful or as an ouster.
 	3.If the property is already alienated, the coparceners can challenge that such alienation is invalid and not binding on their shares. The burden of such proof will rest on the alienee to prove that the Karta was authorised to sell the family. But, if the father alienates it to pay antecedent debts and the son claims that such alienation is not binding, the son has to show that such debt was incurred for illegal or immoral purposes and the creditor also had notice of such illegality or immorality.
 
+22.7.20
 
+-Separate property of a Hindu male when passed down to their son, it becomes ancestral property with respect to the son's son.
+-If a Hindu male dies without any direct heirs, the male descendant who gets the property will hold it as a separate property even with respect to his own male descendants.
+-Property inherited from a maternal grandfather is not deemed ancestral property.
+
+Chelikani Venkayyamma Guru v Chelikani Venkatramanayyamma
+-Held that property inherited from the maternal grandfather is ancestral property with accompanying rights of survivorship.
+-Widow claimed a portion of this property after one of the brothers died.
+-This decision was wrong in the light of Vijanneshwara's classification of property.
+
+Muhammad Hussain Khan v Babu Kishva Nandan Sahai
+-Property inherited from a maternal grandfather would be the grandson's separate property.
+-This overruled Chelkani Venkayyamma.
+
+-Property that a Hindu male inherits from any other relation apart from his three immediate paternal ancestors in the male line, will be obstructed heritage and count as his separate property.
+-Property inherited from a female will also always be their separate property.
+-The above two points are not applicable after 1956.
+
+-Executing a Will does not affect the ownership or possession of a property during the lifetime of the testator.
+-A Gift however, immediately changes the status of the property. It cannot be revoked unless it's a conditional gift and the gift becomes the separate property of the giftee.
+
+C.N. Arunachalam v C.A. Murugantha Mudaliar
+-Any property that is passed by Will to the son is to be counted as a separate property unless the Will intends otherwise.
+-It will be determined on the contents of the Will and the class of beneficiaries it distributes property to.
+-It has to be seen whether the Will hews close to normal devolution of property. Thus, the purpose of the Will, in this case, would be to leave no room for dispute after his death instead of a special allocation of property.
+
+24.7.20
+
+Property inherited from fathe under HSA
+-Such property is the exclusive separate property of this son.
+-This has been affirmed by many judgements with only one Gujarat judgement going against it.
+-The son's male issue can't restrain him from doing what he wants with this property.
+ 
+ CWT v Chander Sen
+ -Judgement reaffirmed in Commissioner of Income Tax v Karuppan Chettiar.
+ -Read it from slide.
+
+Gaurav Sikri v Kaushalya Sikri
+-Intestate dies leaving behind widow, three sons and a married daughter.
+-All the kids executed a release deed for the property in favour of theri mother relinquishing all rights in the property to her favour.
+-The estranged wife and two male children of one son claimed the share in the intestate's property.
+-Rejecting their claim, the court said that only the sons, daugfhter and widow had the right to inherit property. The son's sons and his estranged wife had no claim during the lifetime of the son.
+-CWT v Chander Sen was cited in this case, where it was decided that Hindu male heirs include a son and the son of a predeceased son and not sons of a living son.
+
+Makhan Singh v Kulwant Singh
+-Father died leaving behind eleven acres of land. The question was if the property was seperate or joint family property?
+-It was held to be joint family property.
+
+Ass Kaur v Kartar Singh
+-SB Sinha and Markandey Katju in this case clearly erred and classified such property as joint property.
+-Their reasoning was that since the father is an ancestor, it should be joint family property.
+
+Conversion of Seperate Property into Joint Family Property.
+-A coparcener can blend his own seperate property into the joint family property by specifically intending to do so.
+-If joint family property does not exist, a person can declare his own seperate property to be joint family property.
+-Intention to abandon seperate claim must be clearly established in order to convert it into joint family property.
+-If one's seperate property is declared as joint family property for tax purposes, there is a difference of opinion as to whether it becomes joint family property or not. The AP HC thinks it is not conclusive, but the Bombay and Madras HC have ruled that this is final and it becomes joint family property.
+
+25.7.20
+
+Property acquired with aid of Joint Family Property
+-Generally, property acquired with joint family funds or to the detriment of joint family property would take the character of joint family property.
+-Where total investment comes from the joint family property, any property or profit acquired due to the use of such funds would accrue to the corpus of the joint family property, even if the investor's skill was required for such investment.
+-If the joint family property is temporarily used or takes a loan from the joint family corpus, the property so acquired would be the  separate property of the person only if hemanages to pay back the joint family property.
+-If both separate property and joint family property is used, usually the property so acquired would still be a joint family property.
+-If a separate property is improved with joint family funds, it will take on the character of a joint family property.
+-Several examples to be read from slides
+
+Improvement of Joint Family Property by Separate Property
+-If a coparcener uses his separate property to improve the joint family property, the separate property would be blended with the joint family property.
+-Has to be compared to the case of Kuruppan Chettiar.
+
+Doctrine of Accretion
+-Savings and profits from joint family property would be part of the joint family property.
+-However, if the Karta gives money to a person for maintenance or if there is a profit-sharing arrangement between family members, it will be counted as separate property if such money is reinvested and would not be merged into the joint family corpus.
+
+Burden of Proof and Sufficiency of Nucleus
+-Burden of proof to show that a property held by a family member is joint family property is on the one alleging such.
+-However, if the nucleus is sufficient to have acquired the property held by the family member, the burden shifts to the member so accused.
+
+Gains of Learning - Read from slides
+
+Recovery of Joint Family Property -  Read from slides

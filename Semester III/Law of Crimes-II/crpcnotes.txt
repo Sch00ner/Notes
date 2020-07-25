@@ -179,3 +179,71 @@ T.T. Antony v State of Kerala 2001 CRLJ 3329
 -Complaint was made over telephone, something about a cryptic telegram.
 -Information was entered into the station diary.
 -All other info after drawing of FIR is deemed as statement under Sec.162 of CrPC.
+
+20.7.20
+
+-In terms of Sec.156(3),it is under the purview of Sec.190(1)(a).
+-A Magistrate has no power to order investigation if the issue of process has already started.
+
+21.7.20
+
+-Justice system should be mobile, easily accessible, reactive and proactive.
+-Justice system BAD. Okay, you got that? Not enough mobility, just move to South Australia.
+
+Dilawar Singh v State of Delhi
+-It has to be ascertained that you took all possible measure to reach the court and that the police also did their due diligence in taking the case on.
+-When there is a delay in comig forward to the police or the court, the court always treats such complaint with suspicion.
+
+23.7.20
+
+-During recording of statetement, it is advised to record the words of witnesses/complainany/accused as accurately as possible instead of in a boilerplate form.
+-Boilerplate form is just bad practice, but won't make them inadmissible. However, to avoid discrepancies that could jeopardise the trial, this is discouraged.
+-Under Sec.207, any statements so recorded should be made available to the other party because this is an adversarial system.
+-Cross examination of witnesses is also an important part of the process in an adversarial system, like ours.
+-Dinesh Dalmia case grapples with the problems of DDT and whether it infringes upon the right against self incrimination under Art.20(3). In this case, the judge decided that the DDT methods proposed by the CBI were not coercive in nature and could not be said to cause any harm to the accused. Thus, he allowed it to go forward.
+
+24.7.20
+
+-Sec.160 is a measure to help children and women to be at ease during a criminal case. Even the accused may be included in this.
+-Only a written order to report to the police will incur a penalty for disobedience if not followed. Verbal instructions are not sufficient.
+
+Niloy Dutta v District Magistrate 1991 CRLJ 2933 Guwahati
+
+-During trial, cross-examination is done to ensure that the evidence gathered under Sec.161 is credible.
+-If the results of the cross-examination tally with those of the police investigation and report, it is held as good evidence.
+-This also holds the police accountable and helps them to complete the investigation because lying is penalised.
+-If there is a delay in recording witness statements, the delay must be explained by the police and it has to be corroborated by other evidence.
+-Self incrimination is proetcted under Art.20 of the Constitution and Sec.161(2). 
+
+Nandini Sathpathy v Dani (P.L)
+-Protection against self-incrimination should be extended voluntarily.
+-It should not be extended after putting the person in some mental or physical block
+-If the self-incriminating testimony is obtained by force/tortue, it will be compelled testimony and cannot be used as evidence.
+-The accused cannot be forced to answer any question.
+-This is not limited to the relevant case, it encompasses more.
+-But, if the person says something about someone other than himself which implicates them, it is admissible.
+-Delays in procuring witness testimony needs to be explained by the prosecution. The investigating officers will be made prosecution witnesses and will have to justify the delay to the satisfaction of the judge.
+
+25.7.20
+
+Selvi v State of Karnataka
+-The amount of info that you get, if that is not received voluntarily, that will be left open to Sec.27 of Indian Evidence Act, whether or not to be allowed.
+
+-Currently, such narcoanalysis tests are not really regulated and it would be prudent for criminal law statutes to be amended to include a proper procedure for conducting such tests.
+-Case diary will never be supplied to the defence, but can be examined by the court under Sec.172.
+
+Objectives of Sec.41
+-To prevent any further offence by the accused.
+-Proper investigation of the offence, by not letting the accused tamper with evidence, absconding or threatening or killing witnesses.
+
+Arrest v Custody
+-Arrest only in cog case. For noncog, will require the permission of the Magistrate.
+-If a person is fleeing summons, arrest can be made.
+-Arrest can be made by the police, magistrate or a private citizen.
+
+Arrest with a warrant
+-Warrants can be only issued on good and legal grounds.
+-Can appeal to the magistrate for warrant to avoid future trouble.
+-In a warrant case, a warrant is normally issued.
+-In a summons case, a warrant maybe issued if the accused is absconding.
+

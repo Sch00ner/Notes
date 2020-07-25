@@ -79,3 +79,29 @@ Started a new journey!
 -Ford even stuck useless daytime running lights on the EcoSport to make it more attractive to consumers.
 -In an oligopolic market it matters how the oligopolist reacts to price changes in other products and how to differentiate your product from other ones.
 -Profit maximisation is a decent but insufficient theory to explain the behaviour of MNCs. Profit cannot be maximised unless employees can be perfectly tracked and measured. Thus, it is in the employer's incentive to motivate the employees to work as best as they can of their own volition.
+
+20.7.20
+
+-The demand curve of apple can be demonstrated by asking how much I'm willing to pay for an extra apple, when I already have 6 apples or so.
+-When apples are cheaper than oranges, due to the substitution effect, consumers have an incentive to replace oranges and apples.
+-Because of the substitution effect demand will always have an inverse relation to price.
+-Since, the price of apples is cheaper, your real income is higher than before when there is a fall in price of either oranges or apples.
+-However, if there is an increase in real income and the consumer was constrained to only buying jowar/bajra before this increase, he may now go ahead and buy wheat instead of increasing his consumption of jowar/bajra. This is the income effect.
+-The minimum willingnes of a seller to produce another unit of the product. In a perfectly competitive market is the marginal cost of production.
+-When the input price of production decreases,it will shift the supply curve towards the right because the supplier is willing to produce more apples.
+-Another reason for the supply curve to shift is a change in technology. If the production technology gets better, the same amount of input will still lead to an increase in supply. This also shifts the supply curve to the right.
+-The supply curve moves to the left if there is an increase in input cost.
+-An equilibrium is a point where the plans of all market participants are realised simultaneously. At this point you are on the market demand curve and the market supply curve. The maximum willingness to pay and the maximum willingness to produce are the same.
+
+21.7.20
+
+Basics of Elasticity(read Pindyck)
+
+23.7.20
+
+Price Consumption Curve
+-It is defined as the locus of combinations of Good 1 and Good 2 that the consumer will purchase corresponding to different values of relative price, money income remaining constant.
+-If Good 1 is too expensive, the budget line will be just a point located on the Good 2 axis.
+-As Good 1 becomes cheaper, the budget line shifts to the right eventually becoming parallel to the Good 1 axis when Good 1 becomes free.
+
+Check the PDF sent on ICC and PCC. Different cases discussed.

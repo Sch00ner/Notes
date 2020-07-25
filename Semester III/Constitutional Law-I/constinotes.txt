@@ -115,3 +115,73 @@ On 24.6.1975, the appeal was heard. Justice Iyer granted the stay on a condition
 -On 25th June of 1975, Emergency was declared. After this, IG passed the 39th Constitutional Amendment.
 -It inserted Art.329A, which said that matters concerning the elections of Speaker, the President and the Prime Minister could only be decided by the Parliament.
 -It also modified the laws concerning RPA and Election Laws (Amendment) Act, 1974, removing the practices IG was accused of and these were put into the 9th Schedule, thus rendering them toothless.
+
+20.7.20
+
+-The case has now moved into the Supreme Court proper, after its detour into the vacation bench.
+-Art.329A was held invalid as it contravened the Basic Structure. It was struck down even by the loyalist judges.
+-Khanna in this case left it at contravening the Basic Structure. But, the other judges started enumerating the reasons why it contravened the Basic Structure.
+-They said that it has hit separation of powers, eqaulity, rule of law, free and fair elections, democracy.
+-Since, this was a case against the PM, the losing candidate is deprived of his right to approach the court for electoral malpractice. He only has recourse to the Parliament and since the PM is the leader of the party with the largest majority, that is a foregone conclusion.
+-The majority consisting of 4 judges said that BS is available only for constitutional amendments. Since, the laws amended are just ordinary laws, there cannot be a BS inquiry. Since it is under the 9th Schedule, a FR scrutiny also cannot be conducted. It does not violate any other constitutional provision either.
+-Narayan contested that Parliament consisted of no Opposition members and media was also gagged, leading to an absence of public discourse. The SC said that it was not within their ambit to examine how Parliament conducted itself, only that there was a majority.
+-Baig was the only judge who dissented and said that even ordinary laws are also susceptible to BS.
+
+21.7.20
+
+-The 42nd Amendment is passed during the Emergency. It was big enough to be a mini-Constitution by itself.
+-Under this amendment, any law passed on grounds of securing the DPSP cannot be challenged at all. This means that the DPSP is placed above FRs.
+-Sick Textile Undertakings (Nationalisation) Act, 1974 was used to nationalise Minerva Mills, a textile mill. This would be the perfect aggrieved party for Palkhivala to challenge the 42nd Amendment. Since, this nationalisation Act was put in the 9th Schedule, this was a great chance.
+-Without having 368(4 & 5) removed, a constitutional challenge on any provision was not sustainable. Thus, Palkhivala decided to challenge it on these grounds.
+-In 1977, the Emergency was revoked and IG called elections on some bad advice from the IB. IG lost her seat of Raebareli and the Janata Party government came into power.
+-The Janata Party got rid of everything in the 42nd Amendment except Art.368(4 & 5), Secularism and Socialism in the Preamble and the amended Art.31(C).
+-Palkhivala's argument was that Art.368 prevented the SC from exercising any jurisdiction over constitutional amendments. This means that the power to amend was unrestricted, this was a limitation on the BS. This limitation on the BS itself was a violation of the BS, so it must be struck down. This is a self-reinforcing argument, that the BS exists is a merit of the BS itself.
+-The nationalisation has happened before the amendment of Art.31(C). So, how is Palkhivala challenging the amended Art.31(C)? But somehow, the SC acquiesced to his request to argue on this point.
+
+22.7.20
+
+-Whenever a constitutional amendment is declared unconstitutional or any law, then that law is eclipsed but still there. It cannot be used but it is removed only when expressly repealed by the Parliament. Till then, it is there and if later on it is declared constitutional, the law or amendment can be used again. 
+-Minerva Mills- merits part. Palkivala knew that the act he was challenging was passed on the basis of unamended 31 C not the amended one. As said above, he was asked to carry on. He said that he was okay with unamended 31 C which balanced FR and DPSPs. The moment prioritising DPSPs above all FRs, that’s an issue. FRs being made subservient. Specially 14 and 19 which 31 C had mentioned specially. But then 31 was removed from the list of 14, 19 and 31. 
+Chandrachud said that the harmony and balance between DPSPs and FRs is a part of the basic structure. Therefore, the amendment to 31 C was struck down. The expansion was struck down. Not the original 31 C. 
+-Sanjeev Coke Manufacturing Lt v Bharat Coking Coal Ltd (5 judge)- In this case the entire discussion on 31 C was seen as obiter Dicta in Minerva Mills, since it had no relation to the facts at hand. Therefore, not binding on future courts. 
+-Apart from this case, the discussion was accepted as ratio by acquiescence. Like KB case. No one else raised a question. 
+-Vaman Rao case- Whether laws put into the ninth schedule are completely immune?
+-Vaman Rao looks at the validity of all consti amendments upto Kesavananda Bharti. Assuming that the basic structure was present from the starting of the constitution. Tested all amendments. None of the amendment violated the BS. According to them. Including the first amendment. Creating ninth schedule does not violate Basic structure. 
+-But they said, post 24th April, 1973 (KB), every time 9th Schedule is amended to put a law into it, even that is subject to the BS test. Because an amendment is needed to put an ordinary law into the ninth schedule. But that amendment is nothing without the law itself. Anyway, we cannot say that the amendment can be tested but the law cannot be. That will not be logical, there wont be any test if law cannot be tested. Therefore, Vaman Rao says, post 24th April, if anyone is amending the constitution to put an ordinary law into the ninth schedule, that ordinary law will be put to a basic structure test. Not all laws, only ones put into the  ninth schedule.
+-Bhagwati felt that prioritising DPSP over all FRs was not disharmonious. He was the only dissenting judge.
+
+23.7.20
+
+-From 80s to about 2006-7, there is very little jurisprudential development so far as the BS is concerned. 
+-One step back and going back to Indira Gandhi. Some things yet to be discussed on the cases we have done already. 
+-In Indira Nehru Gandhi v. Raj Narain, one question there in everyone’s mind. Fundamental Rights don’t form part of the basic structure? What does it actually mean? Asked of Justice Khanna is this case. Are no FR part of the BS? Khanna said that he never said no FR are part of the BS. All he said that, as a block all FR cannot form a part of the BS. In fact, in this case, equality was considered to be part of the Basic Structure. 
+-Article 31 (Right to Property) was hence repealed from the constitution. It became easy for him, because of Khanna’s position. 
+-In this case, Justice Mathew went so far as to say that if a ninth schedule law is in violation of any such FR which forms a part of the BS, we can scrutinise it. This, in a way, goes against the larger finding of the bench which said that no ordinary law can be put to a BS test. Vaman Rao extended it. 
+-Why did Justice Mathew not do a scrutiny then? As equality was held to be a part of the BS. Because equality formed a part of the BS only according to Chandrachud, not Mathew. Or else maybe he would have. 
+-In Minerva Mills, Justice Chandrachud also said that the relationship between 14, 19 and 21 is a golden triangle and form a part of the basic structure. Not individual rights but only the relationship. This was made by the Maneka Gandhi case, and reiterated in the Minerva Mills case. 
+-So laws put into the ninth schedule cannot be subjected to FR scrutiny but BS scrutiny. What if laws are against FR principles which forms a part of the BS? Answered by Mathew and also Chandrachud in Minerva Mills. Read their points above. 
+-IR Coelho case. By the time it was being heard in 2007, 9th Schedule had 284 laws. 
+-In 2007, case called M Nagaraj v. Union of India. In this case, 77th , 81st, 82nd and 85th were challenged. They had made certain changes to Article 16 because of reservation provisions. No need to understand the holding, too technical and we have to understand reservation provisions. The important part- for the first time the court is trying to evolve a BS test, how to know if a law is against the Basic Structure. It’s a 2-prong test
+-Width test and Identity test. 
+-First stretch the amendment to its maximum extent. Extend the meaning to as many situations as the amendment might come into play. After giving widest possible scope, look at whether any restriction has been violated. If yes, strike down. 
+-2nd- Look at whether the amendment is altering the core identity of the constitution. If yes, strike down. 
+-Both have to be satisfied. 
+-Both are known as essence of rights test. Therefore, the court is looking at principles not the rights and provisions themselves. Gives the example of 14, 19, 21, saying that any law must be reasonable if it hits these articles. So reasonability is the restriction here. It is the essence. Essence can be proportionality or any other principle. They didn’t go beyond rights here. Since the case dealt with Article 16. 
+-The difference finally comes to light in the IR Coelho v. State of Tamil Nadu case. Iske pehle, mostly same principles. It was a long pending case, regarding laws in late 60s. 
+-The law was held to be in violation of FR but despite that the law was put into the ninth Schedule. Can this be done? The law was void ab initio. 
+-The question remained unanswered till 2007. A seven-judge bench in Coelho, Justice Sabharwal was the CJI. Also reconsidered Vaman Rao.
+-They discussed the essence of rights test. What if the entire fundamental rights chapter is undone? The essence of rights test will be of no use. Merely focussing on essence of rights test wont be enough. 
+-The court gave something call the rights test not essence of the rights. Again go back to Mathew and Chandrachud above and then Vaman Rao and Nagaraj. From all of those, the court said there can be FRs which can be part of the Basic Structure. Which ones? 14, 19, 21. He puts numbered articles as part of the BS. He also talks about 15 and 16 along with 14 and Article 32 being part of the BS. It’s a unanimous judgement. Therefore, any law put into the ninth schedule is open to an Article 32 scrutiny. What is it? A fundamental rights scrutiny. So no matter what the ninth schedule says, the moment Article 32 into the BS, all ninth schedule laws subjected to all FRs. 
+-Sir, why did they say that the essence of rights test will be redundant if the entire chapter on FR is undone? Because it talks about individual rights. But laws put into the ninth schedule are fully immune from a FR scrutiny. 
+-The judgement was prospective in nature.
+-Justice Mathew went so far as to say that if a 9th Schedule law is in conflict with any FR which is a part of BS. then it could be scrutinised on the basis of that FR. He said this in the IG case.
+-This deviates from Vaman Rao which said that you could do a complete BS scrutiny. Mathew was much more restrictive in his opinion.
+
+24.7.20
+
+-Post Kesavananda, constitutional amendment, ordinary law put into 9th Schedule is subject to BS. After Coelho, ordinary law under 9th Schedule is subject to entire FRs. Ordinary laws are not part of BS according to IG and Kesavananda, but, some other cases have said they are.
+
+-Kuldeep Nayar said you can't make ordinary laws part of BS. But, other cases have said you can. Madras Bar association case is one such.
+-In S.R. Bommai, 4 BJP governments were dismissed in favour of President's Rule. The SC upheld the dismissal because secularism is a basic feature of the Constitution.
+-There was a corrupt judge in Gujarat with an FIR against him in 1991. The SC took cognisance, quashed the FIR and said to drop all charges and investigations stopped.. The SC said Art.141 & 142 are part of the BS in this case.
+In G.C. Kanungo v State of Orissa, even the Arbitration Act was scrutinised on the basis of BS.
