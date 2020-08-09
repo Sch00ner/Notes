@@ -105,3 +105,28 @@ Price Consumption Curve
 -As Good 1 becomes cheaper, the budget line shifts to the right eventually becoming parallel to the Good 1 axis when Good 1 becomes free.
 
 Check the PDF sent on ICC and PCC. Different cases discussed.
+
+28.7.20
+
+Decomposition of price effect into income & substitution effects (4.2 in Pindyck)
+-Analysing Fig.4.6
+-Since the price of food falls, the exchange rate between clothing vs food has increased, i.e., the consumer can get more food for a unit of clothing than before.
+-The gap between the pale blue budget line and the dotted blue budget line is the totality of compensation.
+
+3.8.20
+
+Theories of Production (Chapter 6 of Pindyck)
+-What is a Firm? According to the Neo classical Theory , a firm is a single owner unit of production which purchases different inputs from factor markets at constant prices, combines them under technological conditions which is represented mathematically by a production function, in order to produce the final output which it sells in the goods market, at constant commodity prices in order to fulfil some objectives , generally profit maximisation.
+-Classical economist include Adam Smith, Hume, Alfred Marshall etc.
+-No mathematical validity was really proposed in the classical era.
+-Classical theory of value entirely looks at the value of the good from the perspective of the production cost.
+-Profit is a payment to a capitalist for making that good in classical theory. Neo-classical considers it as difference between revenue and production cost.
+-There are many such distinctions between classical and neo-classical theories.
+
+4.8.20
+
+-Law of Variable Proportions says that when labour increases initially, output increases at an increasing rate, but after a certain point, output increases at a decreasing rate.
+
+6.8.20
+
+

@@ -185,3 +185,108 @@ Chandrachud said that the harmony and balance between DPSPs and FRs is a part of
 -In S.R. Bommai, 4 BJP governments were dismissed in favour of President's Rule. The SC upheld the dismissal because secularism is a basic feature of the Constitution.
 -There was a corrupt judge in Gujarat with an FIR against him in 1991. The SC took cognisance, quashed the FIR and said to drop all charges and investigations stopped.. The SC said Art.141 & 142 are part of the BS in this case.
 In G.C. Kanungo v State of Orissa, even the Arbitration Act was scrutinised on the basis of BS.
+
+27.7.20
+
+-If Coelho is read in isolation, it leads to the conclusion that the 9th Schedule has been neutered like a puppy.
+
+Glanrock Plantations Pvt Ltd v State of Tamil Nadu
+-Every violation of Art.14 will not be considered in light of BS and FR.
+-If the violation is to such an extent that the underlying principles of Art.14 are endangered only then will it be adjudicated upon BS and FR.
+
+KT Plantations v State of Kerala
+
+Indian Medical Association v Union of India
+-Essence of rights test to be used if the scope of any right is sought to be restricted.
+
+STARTING JUDICIARY
+
+28.7.20
+
+Union of India v Sankalchand Himmatlal Sheth
+-Challenged his transfer from Gujarat HC to AP HC.
+-Government argued that they had had a consultation, but refused to divulge what it entailed.
+-SC said that the consultation has to be a "real, substantial and effective" one and it has to be based on substantial material upon which the decision is made.
+-SC also said that the transfer process is open to judicial review, through the mouth of Chandrachud.
+
+S.P. Gupta v Union of India (First Judges Case)
+-SC says that there is executive primacy in judicial appointments, mellowing its stance.
+-The consultation still has to be meaningful and based on substantial material.
+-But, the President may completely ignore the recommendations of the Chief Justice and it will not be subject to judicial review.
+
+Supreme Court Advocates on Record Association v Union of India 1993 (Second Judges Case)
+-President cannot appoint a judge unless the Chief Justice concurs with him.
+-Primacy has shifted to the judiciary now. (ping pong is a great game)
+-Chief Justice's opinion is the opinion of the collegium and not his alone. The collegium used to be a convention, but through this judgement it gains constitutional validity.
+-Lots of questions raised by the judgement: what is the inner process of the collegium, how it will be constituted, negative aspersions cast on judges whose seniority was ignored etc.
+
+29.7.20
+In re Presidential Reference (Third Judges Case)
+-
+
+3.8.20
+
+Jurisdiction of Courts
+-Original Jurisdiction(OJ) is where to the exclusion of all other courts, you can go straight to the SC with your case.
+-This OJ is outlined in Art.131. But, it is not clear what legal rights are supposed to mean in this context.
+-In 2019, Chattisgarh challenged the NIA has to be declared unconstitutional because it takes away power from State list as police and public order are State matters. Kerala also filed a suit against the Union under 131 for declaring CAA constitutional because it violates Arts.14, 19 & 21.
+-Kerala argued that if the State Government refuses to implement any order by the Central Government under Art.256, it can be a ground for declaring President's Rule under Art.365. This puts Kerala in a spot where the State's legal rights can be curtailed because they refuse to implement an unconstitutional executive order.
+-Govt of WB filed a suit under 131 too because the Union Govt. declared that coal bearing land can be acquired by the Centre, so what happens to the righs of the State?
+-Rajasthan too filed a suit against the Union Govt in 1977 after the General Election results were announced. Charan Singh of the Janata Party wrote a letter to Congress CMs telling them that there had been a revolution against the Congress and they should also step down. Otherwise, Charan Singh threatened to have President's Rule imposed in those nine states.
+-A CM of Karnataka had corruption allegations against him. So, the Union Govt. set up a committee to inquire into these allegations and advised the CM to step down while the investigation was ongoing, returning when he was cleared. Karnataka filed a suit under Art.131 and the Union Govt. said that this does not impugn any rights of the State and only the rights of an individual was the matter here, that being the CM. SC said that the State is inseparable from the State Govt. and it is inseparable from the person who runs it, i.e., the CM, thus the case was not dismissed on grounds of jurisdiction.
+
+4.8.20
+
+Appellate jurisdiction of the Supreme Court
+-Under Art.132(1), only after all HC appeals have been exhausted will an appeal lie to the SC.
+-Under 132, SC appeal could be for any kind of proceeding civil,criminal or otherwise. But,the HC has to certify the appeal on grounds of substantial question of law regarding the Constitution.
+-Certification can be granted when a HC is uncomfortable with the current SC precedent or if there are conflicting HC judgements.
+-Under Art.133, SC appeal will only be for civil matters. But the HC will have to certify that it involves a substantial question of law of general importance. But, this certificate cannot be given by a single judge bench of a HC.
+-SC has directed that single judges of a HC not grant a certificate for appeal to the SC without applying to a division bench of the HC first.
+-Under Art.134, you don't need a certificate to appeal to the SC in two cases. One, where the HC has reversed an acquital by a lower court and has handed out a death sentence. Two, where the HC has taken up a case still being heard by the lower court and then handed out a death sentence. The third provision is the usual manner of the HC granting a certificate to appeal to the SC.
+
+5.8.20
+
+-Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970. Look it up.
+-Election Commission v. Saka Venkata Subba Rao 1953, a single judge gave the certificate for appeal to the SC. RD Agarwala v UOI 1970, a single judge was barred from giving a certificate of appeal to the SC.
+-Art.136 is a very open ended way left open for the SC to hear a case.
+-Pritam Sing v State 1950: Generally speaking, this Court will not grant special leave, unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against.
+-Mathai alias Joby v. George & Another 2010: Criteria for SLPs sought. Referred it to a constitutional bench. Took note of a Venugopal lecture which said that SLPs should be considered only in a narrow set of cases:
+	1. “All matters involving substantial questions of law relating to the interpretation of the Constitution of India.
+
+	2. Substantial questions of law of general importance.
+
+	3. All matters of national or public importance.
+
+	4. Validity of laws, Central and State.
+
+	5. After Kesavananda Bharati, the judicial review of Constitutional Amendments.
+
+	6. To settle differences of opinion of important issues of law between High Courts.
+-This constitution bench after 6 years, delivered its opinion: Upon perusal of the law laid down by this Court in the aforesaid judgments, in our opinion, no effort should be made to restrict the powers of this Court under Article 136 because while exercising its powers under Article 136 of the Constitution of India, this Court can, after considering facts of the case to be decided, very well use its discretion. In the interest of justice, in our view, it would be better to use the said power with circumspection, rather than to limit the power forever.
+
+6.8.20
+
+-Other things SC can also do. After the SC delivers its judgement. Lets say it was a criminal appeal and the SC held someone guilty. Couple of weeks later, it is found that there is a new fact. This new fact will turn the outcome of the case completely. In such cases, the SC is empowered to review its original judgement. 
+-Lets say there was an error apparent on the face of it. Like there was a precedent which would have influenced the case, or a statutory law- to which reference has not been made. These judgements are per incuriam. Here also, SC can review the case. 
+-Third, any other reason. Article 137 (Subject to the provisions of any law made by Parliament or any rules made under article 145, the Supreme Court shall have power to review any judgment pronounced or order made by it) talks about review. Order 47, Rule 1 of the CPC. 
+-Review petitions are filed and on the basis of review petitions SC decides whether or not to accept. 
+-Usually review petitions must be filed within 30 days of judgement. Order 40, Rule 2. Not compulsory of course. New fact may come to light later on. As far as possible, review has to be heard by the same bench. Except in certain circumstances- like if a judge has retired. Or error apparent is that one of the judges has a personal bias in the outcome. Judge must have recused but didn’t. 
+-Reviews are not heard in open courts. The petition is circulated around the chambers. The judges in circulation decide whether to entertain or not. Then they can allow an open court hearing. 
+-Review is not an appeal- not supposed to take new arguments. Limited playing field with the SC. It is the last stage of the SC.
+-2002 case- Rupa Ashoke Hurra v. Ashoke Hurra- SC invoked its powers to do complete justice under 142, SC said that even after a case has been dismissed on review, a case can still be reopened using a curative petition. The constitution does not mention curative petition, SC’s creation. 
+-In a curative petition, a senior lawyer has to sign that a petition is fit for curative petition. Also, it must be heard by the same bench. But which same bench? The one which decided original or the review? This caused some confusion when Afzal Guru’s curative petition was filed. As of now, original bench.
+-If curative petition filed on extremely frivolous grounds even after the lawyer’s signature, it will be dismissed with exemplary costs.
+
+7.8.20
+
+Advisory Jurisdiction of Supreme Court(Art.143)
+-The Council of Ministers through the President can refer matters to the SC.
+-The cause of action may have come about or thought to come around.
+-The SC has the discretion to reply or not.
+-The SC was asked whether or not there was a temple or mosque in Ayodhya in the past.
+-In re the Delhi Law Act, AIR 1951 SC 332 was the first time SC was asked for advice.
+-In re Kerala Education Bill, AIR 1958 SC 956 was the second time the SC was asked for advice. The SC, in this case, said that they were not bound to mandatorily reply when asked for advice.
+-Minimum number of judges for this is five.
+-This advice is not the law of the land and binding, technically speaking.
+-However, there was the case of In re Special Courts Bill, AIR 1979 SC 478. This bill was brought forward by Ram Jethmalani to set up courts to prosecute Emergency related violations. In this case, Chandrachud said, “It would be strange that a decision given by this Court on a question of law in a dispute between two private parties should be binding on all courts in this country but the advisory opinion should bind no one at all, even if, as in the instant case, it is given after issuing notice to all interested parties, after hearing everyone concerned.”

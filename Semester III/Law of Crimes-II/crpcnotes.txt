@@ -247,3 +247,67 @@ Arrest with a warrant
 -In a warrant case, a warrant is normally issued.
 -In a summons case, a warrant maybe issued if the accused is absconding.
 
+27.7.20
+
+-In a summons case, there is a form through which a person is told where to come, which court to be at etc.
+-Summons needs to be signed by the presiding officer in the case, the judge who is handling it.
+-Summons has been served through WhatsApp and email recently by the permission of the court. It is supposed to be served personally accordinh=g to CrPC.
+-If a person has moved away, the court is supposed to contact the court of the jurisdiction where the person is currently residing to summon the person.
+-Summons case is defined under Sec.2(w).
+-Summons served through WhatsApp will count as delivered and acknowledged if read receipts are confirmed. If read receipts are turned off, delivery will count. Unclear on how emails work. Traditionally, summons are made in duplicate and a copy has to be signed by the summonee which will form part of the record of the case.
+
+DK Basu v State of West Bengal discussed - Read the case.
+-DK Basu guidelines were implemented in the CrPC, but trial courts don't really abide by it.
+
+28.7.20
+
+Sec.41 and others
+-Honestly just read the sections, nothing too special.
+
+Sec.42
+-Police can just detain you for roaming around at night.
+-Have to share your details truthfully with the police when asked or risk jail.
+-I'm too miffed to write about this anymore.
+
+Arrest by a private person
+-Reasonable belief there is commission of non-bailable and cognisable offence.
+-Citizen will have the right to confine and arrest this person.
+-Police officer has to be immediately informed so they can come and arrest this person properly.
+
+Sec.44
+-Practically, the Magistrate doesn't really arrest anyone personally.
+
+Sec.45
+-Armed forces personnel can't be arrested in the normal procedure.
+
+Sec.46
+-Procedure for actually making an arrest.
+-Getting a woman to sit in the lobby of the police station cannot be considered arrest.
+
+3.8.20
+
+-A case diary is referred to under Sec.172. It must contain when an investigation was assigned to and started by an officer. It must also contain daily logs of every day, when he started and stopped his investigation on each day.
+-Every cog case must have this diary which contains details of daily investigations.
+-It must also contain medical and inquest reports, market value and dimensions of stolen property etc, according to the case.
+-Almost every detail of an investigation of a cog case is to be recorded in the case diary.
+-Chargesheet has to be submitted by the police to the magistrate to start the trial.
+-A Final Report may be issued at the closing of an investigation. Both in cases where there is a lack of evidence and in cases where trhe accused isn't charged.
+
+7.8.20
+
+Pre-trial Stages
+-Take cognisance of offence.
+-Scrutinising the evidence to see if offence has been committed or not.
+-To issue process against the accused to seek his presence.
+-To provide the accused with documents he is entitled to under Sec.207.
+-If accused pleads guilty, no trial.
+
+Who will start the trial?
+-Public prosecutor will open the trial.
+-The trial is not supposed to support any theory brought forward.
+-It is supposed to establish the innocence or guilt of the accused.
+
+8.8.20
+
+Chapter XV - Complaints to Magistrates
+Just read the sections.
