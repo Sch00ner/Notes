@@ -300,7 +300,8 @@ Pre-trial Stages
 -Scrutinising the evidence to see if offence has been committed or not.
 -To issue process against the accused to seek his presence.
 -To provide the accused with documents he is entitled to under Sec.207.
--If accused pleads guilty, no trial.
+-If accused pleads guilty and court accepts it, no trial.
+-In case of guilty plea, the magistrate decides whether to accept it or not.
 
 Who will start the trial?
 -Public prosecutor will open the trial.
@@ -311,3 +312,22 @@ Who will start the trial?
 
 Chapter XV - Complaints to Magistrates
 Just read the sections.
+
+10.8.20
+
+What is the meaning of "justice" and "access" that has to be measured?
+
+-Court will decide whether prosecution can withdraw from the trial under Sec.321.
+
+
+14.8.20
+
+-Annual Confidential Report (ACR) maintained by the judiciary gives points for conducting a trial fully. Heinous crimes have higher point allocation and conviction is not needed, only that the trial is fully conudcted.
+-Stakeholders of Criminal Justice System:
+	1.Police
+	2.Public Prosecutor
+	3.Courts
+
+-Framing of Charge (Sec. 228)
+-Sessions cases is 227 and warrant cases are 239 in case of discharge.
+-Check VC Shukla v State

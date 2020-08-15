@@ -127,6 +127,14 @@ Theories of Production (Chapter 6 of Pindyck)
 
 -Law of Variable Proportions says that when labour increases initially, output increases at an increasing rate, but after a certain point, output increases at a decreasing rate.
 
-6.8.20
+13.8.20
 
+Example 6.1 and 6.2 discussed. Read from Pindyck.
 
+14.8.20
+
+Returns to Scale (6.4 in Pindyck)
+
+Returns to Factor (See Law of Variable Proportions)
+
+Finish reading Production chapter.

@@ -290,3 +290,62 @@ Advisory Jurisdiction of Supreme Court(Art.143)
 -Minimum number of judges for this is five.
 -This advice is not the law of the land and binding, technically speaking.
 -However, there was the case of In re Special Courts Bill, AIR 1979 SC 478. This bill was brought forward by Ram Jethmalani to set up courts to prosecute Emergency related violations. In this case, Chandrachud said, “It would be strange that a decision given by this Court on a question of law in a dispute between two private parties should be binding on all courts in this country but the advisory opinion should bind no one at all, even if, as in the instant case, it is given after issuing notice to all interested parties, after hearing everyone concerned.”
+
+10.8.20
+
+Tribunals
+-They were set up in the 50s to lessen the load on the courts.
+-It has morphed into specialised technical bodies which deal with specific matters.
+-14th Report says tribunals should only be created for very narrow fields.
+-HC Arrears Committee headed by Justice Shah set up in 1972 to look at the backlog of cases in HCs.
+-6th Law Commission Report says tribunals should not be set up at all.
+-Sardar Swaran Singh Committee recommended:
+	1.Tribunals should be set up for every cases.
+	2.They should substitute the HC for all practical purposes.
+	3.Tribunal decisions should only be reviewed by the SC under Art.136.
+	4.Tribunals should be run by government appointed candidates.
+	5.HCs' writ jurisdiction should be curtailed.
+	6.HC and the SC shall not be allowed to test the constitutionality of any law.
+-Most of Swaran Singh's recommendations were instituted by the 42nd Amendment.
+-Rajiv Gandhi passed Administrative Tribunals Act in 1985. It is a near copy of Art.323A.
+-S.P. Sampath Kumar brings a motion against the Tribunals Act for being unconstitutional.
+-The case was heard by Bhagwati Ranganath Mishra.
+-Bhagwati suggested some changes:
+	1.Ensure that at least one member was a judicial member with knowledge of the law.
+	2.Tribunals need to be set up at the seat of the HC.
+	3.Appeals can also be heard by the SC under Art.32.
+-Parliament enacted these changes and the bench said it was cured of defects and let the Act go through.
+-Sampath Kumar says the problems still exist and the SC takes up the case again with a constitution bench.
+-In the appeal, Ranganath picks a part of the Bhagwati's minority judgement from Minerva Mills and says tribunals are an effective alternative institutional mechanism to judicial review by the courts themselves.
+-Since, the judgements in Minerva Mills were delivered simultaneously, no one had the chance to challenge Bhagwati's version and he used this in the Sampath Kumar appeal to bolster his case. This was a decidedly false narrative set up by him.
+
+13.8.20
+
+-National Company Law Tribunal was brought into existence to consolidate all the fora for resolving disputes.
+-NCLT was challenged by R. Gandhi, president of the Madras Bar Association. It impairs judicial independence and separation of powers, according to him and gives the government too much power.
+-Judge agreed with this petition and declared it unconstitutional. Only the part establishing the NCLT was struck down and the other parts were allowed to proceed.
+-National Tax Tribunal set up in 2014 to hear cases from state Appellate Tax Tribunals. This meant you could bypass HCs. This was struck down in the case of Madras Bar Association 1 v UOI.
+-Several reasons were given:
+	1.Lessening the load on HCs.
+	2.Multiple interpretations from different HCs is too confusing.
+	3.Need for specialist tax jurists.
+-Entire law was held unconstitutional. Justice Kehar and Justice Nariman gave several reasons for this:
+	1.Tribunal was substituting and not supplementing HCs.
+-In Madras Bar Association 2 in 2015, the SC said that if the recommendations in R. Gandhi case were implemented, the legislation could be allowed to stand. This is why NCLT continues to operate to this day, as the recommendations were accepted.
+
+14.8.20
+
+-In the case of Surya Dev Rai v Ram Chander Rai (2003) the SC pointed out some differences between Art.226 and Art.227
+-Writ of certiorari is like original jurisdiction and power of superintendence is more akin to appellate jurisdiction.
+-In certiorari, the HC can quash the proceedings. But, under 227, HC can quash as well as direct the handling of the case.
+-Certiorari has to be applied for. Art.227 authorises the HC to suo moto issue directions without any application on part of the parties.
+
+-In the case BCCI v Cricket Association of Bihar (2015), SC said BCCI is not state, but its administration of cricket is of a public nature so enforcing under Art.226 is possible, but Art.32 is just for enforcement of FR.
+-This shows that Art. 226 much wider than Art.32, meant for the use of any other purpose.
+
+-In the case Maharashtra Chess Association v. Union of India the following was said
+-“The existence of an alternate remedy, whether adequate or not, does not alter the fundamentally discretionary nature of the High Court’s writ jurisdiction and therefore does not create an absolute legal bar on the exercise of the writ jurisdiction by a High Court.”
+-“The intention behind this self-imposed rule is clear. If High Courts were to exercise their writ jurisdiction so widely as to regularly override statutory appellate procedures, they would themselves become inundated with a vast number of cases to the detriment of the litigants in those cases.”
+-“The mere existence of alternate forums where the aggrieved party may secure relief does not create a legal bar on a High Court to exercise its writ jurisdiction. It is a factor to be taken into consideration by the High Court amongst several factors.”
+
+-In the case M/s Shiur Sakhar Karkhana Pvt. Ltd. v. State Bank Of India it was said that the presence of an alternative and efficacious remedy is not an absolute bar on the jurisdiction of the High Court under Article 226 of the Constitution, and is a rule of discretion and self-imposed limitation rather than that of law.
