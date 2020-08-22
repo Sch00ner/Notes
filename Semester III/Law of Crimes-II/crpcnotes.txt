@@ -328,6 +328,25 @@ What is the meaning of "justice" and "access" that has to be measured?
 	2.Public Prosecutor
 	3.Courts
 
--Framing of Charge (Sec. 228)
+Framing of Charge (Sec. 228)
 -Sessions cases is 227 and warrant cases are 239 in case of discharge.
 -Check VC Shukla v State
+
+21.8.20
+
+
+22.8.20
+
+Trial of Summons Case
+-Summons orders issued by Magistrate to bring any person/witness in a case-duplicate, signed by presiding officer, counter signed upon serving.
+-Summons are issued for fair trial and to gather information.
+-Any cases which are not warrant cases Sec.251-259
+	1.Accusation under Sec.251- Informed why he is brought and asked whether he is guilty.
+	2.Plea under Sec.252- If pleads guilty would convict and note the statement in the language as stated by the accused.
+	3.Absence of accused in petty cases under Sec.253- No need of actual presence but can send the plea through post/pleader which contains his guilty plea. Magistrate can convict and sentence during the absence of the accused and pass a sentence or fine.
+	4.When not convicted under Sec.254- Take all evidence including that of the accused into consideration. Issue process/summons and bring witnesses. Under Sec.254(3) all witness expenses to be deposited with trial court.
+	5.Acquitaal/Conviction under Sec.255- Upon consideration of the evidence, the conviction or acquittal shall be decided. Facts admitted by accused can also be used to convict the accused.
+	6.When complainant has not appeared/died under Sec.256- Magistrate may acquit the accused or do away with the personal attendance of the complainant if appearing through his pleader.
+	7.Permission for withdrawal of complaint under Sec.257- 
+	8.CJM/JM/Any 1st class Magistrate can stop proceeding under Sec.258
+	9.Conversion into warrant case under Sec.259- The case can be converted if evidence comes to light that befits a warrant case.

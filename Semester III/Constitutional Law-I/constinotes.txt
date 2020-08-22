@@ -349,3 +349,41 @@ Tribunals
 -“The mere existence of alternate forums where the aggrieved party may secure relief does not create a legal bar on a High Court to exercise its writ jurisdiction. It is a factor to be taken into consideration by the High Court amongst several factors.”
 
 -In the case M/s Shiur Sakhar Karkhana Pvt. Ltd. v. State Bank Of India it was said that the presence of an alternative and efficacious remedy is not an absolute bar on the jurisdiction of the High Court under Article 226 of the Constitution, and is a rule of discretion and self-imposed limitation rather than that of law.
+
+17.8.20
+
+Office of Profit
+-Art. 102(1)(A) and 191(1)(A)
+-Five tests to figure out if it's an office of profit:
+(i) whether the government is the appointing authority, (ii) whether the government has the power to terminate the appointment, (iii) whether the government determines the remuneration, (iv) what is the source of remuneration, and (v) the power that comes with the position.
+-These tests were decided in the cases of Gurugobinda Basu vs Sankari Prasad Ghosal and Satrucharla Chandrasekhar Raju v. Vyricherla Pradeep Kumar Dev.
+-THE PARLIAMENT (PREVENTION OF DISQUALIFICATION) ACT, 1959: http://legislative.gov.in/sites/default/files/A1959-10.pdf
+-Jaya Bacchan was the Chairperson of the UP Films Development Corporation and this was taken as a reason to disqualify her from Parliament.
+-Jaya said that she was voluntarily not being remunerated for this position, thus she was not profiting from this and so, it did not count as an Office of Profit. However, she was still disqualified.
+-Even Sonia Gandhi was accused of holding an Office of Profit as she was a member of the National Advisory Council. Before she could also be disqualified, Sonia Gandhi resigned.
+-Jaya approached the SC. SC said that in Office of Profit, the Office was more important than the Profit part. The disqualification was held to be valid.
+-The SC said that a person could be influenced by their position in an Office of Profit even if they were not receiving any emoluments.
+
+18.8.20
+
+
+
+19.8.20
+
+
+
+20.8.20
+
+
+
+21.8.20
+
+-MSM Sharma v Sri Krishna Sinha: Sharma was the editor of a paer called Searchlight and the Speaker of the Bihar Legislature said certain portions would be expunged. Searchlight still published the expunged portions and this was held to be a breach of privilege. Sharma went ahead and filed a writ with SC. Sharma argued that Art.19(2) does not contain parliamentary privilege as a reason to restrict freedom of speech and expression under Art.19(1) and thus, his right to report could not be restricted on grounds that didn't exist. However, since Art.105 and 194 are special provisions and these provisions were also present in the British Parliament, which the judges referred to, the general premise of freedom of speech and expression would not prevail over parliamentary privilege.
+
+-Keshav Singh case: Keshav Singh was distributing pamphlets that criticised a parliamentarian and the Speaker. The then Speaker of UP Legislature, asked for this man to be imprisoned, which is a power the Speaker has. The man had his lawyer, Solomon, filed a Habeas Corpus writ with the Allahabad HC. HC said that the man should be released, but before he could be released the next day, the SPeaker declared that Solomon and the judges who heard the case should also be put behind bars. The full HC sat down and appealed to the Centre to ask the President to refer this matter to the SC. Seervai argued that there should not be any limitations placed on legislative provisions and things like this should only be dealt with on a case-by-case basis. Setalvad argued that MSM Sharma should be revisited and FRs should prevail over Parliamentary privileges. The SC finally held that Legislative privileges are subject to restrictions like FR and the privileges would have to be balanced with the FRs. So, while Keshav Singh's FR could be restricted in this case, those of the Solomon and the judges who heard the case would have to be protected.
+
+-P.V. Narasimha Rao v State: Shibu Soren said that my party against the government, Ajit Singh and his supporters also said the same. But, when the vote actually came around, these people voted for the government. There were allegations of bribetaking. The CBI wanted to start Prevention of Corruption Act investigatrions against them. But, Parliament said that as MPs, they were immunised against criminal prosecution. When the case went to the SC, a 5-judge bench of the SC decided that proceedings could only be started against the bribe-givers and not bribe-takers because their Parliamentary privilege extends to whatever they do inside the House.
+
+-Raja Rampal Singh v Hon'ble Speaker of LS: Popularly known as the Cash for Questions scam, several MPs were expelled by the then SPeaker, Somnath CHatterjee, for taking bribes. These MPs appealed to the SC. First argument, the Speaker cannot expel an elected member of the House. The SC said that the Speaker had the power and it was Parliament's prerogative to do so. If an MP has gone against the basic ethical and moral boundaries, the Speaker has the right to expel them. However, if the Speaker's decision was not based on good reason, the Court had a limited power of judicial review.
+
+-Speaker expelled Amarinder Singh from the Punjab Legislature. Amarinder Singh went to the Court which relied on Raja Rampal and said that Amarinder Singh could not be expelled for something he had done in the course of his executive authority. Thus, Amarinder Singh's seat was restored.

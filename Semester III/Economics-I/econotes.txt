@@ -15,6 +15,14 @@ Developmental economics in the vein of Amartya Sen.
 7.7.20
 
 Axiom of Completeness
+-Assume that the consumer can compare any two combina­tions of the goods—he may prefer one to the other or he may be indifferent between the two. This axiom ensures that the consumer is able to make a choice or express neutrality between any two commodity combinations.
+	(a) If a combination A is strictly preferred to another combination B, then it can be written as A > B.
+
+	(b) If a combination A is at least as preferred as another combination B, it can be  written as A ≥ B. In this case, it can be also said that the consumer weakly prefers A to B.
+
+	(c) If the consumer is indifferent or neutral between the combinations A and B, it can be written as A ~ B.
+
+	(d) If the consumer weakly prefers A to B and B to A, then it can be concluded that he is indifferent between the two combinations. That is, A ≥ B and B ≥ A => A ~ B. 
 
 Axiom of Transitivity
 -If A>B and B>C, then A>C
@@ -138,3 +146,29 @@ Returns to Scale (6.4 in Pindyck)
 Returns to Factor (See Law of Variable Proportions)
 
 Finish reading Production chapter.
+
+17.8.20
+
+Production Cost in the Long Run (7.3 in Pindyck)
+r*K=Total capital cost of production
+w*L + r*K = Total cost of production
+r = capital rent, K = capital, w = wage rate, L = labour
+
+Slope of Isocost Line = |w/r|
+-The assumption here is that the the industrialist is a perfectly competitive buyer in the factor market.
+-This means that the indutrialist does not possess any monopsony power in the labour or the capital market
+
+21.8.20
+
+Cost of Production (Chapter 7 in Pindyck)
+
+Opportunity cost
+-The cost of another venture that cannot be attended to if we choose to go forward with the primary venture.
+-The expected profit from the primary venture needs to be more than the other venture for one to rationally engage in the primary venture.
+-In a perfectly competitive market, the economist would say that the opportunity cost of not engaging in the other venture is the normal profit of an entrepreneur.
+
+Sunk Cost
+-A cost that cannot be recovered.
+-A cost that has already been paid should not be considered in future endeavours.
+
+Short Run Cost of Production (7.2 in Pindyck)
