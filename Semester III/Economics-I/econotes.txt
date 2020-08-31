@@ -172,3 +172,15 @@ Sunk Cost
 -A cost that has already been paid should not be considered in future endeavours.
 
 Short Run Cost of Production (7.2 in Pindyck)
+
+24.8.2020
+
+-Specialisation gain from workers concentrating one type of work.
+-Gains from division of labour accrue to the firm.
+-However, wages will be the same for every worker as you are a small producer and you can't affect market wage rates.
+-MArginal Cost will fall during the initial phase. But, after a certain point of production, it will take an upward turn. This is the same for average cost.
+-The short run total cost curve will be concave for the initial period and then convex as it slopes upwards.
+
+25.8.20
+
+Long Run COst of Production (7.3 in Pindyck)

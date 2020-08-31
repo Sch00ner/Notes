@@ -350,3 +350,43 @@ Trial of Summons Case
 	7.Permission for withdrawal of complaint under Sec.257- 
 	8.CJM/JM/Any 1st class Magistrate can stop proceeding under Sec.258
 	9.Conversion into warrant case under Sec.259- The case can be converted if evidence comes to light that befits a warrant case.
+
+24.8.20
+
+Summary Trials (Sec.260-265)
+-Who has the power to try summarily?
+-CJM/Any Metropolitan Magistrate/Any 1st class Magistrate empowered by HC (this empowerment is given by default)
+-Which offences?
+-Not punishable by death, life imprisonment or imprisonment exceeding 2 years. Theft under Sec.379/380/381, not exceeding property value of 2k INR. Offences involving stolen property under Sec.411, must not exceed value of 2k INR. Assisting in concealement/disposal of stolen property under Sec.414, where value does not exceed 2k INR. Offences under Sec.454 and 456. Offences under Sec.504 and criminal intimidation with upto 2 years imprisonment or with fine or with both. Offence under Sec.506. Also, abetment and attempt of all offences listed.
+-Powers of magistrate?
+-If the magistrate finds it cannot be tried summarily, he can recall witnesses and examine and re-hear witnesses.
+-2nd class Magistrates can also try if empowered by HC. Offences punished with fine or maximum 6 months imprisonment under Sec.261.
+-Maximum punishment may be 2 years, but only 3 months maximum sentence can be passed in Summary Trials.
+-The procedure followed will be similar to that in Summons Cases.
+-Records have to be kept as according to Sec.263.
+-Judgement with reasons recorded under Sec.264.
+
+25.8.20
+
+Sec.272-299 covered today
+
+-Even seeing the accused with the naked eye can be a form of revictimisation.
+
+-Whenever the accused is examined in the court, the whole thing will be recorded in the language he is examined in.
+-However, the records will also be translated into the language of the court and any mistakes in translation will be rectified.
+-This recording will also be made known to the accused for his examination.
+
+27.8.20
+
+https://ecourts.gov.in/ecourts_home/forms/Vakalatnama%20form.pdf
+Rekha Murarka vs The State Of West Bengal
+Mallikarjun vs State Of Karnataka
+
+31.8.20
+
+Sec.305
+-If companies/societies commit any wrong, this is the section that handles it.
+-Power to nominate a representative who will represent them in court.
+
+Mohan Lal and another Vs State of Punjab – 2013 (12) SCC 519.
+

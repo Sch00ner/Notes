@@ -2,7 +2,7 @@
 
 -Pakistan SC had an inkling of the Basic Structure doctrine in the 1960s.No precedence as such. Restricting the powers of the Parliament to amend the constitution.
 -A similar concept with no precedent is Fraud on the Constitution.
--Ordinances can be misused to propagate such a fraud on the Constitution. These ordinances are meant to be interim measures. The Parliament needs to be ratified within 6 weeks of it reconvening to be made a permanent law. But, ordinances can be continuously repromulgated to keep them in force. In Bihar, ordinances have been renewed like this for 32 years. The Constitution has no bar on such extended renewal. This is a way of circumventing Parliamentary scrutiny.
+-Ordinances can be misused to propagate such a fraud on the Constitution. These ordinances are meant to be interim measures. The Parliament needs to be ratified within 6 weeks of it reconvening to be made a permanent law. But, ordinances can be continuously repromulgated to keep them in force. In Bihar, ordinances have been renewed like this for 32 years which was held as a Fraud on the Constitution in the case of Krishna Kumar Singh v State of Bihar. The Constitution has no bar on such extended renewal. This is a way of circumventing Parliamentary scrutiny.
 -Secretiveness is not desirable in all cases. For nuclear tests, yes. But, it can have a deleterious effect on the democratic system of governance if all acts were secret.
 -Doctrine of enduring rights: Ordinance and its promulgation.
 
@@ -19,8 +19,8 @@ Constitutionalism = https://plato.stanford.edu/entries/constitutionalism/
 Amendment of the Constitution
 -When the federal mechanisms are being affected, half the State Legislatures have to ratify the amendment under Art.368(2)
 -Bihar Darbhanga case. Related to the Fundamental Right of Property. Argued by N.C. Chatterjee(father of Somnath Chatterjee) on behalf of the king of Darbhanga. He won the case and the court declared the particular land reform law unconstitutional.
--Art 31(A) & (B) brought in by amendment after the above case. Declared that estate laws would be beyond the scrutiny of courts. Brought in a Ninth Schedule to the Constitution, which said that whichever law was brought under this Schedule could not be scrutinised on the basis of Fundamental Rights.
--Shankari Prasad Singh Deo challenged this first constitutional amendment. Argued that the Parliament does not have an absolite power to amend the Constitution. No Fundamental Rights could be changed, according to him. Art.13 says that FRs cannot be derogated. Two questions were framed by the SC in relation to this case:
+-Art 31(A) & (B) brought in by amendment after the above case, this would be the 1st Constitutional Amendment. Declared that estate laws would be beyond the scrutiny of courts. Brought in a Ninth Schedule to the Constitution, which said that whichever law was brought under this Schedule could not be scrutinised on the basis of Fundamental Rights.
+-Shankari Prasad Singh Deo challenged this first constitutional amendment. Argued that the Parliament does not have an absolute power to amend the Constitution. No Fundamental Rights could be changed, according to him. Art.13 says that FRs cannot be derogated. Two questions were framed by the SC in relation to this case:
 	1. Is an amendment a law?
 	2.Can Fundamental Rights be amended?
 -CJI Patanjali Shastri delivered the judgement. The SC said that amendments are not law. Law making is an act of legislative power, but constitutional amendments are made in the scope of the Constituent power of the Parliament. It is as if the Parliament steps into the shoes of the Constituent Assembly. Thus, FRs could be amended because amendments are outside the scope of "law", as under Art.13. This means that FRs could be amended ad infinitum with no restrictions upon the power of Parliament to change them.
@@ -31,16 +31,19 @@ State of WB v Bela Banerjee
 State of WB v Subodh Gopal Bose
 Dwarkadas Srinivas v Sholapur Spinning Company
 -All these three cases were about land reform laws. The plea was to pay compensation at market rates for land confiscated under these laws.
+-The cases were successful and SC strikes down provisions of various Land Reform laws.
+-4th Amendment passed because of these judgements. Added a clause to Art.31 that put all social welfare legislation outside the purview of judicial review.
 -Compulsory acquisitioning of property: A nominal amount paid for the compulsory acquisition of any property. This amount is not negotiable or justiciable.
 -Deprivation of property by operation of regulatory laws: No compensation to be paid for any property removed from one's ownership as a result of land reform laws.
--Hidayatullah and Mudholkar raised questions upon the power of the government to change the Constitution at their will, in the Sajjan Singh case.
+-Hidayatullah and Mudholkar raised questions upon the power of the government to change the Constitution at their will, in the Sajjan Singh case. But, they still upheld that Constitutional Amendments were pretty much unlimited in their scope.
+-Mudholkar wondered whether making a change in the "basic feature" of the Constitution would be merely an amendment or a rewriting of the Constitution and if such rewriting could be justified by Art.368. First time Basic Features were discussed.
 
 9.7.20
 
 -IC Golaknath case: Subbarao says that power to amend the Constitution is also a legislative power coming from Art.245 and 246. That there is nothing called constituent power. Thus, all powers of the Parliament is legislative.
--AG counters by saying that nothing in the Lists under 7th Schedule stating Constitutional amendments. Subbarao says that the power to make such amendments is a function of the residuary powers under the Union List, specifically Entry 97.
+-AG counters by saying that nothing in the Lists under 7th Schedule stating Constitutional amendments. Subbarao says that the power to make such amendments is a function of the residuary powers under the Union List, specifically Entry 97, read with Art. 248, while the legislative powers are contained in Art.245 & 246.
 -Criticism of this judgement stems from the fact that Constitutional amendments are too important to be left upto just the residuary entry of the Union List.
--Doctrine of Prospective Over-ruling comes from this. In this case, Golaknath does not get this land back, but the Government would not be able acquire any more land under such land reform laws.
+-Doctrine of Prospective Over-ruling comes from this. In this case, Golaknath does not get this land back, but the Government would not be able acquire any more land under such land reform laws. Because a lot of work had already been done on the land, handing it back would become an unmanageable exercise.
 
 10.7.20
 
@@ -52,18 +55,33 @@ Dwarkadas Srinivas v Sholapur Spinning Company
 -IG had exactly 250 members needed to pass the Bill in the RS. but, one of them disappeared. Thus, the Bill failed and the whole exercise was futile.
 -A Presidential proclamation was passed the next day de-recognising all princely state rulers. Thus, the privy purse was abolished de-facto, since no one could receive the money.
 -Nationalisation of banks is challenged in the case of RC Cooper v Union of India and princely state de-recognition was challenged in Madhav Rao Jivaji Scindia v UOI.
--RC Cooper struck down the bank nationalisation Act because it violated the Fundamental Rights with a ratio of 10:1 judges.
+-RC Cooper struck down the bank nationalisation Act because it violated the Fundamental Rights with a ratio of 10:1 judges. It went against Art.14, 19(1)(F) and 31 of the Constitution.
 -De-recognition of princely states was also struck down with a majority of 9:2.
 -AN Ray was part of the dissent in both cases. Later, he went on to become the CJI superseding 3 other justices.
--After her re-election in 1971, she brought about the 24th Constitutional amendment. amending Art.13 & 368. Explicitly stated now that Constitutional amendments are not laws and the power to amend the Constitution flows from 368.
--Art.31(C) was introduced too, in the subsequent 25th amendment. It deprived the power the of the courts to examine any law passed under this Article.
--Another amendment was passed in the same year, repealing the provision of privy purses under Art.292.
+-After her re-election in 1971, she brought about the 24th Constitutional amendment. amending Art.13 & 368. Explicitly stated now that Constitutional amendments are not laws and the power to amend the Constitution flows from 368, adding Art.368(1) to achieve this effect. Art.368(3) and Art.13(4) also added, nullifying the power of Art.13 over any amendments made under Art.368.
+-Art.31(C) was introduced too, in the subsequent 25th amendment. It deprived the power the of the courts to examine any law passed under this Article which were to secure the DPSP. It also changed the word compensation to amount in Art.31(2), so as to nullify RC Cooper because amount would not raise questions of loss or proportionality, unlike compensation.
+-Another amendment was passed in the same year, the 26th Amendment, repealing the provision of privy purses under Art.292.
 -In the 29th amendment, Kerala Land Reform and Kerala Land Reform Amendment Acts were included in the 9th Schedule. This led to a man called Kesavananda Bharati losing a lot of property.
--KB didn't really care about it, but he was persuaded by someparties to pursue this in the SC. Nani Palkhivala along with his junior Soli Sorabjee took up the case in the SC.
+-KB didn't really care about it, but he was persuaded by some parties to pursue this in the SC. Nani Palkhivala along with his junior Soli Sorabjee took up the case in the SC, challenging the 24th, 25th and 29th amendments.
 
 13.7.20
 
-This was story time.
+-German Scholar Conrad in BHU- critical point he raised.
+-Constitution running well and all but is it robust enough to counter a potential destruction? The question is ‘What if?’. 
+-Nani Palkivala and co took this seriously. They thought, something needed to be done. The question set forth by Conrad became the seeds of the basic structure doctrine. The doctrine came in from the ‘what if’ question. 
+-Some other incidents about Kesavananda Bharti – background to it. 
+-Palkivala, Sorbajee and Nariman and other big names fighting the case. The Attorney General was Niren Dey, who was decent but not like Palkivala. 
+-So government wanted to send someone equal against Palkivala- he was HM Seervai. 
+-Once Palkivala was cornered by the judges, he was feeling a little iffy. He needed an authority. He asked for a day. Palkivala comes across with an authority- HM Seervai’s book. Seervai stopped talking to him. 
+-SC had 12 judges then, Golaknath had 11. So they needed a larger bench. Ad-hoc judges can be drafted into the SC under the Constitution. 
+-Naturally, the government will cherry-pick. One Judge from Allahabad HC, other is from Calcutta HC- these two with the government. 
+-Calcutta HC Mookerjee crossed over and did not stay with the government. 
+-AN Ray was in minority even here. 
+-The matter was heard on a day-to-day basis. Chief Justice was set to retire. If retires before judgement, back to square one. 
+-The government started delaying when tables started to turn. Justice Beg got into a hospital to delay. Attorney general did not come once. 
+-Government wanted to delay such that Sikri retires. Sikri continued somehow. 
+
+-Kesavananda Bharti does not have a specific ratio. Many different opinions. They brought out a summary- unprecedented. The summary was signed by 9/13 judges. All we have is that summary, not signed by all. 
 
 14.7.20
 
@@ -82,7 +100,7 @@ Kesavananda Bharati
 
 H.R. Khanna
 -Khanna points out several logical fallacies in IC Golaknath
-	1.Art. 245 which Subbarao says forms the power of making the amendments. There is a logical fallacy inherent in the Article itself. How can you change the provisions that you're also subject to, as outlined in Art.245.
+	1.Art. 245 which Subbarao says forms the power of making the amendments. There is a logical fallacy inherent in the Article itself. How can you change the provisions that you're also subject to, as outlined in Art.245?
 	2.Subbarao says the power to make amendments flow from the Union List. But, for certain amendments even the states need to consent. So, how is it possible that this falls under the Union List?
 	3.In multiple places in the Constitution you can find references to terms such as "Constitution and the law". This means that equating the Constitution with the law would be disastrous in the long run.
 -Khanna does not specify what the Basic Structure is, in the judgement. Because he was wary that the government would use this knowledge to circumvent such protections.
@@ -93,16 +111,17 @@ H.R. Khanna(contd.)
 -He ascertained that principles form part of the Basic Structure and not numbered constitutional provisions themselves.
 -Logic being that FRs may need to be amended in the future and it would be a disservice to the nation to restrict their scope.
 -There was a draft Art.304A which stated that FRs cannot be amended. This was rejected in the Constituent Assemsbly as amendments may be needed for future circumstances.
--Since the first Constitutional Amendment had been done in 1951 by members of the Constituent Assembly members acting as Parliament themselves, it would be illogical to say that FRs cannot be amended as Subbarao said.
--The Principle of Contemporaneous Exposition is that the true spirit of a law(or in this case, the Constitution) is to be found when it is interpreted according to the times it was constructed in and putting yourselves in the shoes of the makers. This extends to how the original makers themselves implemented and/or treated these provisions.
--By implication it means that the last part of 31C is strcuk down because it contravenes Basic Structure.
--Basic Structure is used only to evaluate constitutional amendments.
--25th and 29th constitutional amendments are valid.
+-Since the first Constitutional Amendment had been populated in 1951 by members of the Constituent Assembly members acting as Parliament themselves, it would be illogical to say that FRs cannot be amended as Subbarao said.
+-The Doctrine of Contemporaneous Exposition is that the true spirit of a law(or in this case, the Constitution) is to be found when it is interpreted according to the times it was constructed in and putting yourselves in the shoes of the makers. This extends to how the original makers themselves implemented and/or treated these provisions.
+-By implication it means that the last part of 31C is struck down because it contravenes Basic Structure by restricting judicial review.
+-Basic Structure is used only to evaluate constitutional amendments. For statutory evaluation, Art.13 would continue to be used.
+-24th and 29th constitutional amendments are valid. Replacing amount with compensation by 25th amendment is also valid. Parliament can pass a law in pursuance of Art.39(B) & 39(C) to secure DPSP also valid. Art.31C partially struck down only where it hits Judicial Review.
 
 17.7.20
 
 -A.N. Ray was made CJI superceding Shelat, Grover and Hegde after the Kesavananda judgement. All of these judges resigned, along with the then Chief Justice Sikri.
 -Sikri put in his resignation on the day of his retirement, as a protest against this injustice.
+-Ray did try to review BS, but other judges on the bench eventually turned against him and he was left alone. Thus, he gave up this venture.
 -In the election of 1971, there were allegations of electoral malpractices, against IG.
 -RPA, 1951 outlines certain corrupt electoral practices.
 	1.You can't use government officials to campaign for your election.
@@ -114,7 +133,7 @@ H.R. Khanna(contd.)
 On 24.6.1975, the appeal was heard. Justice Iyer granted the stay on a condition. The condition was that so long the case could be decided by the full SC, IG could not speak in Parliament.
 -On 25th June of 1975, Emergency was declared. After this, IG passed the 39th Constitutional Amendment.
 -It inserted Art.329A, which said that matters concerning the elections of Speaker, the President and the Prime Minister could only be decided by the Parliament.
--It also modified the laws concerning RPA and Election Laws (Amendment) Act, 1974, removing the practices IG was accused of and these were put into the 9th Schedule, thus rendering them toothless.
+-It also modified the laws concerning RPA and Election Laws (Amendment) Act, 1974, removing the practices IG was accused of and these were put into the 9th Schedule, thus rendering them beyond the power of the court to review.
 
 20.7.20
 
@@ -125,14 +144,15 @@ On 24.6.1975, the appeal was heard. Justice Iyer granted the stay on a condition
 -Since, this was a case against the PM, the losing candidate is deprived of his right to approach the court for electoral malpractice. He only has recourse to the Parliament and since the PM is the leader of the party with the largest majority, that is a foregone conclusion.
 -The majority consisting of 4 judges said that BS is available only for constitutional amendments. Since, the laws amended are just ordinary laws, there cannot be a BS inquiry. Since it is under the 9th Schedule, a FR scrutiny also cannot be conducted. It does not violate any other constitutional provision either.
 -Narayan contested that Parliament consisted of no Opposition members and media was also gagged, leading to an absence of public discourse. The SC said that it was not within their ambit to examine how Parliament conducted itself, only that there was a majority.
--Baig was the only judge who dissented and said that even ordinary laws are also susceptible to BS.
+-Beg was the only judge who dissented and said that even ordinary laws are also susceptible to BS.
 
 21.7.20
 
 -The 42nd Amendment is passed during the Emergency. It was big enough to be a mini-Constitution by itself.
--Under this amendment, any law passed on grounds of securing the DPSP cannot be challenged at all. This means that the DPSP is placed above FRs.
+-Under this amendment, any law passed on grounds of securing the DPSP cannot be challenged at all. This means that the DPSP is placed above FRs. Socialism and Secularism also inserted into the Preamble.
+-Due to Khanna's dissent in ADM Jabalpur, he was passed over for CJI and Beg was appointed as CJI instead. 
 -Sick Textile Undertakings (Nationalisation) Act, 1974 was used to nationalise Minerva Mills, a textile mill. This would be the perfect aggrieved party for Palkhivala to challenge the 42nd Amendment. Since, this nationalisation Act was put in the 9th Schedule, this was a great chance.
--Without having 368(4 & 5) removed, a constitutional challenge on any provision was not sustainable. Thus, Palkhivala decided to challenge it on these grounds.
+-Without having 368(4 & 5) removed, a constitutional challenge on any provision was not sustainable. Thus, Palkhivala decided to challenge it on these grounds. The process of putting laws into the 9th Schedule was not challenged, per se.
 -In 1977, the Emergency was revoked and IG called elections on some bad advice from the IB. IG lost her seat of Raebareli and the Janata Party government came into power.
 -The Janata Party got rid of everything in the 42nd Amendment except Art.368(4 & 5), Secularism and Socialism in the Preamble and the amended Art.31(C).
 -Palkhivala's argument was that Art.368 prevented the SC from exercising any jurisdiction over constitutional amendments. This means that the power to amend was unrestricted, this was a limitation on the BS. This limitation on the BS itself was a violation of the BS, so it must be struck down. This is a self-reinforcing argument, that the BS exists is a merit of the BS itself.
@@ -141,13 +161,13 @@ On 24.6.1975, the appeal was heard. Justice Iyer granted the stay on a condition
 22.7.20
 
 -Whenever a constitutional amendment is declared unconstitutional or any law, then that law is eclipsed but still there. It cannot be used but it is removed only when expressly repealed by the Parliament. Till then, it is there and if later on it is declared constitutional, the law or amendment can be used again. 
--Minerva Mills- merits part. Palkivala knew that the act he was challenging was passed on the basis of unamended 31 C not the amended one. As said above, he was asked to carry on. He said that he was okay with unamended 31 C which balanced FR and DPSPs. The moment prioritising DPSPs above all FRs, that’s an issue. FRs being made subservient. Specially 14 and 19 which 31 C had mentioned specially. But then 31 was removed from the list of 14, 19 and 31. 
+-Minerva Mills- merits part. Palkivala knew that the act he was challenging was passed on the basis of unamended 31 C not the amended one. As said above, he was asked to carry on. He said that he was okay with unamended 31 C which balanced FR and DPSPs. The moment it was prioritising DPSPs above all FRs, that’s an issue. FRs being made subservient. Specially 14 and 19 which 31 C had mentioned specially. But then 31 was removed from the list of 14, 19 and 31. 
 Chandrachud said that the harmony and balance between DPSPs and FRs is a part of the basic structure. Therefore, the amendment to 31 C was struck down. The expansion was struck down. Not the original 31 C. 
--Sanjeev Coke Manufacturing Lt v Bharat Coking Coal Ltd (5 judge)- In this case the entire discussion on 31 C was seen as obiter Dicta in Minerva Mills, since it had no relation to the facts at hand. Therefore, not binding on future courts. 
+-Sanjeev Coke Manufacturing Ltd v Bharat Coking Coal Ltd (5 judge)- In this case the entire discussion on 31 C was seen as obiter dicta in Minerva Mills, since it had no relation to the facts at hand. Therefore, not binding on future courts. 
 -Apart from this case, the discussion was accepted as ratio by acquiescence. Like KB case. No one else raised a question. 
 -Vaman Rao case- Whether laws put into the ninth schedule are completely immune?
--Vaman Rao looks at the validity of all consti amendments upto Kesavananda Bharti. Assuming that the basic structure was present from the starting of the constitution. Tested all amendments. None of the amendment violated the BS. According to them. Including the first amendment. Creating ninth schedule does not violate Basic structure. 
--But they said, post 24th April, 1973 (KB), every time 9th Schedule is amended to put a law into it, even that is subject to the BS test. Because an amendment is needed to put an ordinary law into the ninth schedule. But that amendment is nothing without the law itself. Anyway, we cannot say that the amendment can be tested but the law cannot be. That will not be logical, there wont be any test if law cannot be tested. Therefore, Vaman Rao says, post 24th April, if anyone is amending the constitution to put an ordinary law into the ninth schedule, that ordinary law will be put to a basic structure test. Not all laws, only ones put into the  ninth schedule.
+-Vaman Rao looks at the validity of all constitutional amendments upto Kesavananda Bharti. Assuming that the basic structure was present from the starting of the constitution. Tested all amendments. None of the amendment violated the BS, according to them. Including the first amendment. Creating ninth schedule does not violate Basic structure. 
+-But they said, post 24th April, 1973 (KB), every time 9th Schedule is amended to put a law into it, even that is subject to the BS test. Because an amendment is needed to put an ordinary law into the ninth schedule. But that amendment is nothing without the law itself. Anyway, we cannot say that the amendment can be tested but the law cannot be. That will not be logical, there wont be any test if law cannot be tested. Therefore, Vaman Rao says, post 24th April of 1973, if anyone is amending the constitution to put an ordinary law into the ninth schedule, that ordinary law will be put to a basic structure test. Not all laws, only ones put into the  ninth schedule.
 -Bhagwati felt that prioritising DPSP over all FRs was not disharmonious. He was the only dissenting judge.
 
 23.7.20
@@ -155,23 +175,23 @@ Chandrachud said that the harmony and balance between DPSPs and FRs is a part of
 -From 80s to about 2006-7, there is very little jurisprudential development so far as the BS is concerned. 
 -One step back and going back to Indira Gandhi. Some things yet to be discussed on the cases we have done already. 
 -In Indira Nehru Gandhi v. Raj Narain, one question there in everyone’s mind. Fundamental Rights don’t form part of the basic structure? What does it actually mean? Asked of Justice Khanna is this case. Are no FR part of the BS? Khanna said that he never said no FR are part of the BS. All he said that, as a block all FR cannot form a part of the BS. In fact, in this case, equality was considered to be part of the Basic Structure. 
--Article 31 (Right to Property) was hence repealed from the constitution. It became easy for him, because of Khanna’s position. 
+-Article 31 (Right to Property) was hence repealed from the constitution by the 44th Amendment. It became easy for him, because of Khanna’s position. 
 -In this case, Justice Mathew went so far as to say that if a ninth schedule law is in violation of any such FR which forms a part of the BS, we can scrutinise it. This, in a way, goes against the larger finding of the bench which said that no ordinary law can be put to a BS test. Vaman Rao extended it. 
 -Why did Justice Mathew not do a scrutiny then? As equality was held to be a part of the BS. Because equality formed a part of the BS only according to Chandrachud, not Mathew. Or else maybe he would have. 
 -In Minerva Mills, Justice Chandrachud also said that the relationship between 14, 19 and 21 is a golden triangle and form a part of the basic structure. Not individual rights but only the relationship. This was made by the Maneka Gandhi case, and reiterated in the Minerva Mills case. 
 -So laws put into the ninth schedule cannot be subjected to FR scrutiny but BS scrutiny. What if laws are against FR principles which forms a part of the BS? Answered by Mathew and also Chandrachud in Minerva Mills. Read their points above. 
 -IR Coelho case. By the time it was being heard in 2007, 9th Schedule had 284 laws. 
--In 2007, case called M Nagaraj v. Union of India. In this case, 77th , 81st, 82nd and 85th were challenged. They had made certain changes to Article 16 because of reservation provisions. No need to understand the holding, too technical and we have to understand reservation provisions. The important part- for the first time the court is trying to evolve a BS test, how to know if a law is against the Basic Structure. It’s a 2-prong test
+-In 2007, case called M Nagaraj v. Union of India. In this case, 77th , 81st, 82nd and 85th amendments were challenged. They had made certain changes to Article 16 because of reservation provisions. No need to understand the holding, too technical and we have to understand reservation provisions. The important part- for the first time the court is trying to evolve a BS test, how to know if a law is against the Basic Structure. It’s a 2-prong test
 -Width test and Identity test. 
 -First stretch the amendment to its maximum extent. Extend the meaning to as many situations as the amendment might come into play. After giving widest possible scope, look at whether any restriction has been violated. If yes, strike down. 
 -2nd- Look at whether the amendment is altering the core identity of the constitution. If yes, strike down. 
 -Both have to be satisfied. 
 -Both are known as essence of rights test. Therefore, the court is looking at principles not the rights and provisions themselves. Gives the example of 14, 19, 21, saying that any law must be reasonable if it hits these articles. So reasonability is the restriction here. It is the essence. Essence can be proportionality or any other principle. They didn’t go beyond rights here. Since the case dealt with Article 16. 
--The difference finally comes to light in the IR Coelho v. State of Tamil Nadu case. Iske pehle, mostly same principles. It was a long pending case, regarding laws in late 60s. 
+-The difference finally comes to light in the IR Coelho v. State of Tamil Nadu case. Before this, mostly same principles. It was a long pending case, regarding laws in late 60s. 
 -The law was held to be in violation of FR but despite that the law was put into the ninth Schedule. Can this be done? The law was void ab initio. 
 -The question remained unanswered till 2007. A seven-judge bench in Coelho, Justice Sabharwal was the CJI. Also reconsidered Vaman Rao.
 -They discussed the essence of rights test. What if the entire fundamental rights chapter is undone? The essence of rights test will be of no use. Merely focussing on essence of rights test wont be enough. 
--The court gave something call the rights test not essence of the rights. Again go back to Mathew and Chandrachud above and then Vaman Rao and Nagaraj. From all of those, the court said there can be FRs which can be part of the Basic Structure. Which ones? 14, 19, 21. He puts numbered articles as part of the BS. He also talks about 15 and 16 along with 14 and Article 32 being part of the BS. It’s a unanimous judgement. Therefore, any law put into the ninth schedule is open to an Article 32 scrutiny. What is it? A fundamental rights scrutiny. So no matter what the ninth schedule says, the moment Article 32 into the BS, all ninth schedule laws subjected to all FRs. 
+-The court gave something call the rights test not essence of the rights, which is to be used when entire Part III is excluded, i.e., when it put into the 9th Schedule. Again go back to Mathew and Chandrachud above and then Vaman Rao and Nagaraj. From all of those, the court said there can be FRs which can be part of the Basic Structure. Which ones? 14, 19, 21. He puts numbered articles as part of the BS. He also talks about 15 and 16 along with 14 and Article 32 being part of the BS. It’s a unanimous judgement. Therefore, any law put into the ninth schedule is open to an Article 32 scrutiny. What is it? A fundamental rights scrutiny. So no matter what the ninth schedule says, the moment Article 32 goes into the BS, all ninth schedule laws are subjected to all FRs. 
 -Sir, why did they say that the essence of rights test will be redundant if the entire chapter on FR is undone? Because it talks about individual rights. But laws put into the ninth schedule are fully immune from a FR scrutiny. 
 -The judgement was prospective in nature.
 -Justice Mathew went so far as to say that if a 9th Schedule law is in conflict with any FR which is a part of BS. then it could be scrutinised on the basis of that FR. He said this in the IG case.
@@ -181,15 +201,15 @@ Chandrachud said that the harmony and balance between DPSPs and FRs is a part of
 
 -Post Kesavananda, constitutional amendment, ordinary law put into 9th Schedule is subject to BS. After Coelho, ordinary law under 9th Schedule is subject to entire FRs. Ordinary laws are not part of BS according to IG and Kesavananda, but, some other cases have said they are.
 
--Kuldeep Nayar said you can't make ordinary laws part of BS. But, other cases have said you can. Madras Bar association case is one such.
--In S.R. Bommai, 4 BJP governments were dismissed in favour of President's Rule. The SC upheld the dismissal because secularism is a basic feature of the Constitution.
+-Kuldeep Nayar said you can't make ordinary laws subject to BS. But, other cases have said you can. Madras Bar association case is one such. In the NJAC judgment, CJI Kehar says that ordinary laws can be subjected to BS. Can be looked at as per incuriam or maybe obiter. 
+-In S.R. Bommai, 4 BJP governments were dismissed in favour of President's Rule. The SC upheld the dismissal because secularism is a basic feature of the Constitution as this was right after the Babri Masjid demolition.
 -There was a corrupt judge in Gujarat with an FIR against him in 1991. The SC took cognisance, quashed the FIR and said to drop all charges and investigations stopped.. The SC said Art.141 & 142 are part of the BS in this case.
-In G.C. Kanungo v State of Orissa, even the Arbitration Act was scrutinised on the basis of BS.
+-In G.C. Kanungo v State of Orissa, even the Arbitration Act was scrutinised on the basis of BS.
 
 27.7.20
 
 -If Coelho is read in isolation, it leads to the conclusion that the 9th Schedule has been neutered like a puppy.
-
+-Some post-Coelho cases are mentioned below:
 Glanrock Plantations Pvt Ltd v State of Tamil Nadu
 -Every violation of Art.14 will not be considered in light of BS and FR.
 -If the violation is to such an extent that the underlying principles of Art.14 are endangered only then will it be adjudicated upon BS and FR.
@@ -197,11 +217,11 @@ Glanrock Plantations Pvt Ltd v State of Tamil Nadu
 KT Plantations v State of Kerala
 
 Indian Medical Association v Union of India
--Essence of rights test to be used if the scope of any right is sought to be restricted.
-
-STARTING JUDICIARY
+-Essence of rights test to be used if the scope of any right is sought to be restricted. Rights test to be used only when FRs are excluded en masse.
 
 28.7.20
+
+STARTING JUDICIARY
 
 Union of India v Sankalchand Himmatlal Sheth
 -Challenged his transfer from Gujarat HC to AP HC.
@@ -219,10 +239,40 @@ Supreme Court Advocates on Record Association v Union of India 1993 (Second Judg
 -Primacy has shifted to the judiciary now. (ping pong is a great game)
 -Chief Justice's opinion is the opinion of the collegium and not his alone. The collegium used to be a convention, but through this judgement it gains constitutional validity.
 -Lots of questions raised by the judgement: what is the inner process of the collegium, how it will be constituted, negative aspersions cast on judges whose seniority was ignored etc.
+-Negative reasons should be avoided because it hurts the chance of judges who weren't selected for any future appointments. Also, makes it a tiny bit awkward to work with someone you have kinda insulted before.
+-The strength and composition of the collegium will depend on the judge to be appointed. IF from Bombay HC, then collegium will have CJI, 2 senior most judges and 1 judge whose parent HC was the Bombay HC and Bombay CJI was also consulted.
 
 29.7.20
-In re Presidential Reference (Third Judges Case)
--
+In re Presidential Reference 1998 (Third Judges Case)
+-The SC asked Attorney General Soli Sorabjee to promise that the opinion will be binding on the government and they will agree, which he did. 
+Read the case- done. 
+-Second judges case a lot on CJI but third judges case more on collegium. Outlined the power of the CJI better. 
+-Lets say the name is sent to the President and he rejects and the collegium is okay but the CJI is not. Judge not appointed. 
+-If the collegium unanimously agrees, then appointment has to be made. 
+Collegium does not need to have the senior most judge of the SC whose parent high court relates to the appointment. CJI plus 4 most senior judges only for SC and 2 most senior judges for HC. 
+Judicial review- restricted- only if process not followed. Cant review on bias.
+
+30.7.20
+
+-Case said merit must be given importance. How do you assess merit? Some HC get landmark judgements, some don’t. Allahabad HC gets a lot of political matters. Gauhati doesn’t. So judges who pass judgements landmark cannot be said to be meritorious. Not always possible to ascertain merit. 
+-In second judges case, CJI was given some form of veto power and his importance was more, in third judges case- only first among equals. 
+-Now there's a move towards judicial exclusivity.
+-Inside the collegium, many appointments came under scrutiny- some not good, there is bias among the collegium. There was absolutely opacity. No one knew what was happening. Reports came out that there was favouritism towards particular judges. Specially one particular letter written by Calcutta HC judge when he was not elevated to the SC because of the CJI. 
+-Executive was also not happy and something needed to be done. UPA government came up with Judicial Appointments Commission bill. Did not see the light of the day. There had been attempts under Deve Gowda like National Judicial Commission.  The executive was trying to get back the power of appointment. Till Modi came, nothing happened. When he came, one of the first things he did was the NJAC bill. Constitutional amendment bill was moved- 124 A B and C was brought in. Entire process underwent a huge transformation. 99th amendment act. NJAC was set up. NJAC would oversee matters of judicial appointments and transfers. 
+-NJAC would have 6 members. CJI plus two senior most judges, law minister of India. Two eminent persons who are selected by a body consisting of the PM, CJI and Leader of Opp of Lok Sabha. One eminent person has to be a women or a person belonging to SC/ST or minority. If there is already representation from other 4, then not required. 
+-Eminent persons not necessarily from the Judiciary. 
+-Sir, how many people have to refuse to stall the appointment of a judge? Like the number was 2 in the Collegium. The number is 2 even here. 
+-There were issues with the structure, but Judiciary had a problem with the idea of NJAC itself. Not only with the structure. That’s the issue. Based on Separation of Powers and Basic Structure. 
+-NJAC never sat. No eminent persons were ever appointed. 
+-By a majority in the Fourth Judges case, the NJAC Act and 99th amendment was struck down in 2015. Violation of independence of Judiciary. Judicial supremacy in appointments is part of the basic structure. The majority did not give a chance for the law to be abused before striking it down. They had an issue with the idea even before it came into force. How can judicial supremacy be a part of the BS when SC itself had brought it in in the Second Judges case whereas the constitution envisaged a different role. And the constitution stands till now. 
+-The SC went ahead and dropped the institution altogether. Justice Chelameshwar was in the dissent. In a way Judiciary was also violating the basic structure doctrine of separation of powers. 
+-Chelameshwar makes a distinction between basic structure and basic features. For the first time. Basic features form a part of the basic structure. If basic features changed but basic structure as a whole stands, then its fine and amendment cannot be struck down. This distinction must have been made in 1973 only. 
+-He was heavily critical of the collegium. What the collegium decided was never transparent. He himself never went to the meetings of the collegium. 
+-Also, there was by and large political consensus and ratification by more than half the states. 
+-Chelameshwar also had some issues with the structure but wanted it to be given a chance at least. 
+
+Read Arun Jaitley’s article on his alternate view.
+-Now the procedure is same as before, but there is some memorandum of procedure. Some degree of transparency is there. Displaying decisions and reasons on website. Reasons given are mostly not adequate. So transparency is somewhat farcical. Collegium not subject to RTI
 
 3.8.20
 
@@ -231,8 +281,8 @@ Jurisdiction of Courts
 -This OJ is outlined in Art.131. But, it is not clear what legal rights are supposed to mean in this context.
 -In 2019, Chattisgarh challenged the NIA has to be declared unconstitutional because it takes away power from State list as police and public order are State matters. Kerala also filed a suit against the Union under 131 for declaring CAA constitutional because it violates Arts.14, 19 & 21.
 -Kerala argued that if the State Government refuses to implement any order by the Central Government under Art.256, it can be a ground for declaring President's Rule under Art.365. This puts Kerala in a spot where the State's legal rights can be curtailed because they refuse to implement an unconstitutional executive order.
--Govt of WB filed a suit under 131 too because the Union Govt. declared that coal bearing land can be acquired by the Centre, so what happens to the righs of the State?
--Rajasthan too filed a suit against the Union Govt in 1977 after the General Election results were announced. Charan Singh of the Janata Party wrote a letter to Congress CMs telling them that there had been a revolution against the Congress and they should also step down. Otherwise, Charan Singh threatened to have President's Rule imposed in those nine states.
+-Govt of WB filed a suit under 131 too because the Union Govt. declared that coal bearing land can be acquired by the Centre, so what happens to the righs of the State? Will the Centre be able to unilaterally acquire any land held by WB too? They based this on Art.131 and said that this question will decide the extent of their rights. SC accepted this jurisdiction argument.
+-Rajasthan too filed a suit against the Union Govt in 1977 after the General Election results were announced. Charan Singh of the Janata Party wrote a letter to Congress CMs telling them that there had been a revolution against the Congress and they should also step down. Otherwise, Charan Singh threatened to have President's Rule imposed in those nine states. SC assumed jurisdiction and said State would also include State Govt.
 -A CM of Karnataka had corruption allegations against him. So, the Union Govt. set up a committee to inquire into these allegations and advised the CM to step down while the investigation was ongoing, returning when he was cleared. Karnataka filed a suit under Art.131 and the Union Govt. said that this does not impugn any rights of the State and only the rights of an individual was the matter here, that being the CM. SC said that the State is inseparable from the State Govt. and it is inseparable from the person who runs it, i.e., the CM, thus the case was not dismissed on grounds of jurisdiction.
 
 4.8.20
@@ -242,17 +292,17 @@ Appellate jurisdiction of the Supreme Court
 -Under 132, SC appeal could be for any kind of proceeding civil,criminal or otherwise. But,the HC has to certify the appeal on grounds of substantial question of law regarding the Constitution.
 -Certification can be granted when a HC is uncomfortable with the current SC precedent or if there are conflicting HC judgements.
 -Under Art.133, SC appeal will only be for civil matters. But the HC will have to certify that it involves a substantial question of law of general importance. But, this certificate cannot be given by a single judge bench of a HC.
--SC has directed that single judges of a HC not grant a certificate for appeal to the SC without applying to a division bench of the HC first.
+-SC has directed that single judges of a HC not grant a certificate for appeal to the SC without applying to a division bench of the HC first as there was no explicit provision for this under Art.132, unlike Art.133.
 -Under Art.134, you don't need a certificate to appeal to the SC in two cases. One, where the HC has reversed an acquital by a lower court and has handed out a death sentence. Two, where the HC has taken up a case still being heard by the lower court and then handed out a death sentence. The third provision is the usual manner of the HC granting a certificate to appeal to the SC.
 
 5.8.20
 
 -Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970. Look it up.
 -Election Commission v. Saka Venkata Subba Rao 1953, a single judge gave the certificate for appeal to the SC. RD Agarwala v UOI 1970, a single judge was barred from giving a certificate of appeal to the SC.
--Art.136 is a very open ended way left open for the SC to hear a case.
--Pritam Sing v State 1950: Generally speaking, this Court will not grant special leave, unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against.
+-Art.136 is a very open ended way left open for the SC to hear a case. There is also no finality requirement here, can appeal to the SC at any stage in the trial. This is SLP.
+-Pritam Singh v State 1950: Generally speaking, this Court will not grant special leave, unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and that the case in question presents features of sufficient gravity to warrant a review of the decision appealed against.
 -Mathai alias Joby v. George & Another 2010: Criteria for SLPs sought. Referred it to a constitutional bench. Took note of a Venugopal lecture which said that SLPs should be considered only in a narrow set of cases:
-	1. “All matters involving substantial questions of law relating to the interpretation of the Constitution of India.
+	1. All matters involving substantial questions of law relating to the interpretation of the Constitution of India.
 
 	2. Substantial questions of law of general importance.
 
@@ -294,9 +344,8 @@ Advisory Jurisdiction of Supreme Court(Art.143)
 10.8.20
 
 Tribunals
--They were set up in the 50s to lessen the load on the courts.
--It has morphed into specialised technical bodies which deal with specific matters.
--14th Report says tribunals should only be created for very narrow fields.
+-Tribunals have morphed into specialised technical bodies which deal with specific matters.
+-14th Report of First Law Commission says tribunals should only be created for very narrow fields.
 -HC Arrears Committee headed by Justice Shah set up in 1972 to look at the backlog of cases in HCs.
 -6th Law Commission Report says tribunals should not be set up at all.
 -Sardar Swaran Singh Committee recommended:
@@ -309,7 +358,7 @@ Tribunals
 -Most of Swaran Singh's recommendations were instituted by the 42nd Amendment.
 -Rajiv Gandhi passed Administrative Tribunals Act in 1985. It is a near copy of Art.323A.
 -S.P. Sampath Kumar brings a motion against the Tribunals Act for being unconstitutional.
--The case was heard by Bhagwati Ranganath Mishra.
+-The case was heard by Bhagwati, Ranganath and Mishra.
 -Bhagwati suggested some changes:
 	1.Ensure that at least one member was a judicial member with knowledge of the law.
 	2.Tribunals need to be set up at the seat of the HC.
@@ -318,6 +367,25 @@ Tribunals
 -Sampath Kumar says the problems still exist and the SC takes up the case again with a constitution bench.
 -In the appeal, Ranganath picks a part of the Bhagwati's minority judgement from Minerva Mills and says tribunals are an effective alternative institutional mechanism to judicial review by the courts themselves.
 -Since, the judgements in Minerva Mills were delivered simultaneously, no one had the chance to challenge Bhagwati's version and he used this in the Sampath Kumar appeal to bolster his case. This was a decidedly false narrative set up by him.
+-Thus, Tribunals are upheld in Sampath Kumar.
+
+11.8.20
+
+-This is the main backdrop of the L Chandrakumar case. 
+-HC was substituted. SC only appeal forum. 
+-Similar questions raised in Chandrakumar case. 
+-1st question- Whether Tribunal is substitute or supplement of the HC? Article 226 and 227 talks about supervision and superintendence power of HC- can that be subverted? Is tribunal an effective alternative dispute mechanism?
+-Held supplementary. Held violative of basic structure. Judicial review subverted. So part of amendments held unconstitutional and so was the Administrative Tribunals Act. They quoted Ambedkar’s comment on 32 and 226 (Heart and soul). 
+-226 HC power- HC would want the petitioner to exhaust all remedies before coming under this article. If there is a tribunal, will be asked to go the tribunal first. 
+-Parliament itself adjudicating is problematic, not creating a forum which will adjudicate. (in response to can parliament set up a body for adjudication if they cannot adjudicate themselves?)
+-But the primary object of the creation of these tribunals, and exclusion of the exercise of the power of the HC to handle these appeals to the cases, decided by tribunals, simply was to reduce the burden on High Courts, and in the interest of better administration of justice. So, in such circumstances, if the SC does not place the policy intent of the legislature at a higher pedestal and declares the provision it as unconstitutional, then allowing appeals to HC would clearly defeat the intent?- Satrajeet’s question. 
+-Answer- 226 and 227 are not appeals. They are writs. Appeal on merits is covered by 136. You can raise questions of jurisdiction, violation of natural justice, biased judges etc. Under 226 and 227, its not exactly on merits. When the tribunals decide on matters of rights, order of the tribunal can be reviewed (only before the division bench). Even that is under 226. It is not a usual appeal. After HC gives decision, then appeal can be there before the SC. Its more like a review than an appeal. 
+-2nd question- Whether tribunals can address points of law? -Yes
+
+-From Chandrakumar till 2004- number of cases where interesting points raised. For example- When the debt recovery tribunal set up, there were a number of writ petitions in Delhi HC which challenged the parent legislation. Challenges- against article 14- government appoints members, and the tribunals can cherrypick cases, send either to DRT or to normal courts and also about independence of judiciary. Delhi HC declared the law unconstitutional. The matter went up on appeal- Justice Kripal in 2002 delivered the judgement. 
+-Between 95 and 2002, the government made certain modifications to the law. Government made the change such that making appointments to DRT will be done by a committee consisting of CJI or a judge of SC appointed by CJI along with the other members. Not solely the government. Justice Kripal was happy- independence of judiciary was upheld. Here, judicial exclusivity was not an issue unlike NJAC. 
+-Also, elaborate rules framed for which cases go to tribunals. Justice Kripal was happy that it was a reasonable classification under 14. 
+-The laws were unconstitutional but those problems were removed. So constitutionality upheld. 
 
 13.8.20
 
@@ -351,7 +419,7 @@ Tribunals
 -In the case M/s Shiur Sakhar Karkhana Pvt. Ltd. v. State Bank Of India it was said that the presence of an alternative and efficacious remedy is not an absolute bar on the jurisdiction of the High Court under Article 226 of the Constitution, and is a rule of discretion and self-imposed limitation rather than that of law.
 
 17.8.20
-
+STARTING LEGISLATURE
 Office of Profit
 -Art. 102(1)(A) and 191(1)(A)
 -Five tests to figure out if it's an office of profit:
@@ -387,3 +455,18 @@ Office of Profit
 -Raja Rampal Singh v Hon'ble Speaker of LS: Popularly known as the Cash for Questions scam, several MPs were expelled by the then SPeaker, Somnath CHatterjee, for taking bribes. These MPs appealed to the SC. First argument, the Speaker cannot expel an elected member of the House. The SC said that the Speaker had the power and it was Parliament's prerogative to do so. If an MP has gone against the basic ethical and moral boundaries, the Speaker has the right to expel them. However, if the Speaker's decision was not based on good reason, the Court had a limited power of judicial review.
 
 -Speaker expelled Amarinder Singh from the Punjab Legislature. Amarinder Singh went to the Court which relied on Raja Rampal and said that Amarinder Singh could not be expelled for something he had done in the course of his executive authority. Thus, Amarinder Singh's seat was restored.
+
+31.8.20
+
+-The executive is a widespread machinery. Everyone from the President to a block level officer is in the executive.
+-Two broad groups in the executive:
+	1.Political Executive- President, PM, CM, ministers etc. Some degree of political process/election that is present before their selection. None of the tenures are permanent.
+	2.Administrative Executive- Bureacracy. They are qualified through an exam and they have a degree of security of tenure.
+-Art.74 is currently an amended Article. Only Art.74(1) existed in the OG Constitution.
+-Art.53 talks about how power is vested in the President.
+-Art.78 lays out the reporting responsibility of the PM.
+-These 3 Articles read together gives a picture of a President who is not as powerless as usually portrayed.
+-Does this mean that a Presidential government was envisioned by the Constitution?
+-Rajendra Prasad also raised this question, but Nehru showed him his place. This was because Prasad had major objections to zamindari abolitions and the Hindu Code Bill.
+-In the case of Ram Jawaya Kapoor v State of Punjab, the SC had to categorically lay down the provision that the President was just a nominal head and the real power of the Executive lay with the PM.
+-In the case of UNR Rao v Indira Gandhi, Rao went to the SC arguing that IG should not be allowed to be the caretaker PM. This was during the election of 1971 when she prematurely dissolved the Lok Sabha. Since, the Council of Ministers now are not accountable to anyone because the LS does not exist, the President should be the one running the government till the next PM is sworn in. SC said that they do not foresee the possibility of a Presidential government because a Union Council of Ministers will always exist. Because India is a parliamentary democracy, there is no possibility of a President ever having the ultimate power of the Executive, according to the SC.
