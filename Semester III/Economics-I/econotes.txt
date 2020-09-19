@@ -183,4 +183,8 @@ Short Run Cost of Production (7.2 in Pindyck)
 
 25.8.20
 
-Long Run COst of Production (7.3 in Pindyck)
+Long Run Cost of Production (7.3 in Pindyck)
+
+4.9.20
+
+

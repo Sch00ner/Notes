@@ -390,3 +390,56 @@ Sec.305
 
 Mohan Lal and another Vs State of Punjab – 2013 (12) SCC 519.
 
+4.9.20
+
+-Right of withdrawal by prosecution comes at a later stage.
+-Lack of evidence against the accused, but this does not mean the offence didn't happen.
+-After hearing both the prosecution and the defence if the court thinks there is a dearth of evidence for conviction, the accused may be discharged under Sec. 239.
+-There is also another way for the court to let go of the accused under Sec. 245.
+
+5.9.20
+
+-Operative part of the judgement is the part which exclusively deals with application.
+-This deals with sentencing such as how long the imprisonment will be, what fine is to be paid etc.
+
+-Provision for both rigorous and simple imprisonment. This delineates what kind of work prisoners are allotted while they are imprisoned.
+-Simple imprisonment means no work will be assigned to them. Only rigourous imprisonment will have work assigned to them.
+-Work assigned must be according to relevant legislation like the Correctional Services Act.
+
+-A certified copy of the judgement must be annexed to any further appeals made by a party. A photocopy will not do.
+-Digital Signature is needed to make digital copies have the same validity as certified copies. Only one HC (probably Jharkhand),has implemented this till now.
+
+7.9.20
+
+-The purpose of the Executive Magistrate is to ease the functioning of the Judicial Magistrate.
+-Two categories of power:
+	1.Where the EM sits to try out a few specific offences.
+	2.
+-Sections concerning EM: 94, 97, 107, 109, 110, 133, 145, 147
+-Sec.133 & 144 - the EM has to be empowered
+
+8.9.20
+
+-Witnesses may be allowed if the prayer is made before the court in cases which are adjudicated by the EM.
+
+12.9.20
+
+Bail Bond
+-Generally, post office deposit like KVP may be submitted for bail bond.
+-Personal bond can be applied only in extraordinary circumstances. For example, when one is not able to afford bail.
+
+Rasiklal v. Kishore Khanchand Wadhwani
+
+19.9.20
+
+Surrender Bail
+-Accused is absconding and then surrenders.
+-Subsequently, he applies for bail.
+
+-If a higher court has rejected anticipatory bail, one cannot go to a lower court and apply for it again.
+
+-Just as out of 4 offences if one of them is cognisable, the whole thing will be cognisable; if one offence is non-bailable out of 4, the whole thing becomes non-bailable.
+
+Anticipatory Bail (Sec. 438)
+-Granted before arrest unlike ordinary bail.
+-
