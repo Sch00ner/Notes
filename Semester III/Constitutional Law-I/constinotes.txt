@@ -249,8 +249,8 @@ Read the case- done.
 -Second judges case a lot on CJI but third judges case more on collegium. Outlined the power of the CJI better. 
 -Lets say the name is sent to the President and he rejects and the collegium is okay but the CJI is not. Judge not appointed. 
 -If the collegium unanimously agrees, then appointment has to be made. 
-Collegium does not need to have the senior most judge of the SC whose parent high court relates to the appointment. CJI plus 4 most senior judges only for SC and 2 most senior judges for HC. 
-Judicial review- restricted- only if process not followed. Cant review on bias.
+-Collegium does not need to have the senior most judge of the SC whose parent high court relates to the appointment. CJI plus 4 most senior judges only for SC and 2 most senior judges for HC. 
+-Judicial review- restricted- only if process not followed. Can't review on bias.
 
 30.7.20
 
@@ -420,8 +420,9 @@ Tribunals
 
 17.8.20
 STARTING LEGISLATURE
+
 Office of Profit
--Art. 102(1)(A) and 191(1)(A)
+-Art. 102(1)(A) and 191(1)(A) for MPs and MLAs respectively.
 -Five tests to figure out if it's an office of profit:
 (i) whether the government is the appointing authority, (ii) whether the government has the power to terminate the appointment, (iii) whether the government determines the remuneration, (iv) what is the source of remuneration, and (v) the power that comes with the position.
 -These tests were decided in the cases of Gurugobinda Basu vs Sankari Prasad Ghosal and Satrucharla Chandrasekhar Raju v. Vyricherla Pradeep Kumar Dev.
@@ -431,32 +432,100 @@ Office of Profit
 -Even Sonia Gandhi was accused of holding an Office of Profit as she was a member of the National Advisory Council. Before she could also be disqualified, Sonia Gandhi resigned.
 -Jaya approached the SC. SC said that in Office of Profit, the Office was more important than the Profit part. The disqualification was held to be valid.
 -The SC said that a person could be influenced by their position in an Office of Profit even if they were not receiving any emoluments.
+-In the meanwhile, Parliament passed a law to include Chairman of NAC in list of exempted officer, applied retrospectively. 
+-The decision to disqualify under office of profit is taken by the President. Speaker forwards the complaint to President. President has to take the opinion of the ECI. Sometimes, complainants go directly to EC to start investigation. In exceptional cases, they have done so.
+-Only in defection, speaker/chairperson takes the decision. -
+-Immediately upon election before taking oath, a person can resign from office of profit without incurring disqualification. 
+-Disqualification can be challenged through judicial review- malafides, procedure 
+
 
 18.8.20
 
+-Can an MP or an MLA be divorced from his political party? Why in India individual matters less and party matters more?
+-Ajit Singh- son of Charan Singh- notoriously changed parties.
+-Speaker of the house not bound by the whip but may be a part of a political party. 
+-Coalition not recognised by the anti-defection law. Only party. 
+-Story of Gaya Lal.
+-1985- anti defection was inserted into the Constitution. (10th Schedule). The 10th Schedule recognises political parties for the first time in the -constitution.
+-2010- Manish Tiwari moved a PML in the Parliament to change the 10th Schedule. Limiting whip control only to motions which deal with the stability of the government no-confidence motion, adjournment motion and money bills. Therefore, only in the LS.
+-Intra-party dissent depends on the magnitude of the dissent. Sachin Pilot- almost seemed as if he had de-fected.
+-According to sir autonomous body must determine questions of defection.
+-Choosing the lesser evil- if curbing dissent in order to prevent defection.
+-Also, not all opinions are curbed. Many happily agree with the party line. 
+-Kihoto Hollohan v Zachillu- seminal case 
 
 
 19.8.20
 
+-102 (2) was added through the 52nd constitutional amendment. The 10th Schedule has 8 paragraphs. 
+-Look in Oxford Handbook (278)
+-‘Voluntarily giving up of membership’ of such party- wide connotation. Common sense understanding- resignation. It has been interpreted time and again that anti-party activities systematically also constitute this. Example- BSP MP found in SP meeting. Allegiance to some other party or presence in their meeting. Example- Sharad Yadav- membership of RS was removed even though they did not leave formally.
+-Case which talks about how to construe voluntary giving up of membership. Ravi Naik v. Union of India- does not only include formal resignation. 
+-Second ground- vote or abstain from voting contrary to any direction from the political party or by any person who has been authorised on his behalf (chief whip). A three-line whip is mandatory. One line whip- some independence for the individual MP.
+-Couple of caveats- if he has obtained prior permission or if such action has been condoned within 15 days.
+-Nominated member- Subramanium Swamy continues to be a BJP member despite nomination. If the member wasn’t a part of any party (Sachin Tendulkar), then within 6 months he can join. Otherwise, disqualified.
+-Independent member joins a party disqualified.
+-Presiding officers won't incur disqualification upon resignation after election to the post. Can decide to stay with the party, may resign. Not bound by party whip. Party may expel him ofc (Somnath Chaterjee CPI).
+-Split provision removed in 2003 (91st Amendment). Split- 1/3rd split and forming a faction.
+-Merger exception (2/3rd) allowed.
+-Merger was there only for ideological reasons while split was there for cross voting purposes. Split removed as legislators realised that horse-trading was rampant and 1/3rd is easy to buy or break away.
+-Split- not joining any other party, only a faction. Merger-joining other party or forming a faction.
+-1969 Congress-200 members moved away with IG. Would have been covered under merger if after 1985.
+-Mention about corruption.
+-Can the whip declare the official party position as something which is against what the majority members want?- Yes
+-Any question should be referred to the speaker or chairman and decision will be final. 
+-The schedule also states that the speaker’s decision is not subject to jurisdiction of the HC or SC. 
+-This was struck down in Kihoto Hollohan case- will be discussed in detail. 
+-Para 6 and Para 7 most contentious part of the 10th Schedule. 
+-6(1) Any question regarding disqualification should be referred to the speaker or chairman and decision will be final. 
+-7- no jurisdiction of HC and SC. 
+-This was challenged in Kihoto case- 1992. 
+-Primary question- on para 6 and para 7. 
+-Court divided into two issues- first was procedural issue- Article 368 (2)- ratification of half the states- among those provisions role of the HC and SC was also there. In 52nd amendment, the ratification was not sought.
+-The provision was held unconstitutional.
+-Second was the basic structure issue. The case was in 1992, before Chandrakumar. The SC was thinking very seriously about Judicial Review exclusion. Hence, substantive issue subservient to the procedural issue.
+-3-2 judgement on this point. The majority- used the doctrine of severability and para 7 was struck down. Rest of it upheld.
+-Speaker’s decision will have finality, speaker is a tribunal it is a quasi-judicial body. Only grounds of malafides, natural justice etc. judicial review possible.
+-Dissenting judges- more vociferous about exclusion of speaker’s powers- they saw speaker as a political person. Owes allegiance to a political party. Independence is a myth. It is not like a tribunal. Finality of the speaker’s decision itself is problematic. Speaker must not have the -power.
+-Entire 10th Schedule must be unconstitutional. 
+-The dissenting judgement is significant due to the work of the speaker in all these years. 
+-Also, SC has decided on merits also on speaker’s decision. Karnataka case. No longer limited to Judicial Review only. 
+-Keisham Meghachandra Singh v The Hon'ble Speaker Manipur- 1st January 2020. Disqualification of Thounaojam Shyamkumar.
+-Justice Nariman made some key observations on the role of the speaker. Takes a lot of time, is a political person etc. 
+-Justice Nariman was also guided by the Karnataka decision- Judge had made similar observations. Speaker cannot be an independent tribunal like -institution.
+-Justice Nariman says that the speaker has to decide within a reasonable period. (usually 3 months).
+-Speaker of the house can take suo motu cognisance of disqualification.
+-2 changes Representation of Peoples Act necessitated a case. Prior to 2003, the voting to the Rajya Sabha used to be such that, lets say there is a RS from WB, only someone domiciled in that state can contest. Around 2003, it was felt that the stringency is not required. Domicile requirement removed. Can contest from any part of the country. This removal was brought about by the 2003 amendment.
+-Another change- prior to 2003 voting was done by a secret ballot. This was replaced by open ballot. Party representative needs to be shown the preferences by an MLA of MLC.
+-Here, anti-defection law does not apply, since it is not a house proceeding.
+-Kuldip Nayar challenged both these amendments in the court. (Kuldip Nayar v. UOI) Fali Nariman argued. Both these changes eroded the basic character of our democracy. The first change eroded the nature of the Rajya Sabha- Council of States. Someone from Delhi can represent Mizoram, how well can he espouse the cause of Mizoram in the Rajya Sabha. This is breaking the back of our federal polity. Making the Rajya Sabha like Lok -Sabha.
+-On secret ballot point, Nariman argued that it is against free and fair elections and democracy. There is surveillance and the individual cannot be sure of his conscience.
+-This was an ordinary law-, the SC did not accept the arguments of basic structure against it on a threshold level.
+-On merits, SC said that domicile removal doesn’t make India less federal. Even though Rajya Sabha is the Council of states, doesn’t mean that a person who isn’t a part of a state won't know about the state’s internal workings.
+-Removal of secrecy very important thing to do. The person who is voting is already a part of the party and expected to tow the party line. If not, at least the party must know. It's not a general election. History has shown us that cross voting was very rampant.
+-Election cases- usually ordinary laws not subjected to basic structure on these aspects. SC gets jittery. Happened in IG case, and Kuldip Nayar. 
 
-
-20.8.20
-
-
+Legislative Privileges
+-There are certain privileges available. (Privilege motion against Shashi Tharoor and Rahul Gandhi for summoning the FB over allegations of being politically biased).
+-Privilege- Parliamentarians and members of state assemblies- immunity from criminal proceedings from courts. Anything they speak inside the Parliament, cannot be hauled up for defamation. (defence in torts as well).
+-Privileges also extend to people reporting about the house proceedings. Qualified privilege- sometimes the speaker said this shall not go on record. If a journalist reports about an expunged provision, then such reporting is a breach of privilege. Here privilege is not absolute. 
+-Article 105 and 194- similar to each other and their interaction with 19 (1) (A). Whether there is Parliamentary privilege over corruption cases. Privileges are uncodified. Till 1976, privilege available same as those available to members of the House of Commons in UK. Till 78 changes by the 42nd amendment. Reverted by 44.
 
 21.8.20
 
--MSM Sharma v Sri Krishna Sinha: Sharma was the editor of a paer called Searchlight and the Speaker of the Bihar Legislature said certain portions would be expunged. Searchlight still published the expunged portions and this was held to be a breach of privilege. Sharma went ahead and filed a writ with SC. Sharma argued that Art.19(2) does not contain parliamentary privilege as a reason to restrict freedom of speech and expression under Art.19(1) and thus, his right to report could not be restricted on grounds that didn't exist. However, since Art.105 and 194 are special provisions and these provisions were also present in the British Parliament, which the judges referred to, the general premise of freedom of speech and expression would not prevail over parliamentary privilege.
+-MSM Sharma v Sri Krishna Sinha: Sharma was the editor of a paper called Searchlight and the Speaker of the Bihar Legislature said certain portions would be expunged. Searchlight still published the expunged portions and this was held to be a breach of privilege. Sharma went ahead and filed a writ with SC. Sharma argued that Art.19(2) does not contain parliamentary privilege as a reason to restrict freedom of speech and expression under Art.19(1) and thus, his right to report could not be restricted on grounds that didn't exist. However, since Art.105 and 194 are special provisions and these provisions were also present in the British Parliament, which the judges referred to, the general premise of freedom of speech and expression would not prevail over parliamentary privilege.
 
--Keshav Singh case: Keshav Singh was distributing pamphlets that criticised a parliamentarian and the Speaker. The then Speaker of UP Legislature, asked for this man to be imprisoned, which is a power the Speaker has. The man had his lawyer, Solomon, filed a Habeas Corpus writ with the Allahabad HC. HC said that the man should be released, but before he could be released the next day, the SPeaker declared that Solomon and the judges who heard the case should also be put behind bars. The full HC sat down and appealed to the Centre to ask the President to refer this matter to the SC. Seervai argued that there should not be any limitations placed on legislative provisions and things like this should only be dealt with on a case-by-case basis. Setalvad argued that MSM Sharma should be revisited and FRs should prevail over Parliamentary privileges. The SC finally held that Legislative privileges are subject to restrictions like FR and the privileges would have to be balanced with the FRs. So, while Keshav Singh's FR could be restricted in this case, those of the Solomon and the judges who heard the case would have to be protected.
+-Keshav Singh case: Keshav Singh was distributing pamphlets that criticised a parliamentarian and the Speaker. The then Speaker of UP Legislature, asked for this man to be imprisoned, which is a power the Speaker has. The man had his lawyer, Solomon, file a Habeas Corpus writ with the Allahabad HC. HC said that the man should be released, but before he could be released the next day, the Speaker declared that Solomon and the judges who heard the case should also be put behind bars. The full HC sat down and appealed to the Centre to ask the President to refer this matter to the SC. Seervai argued that there should not be any limitations placed on legislative provisions and things like this should only be dealt with on a case-by-case basis. Setalvad argued that MSM Sharma should be revisited and FRs should prevail over Parliamentary privileges. The SC finally held that Legislative privileges are subject to restrictions like FR and the privileges would have to be balanced with the FRs. So, while Keshav Singh's FR could be restricted in this case, those of the Solomon and the judges who heard the case would have to be protected. Justice Subba Rao disagreed- FRs are sacrosanct. The public has the right to know and journalist should have the right to inform. 19 (1) (A) prevails over privileges.
 
--P.V. Narasimha Rao v State: Shibu Soren said that my party against the government, Ajit Singh and his supporters also said the same. But, when the vote actually came around, these people voted for the government. There were allegations of bribetaking. The CBI wanted to start Prevention of Corruption Act investigatrions against them. But, Parliament said that as MPs, they were immunised against criminal prosecution. When the case went to the SC, a 5-judge bench of the SC decided that proceedings could only be started against the bribe-givers and not bribe-takers because their Parliamentary privilege extends to whatever they do inside the House.
+-P.V. Narasimha Rao v State: Shibu Soren said that my party against the government, Ajit Singh and his supporters also said the same. But, when the vote actually came around, these people voted for the government. There were allegations of bribetaking. The CBI wanted to start Prevention of Corruption Act investigations against them. But, Parliament said that as MPs, they were immunised against criminal prosecution. When the case went to the SC, a 5-judge bench of the SC decided that proceedings could only be started against the bribe-givers and not bribe-takers because their Parliamentary privilege extends to whatever they do inside the House.
 
--Raja Rampal Singh v Hon'ble Speaker of LS: Popularly known as the Cash for Questions scam, several MPs were expelled by the then SPeaker, Somnath CHatterjee, for taking bribes. These MPs appealed to the SC. First argument, the Speaker cannot expel an elected member of the House. The SC said that the Speaker had the power and it was Parliament's prerogative to do so. If an MP has gone against the basic ethical and moral boundaries, the Speaker has the right to expel them. However, if the Speaker's decision was not based on good reason, the Court had a limited power of judicial review.
+-Raja Rampal Singh v Hon'ble Speaker of LS: Popularly known as the Cash for Questions scam, several MPs were expelled by the then Speaker, Somnath Chatterjee, for taking bribes. These MPs appealed to the SC. First argument, the Speaker cannot expel an elected member of the House. The SC said that the Speaker had the power and it was Parliament's prerogative to do so. If an MP has gone against the basic ethical and moral boundaries, the Speaker has the right to expel them. However, if the Speaker's decision was not based on good reason, the Court had a limited power of judicial review on grounds of malafides, extraneous circumstances etc.
 
 -Speaker expelled Amarinder Singh from the Punjab Legislature. Amarinder Singh went to the Court which relied on Raja Rampal and said that Amarinder Singh could not be expelled for something he had done in the course of his executive authority. Thus, Amarinder Singh's seat was restored.
 
 31.8.20
+
+STARTING EXECUTIVE
 
 -The executive is a widespread machinery. Everyone from the President to a block level officer is in the executive.
 -Two broad groups in the executive:
@@ -468,15 +537,69 @@ Office of Profit
 -These 3 Articles read together gives a picture of a President who is not as powerless as usually portrayed.
 -Does this mean that a Presidential government was envisioned by the Constitution?
 -Rajendra Prasad also raised this question, but Nehru showed him his place. This was because Prasad had major objections to zamindari abolitions and the Hindu Code Bill.
+-SC has held Parliamentary Democracy is a part of the BS. So, its settled that we do not have a Presidential Form of government. But was it envisaged is a question mark. Clear from the text of the constitution.
+-Similarly, Giani Zail Singh had tussles with Rajiv Gandhi. Governor enjoys more power, so more tussles with CMs. (Governor and WB Government).
 -In the case of Ram Jawaya Kapoor v State of Punjab, the SC had to categorically lay down the provision that the President was just a nominal head and the real power of the Executive lay with the PM.
 -In the case of UNR Rao v Indira Gandhi, Rao went to the SC arguing that IG should not be allowed to be the caretaker PM. This was during the election of 1971 when she prematurely dissolved the Lok Sabha. Since, the Council of Ministers now are not accountable to anyone because the LS does not exist, the President should be the one running the government till the next PM is sworn in. SC said that they do not foresee the possibility of a Presidential government because a Union Council of Ministers will always exist. Because India is a parliamentary democracy, there is no possibility of a President ever having the ultimate power of the Executive, according to the SC.
 
 2.9.20
 
+-Many parts in the Constitution where President doing certain things have been mentioned. In effect, the Council of Ministers aid and advise the President. The President is bound by the aid and advice, may send back for reconsideration once, second time has to be bound. Hardly a scope for Presidential discretion. The situation is not the same as Governors. Art. 163 describes the relationship between the State Council of Ministers and the Governor.
+-74(1) – President is bound. 163 keeps this issue a little open-ended. In some matters, discretion can be exercised. This element is not present with the President. Mostly given as India is quasi-federal. Governor used to exercise discretion of Union over states. 
+-Governors can reserve a bill for consideration of the Prez (Union ministers). Governors need to make determination whether there is any internal disturbance prevailing in the states and gives report to the President and asks it to act under Article 355 (duty of centre to protect from external aggression or internal disturbance). The duty is fulfilled through the governor who can issue directives and advisories in his name. Imposition of President's rule also through a Governor report (356) or otherwise too (can be done suo motu by the Centre). Mostly after Governor report, who is bound by no one in making such a recommendation. Such a dissolution under 356 cannot happen in the Union Government. 
+-These provisions make our constitution quasi-federal. Strong unitary features. Many people have called for removal of the office of governor altogether. But that would be extreme. Few governors have been very controversial but nevertheless, by and large constitutionally very relevant. 
+-The mechanism is very relevant for curbing secessionist movements. Army is an extreme option, but this is a constitutional option. 
+-Governors do not have a fixed tenure. Continues as long as he is at the pleasure of the President. Every time a new government comes in at the centre, governors from previous government can be chucked out and new people can be appointed. Many governors go back to active politics. (Sheila Dixit and Tathagata Roy)
+-This was challenged in BP Singhal v. UOI (2010)- the pleasure of the President must not be used for political reasons. Whether there can be a judicial review over appointments and dismissal of governors. 
+-B.P. Singhal v. Union of India
+https://indiankanoon.org/doc/1471968/ (Last few paragraphs)
+How is Pleasure of the President interpreted? 
+50. We summarise our conclusions as under :
+(i) Under Article 156(1), the Governor holds office during the pleasure of the President. Therefore, the President can remove the Governor from office at any time without assigning any reason and without giving any opportunity to show cause.
+(ii) Though no reason need be assigned for discontinuance of the pleasure resulting in removal, the power under Article 156(1) cannot be exercised in an arbitrary, capricious or unreasonable manner. The power will have to be exercised in rare and exceptional circumstances for valid and compelling reasons. The compelling reasons are not restricted to those enumerated by the petitioner (that is physical/mental disability, corruption and behaviour unbecoming of a Governor) but are of a wider amplitude. What would be compelling reasons would depend upon the facts and circumstances of each case.
+(iii) A Governor cannot be removed on the ground that he is out of sync with the policies and ideologies of the Union Government or the party in power at the Centre. Nor can he be removed on the ground that the Union Government has lost confidence in him. It follows therefore that change in government at Centre is not a ground for removal of Governors holding office to make way for others favoured by the new government.
+(iv) As there is no need to assign reasons, any removal as a consequence of withdrawal of the pleasure will be assumed to be valid and will be open to only a limited judicial review. If the aggrieved person is able to demonstrate prima facie that his removal was either arbitrary, malafide, capricious or whimsical, the court will call upon the Union Government to disclose to the court, the material upon which the President had taken the decision to withdraw the pleasure. If the Union Government does not disclose any reason, or if the reasons disclosed are found to be irrelevant, arbitrary, whimsical, or malafide, the court will interfere. However, the court will not interfere merely on the ground that a different view is possible or that the material or reasons are insufficient.
+-Para 1 and 2 have inherent contradictions (visible prima facie)
+-This didn’t really change anything. Union government can easily justify that prima facie it was not arbitrary, malafide, capricious or whimsical. Materials on record can never have such reasons given to the President. Even if everyone knows that a person has been removed arbitrarily, purely because of change in government, cant really do anything. The judgement was completely futile. 
+-Governor played a very proactive role in Nandigram crisis and Singur crisis. Tried resolving it by bringing parties to the table and dialogue. People like Gopal Krishna Gandhi (WB Governor). 
+-Maybe we can identify governors by their political allegiances but not always the case, even the Constitution doesn’t envisage this. 
+-There can be certain other areas, which is clear from the first line (without being exhaustive)
+-Political morality- some things done which are not strictly against the rules but against propriety. Incident in 1999. From 1996 onwards, the period was troublesome. Lot of governments formed and fell. ABV>Deve Gowda> IK Gujral
+-1998- again elections, ABV came once more and 1999 fell again by one vote. The no-confidence was going to be tight. As suggested by many others to ABV. 
+-There was this Congress MP- Giridhar Kamang. He was told to move to Bhubaneshwar and become the CM. He did so but was yet to resign from the Parliament. Pranab Mukherjee asked him to go to Lok Sabha and cast his vote. He went towards the end, BJP MPs started protesting, but speaker said he hasn’t resigned and is still an MP. The no-confidence motion was passed by one vote of Kamang. He immediately resigned after. 
+-Can be questioned on grounds of morality. But within the rules. 
+-Use of discretion can be challenged on grounds of malafides, extraneous circumstances etc. (Rameshwar Prasad v State of Bihar)
+-Governor had recommended Prez rule just by reading newspaper reports of Horse Trading, struck down by SC on malafides. By then, elections had already been announced again. Nitish Kumar won easily, primarily because of the wave created by the SC decision who also acknowledged that he had been victimised. 
+-Pocket veto not laid down as discretion because it is inaction on his part, not doing anything. Also because the list is not exhaustive. 
+
+Pardoning Powers of President
+
+-Section 433A of CrPC- if someone punished with life imprisonment, there may be chance a an appropriate government can pardon and reduce it to 14 years. Discretion given to the government. 
+-Constitutionality was challenged on Article 14 in Maruram case. 
+-Most of pardoning powers present in the CrPC. 
+-Article 72- Power of President to give pardon or commute sentences. 
+(1) The President shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence-
+
+(a) in all cases where the punishment or sentence is by a court Martial;
+
+(b) in all cases where the punishment or sentence is for an offence against any law relating to a matter to which the executive power of the Union extends; (Union list and concurrent list)
+
+(c) in all cases where the sentence is a sentence of death.
+
+(2) Nothing in sub-clause (a) of Clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor of a State under any law for the time being in force
+
+Article 161- Governor’s pardoning power. 
+Power of Governor to grant pardons, etc, and to suspend, remit or commute sentences in certain cases The Governor of a State shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence against any law relating to a matter to which the executive power of the State extends (state list and concurrent list)
+
+
 3.9.20
 
+-If President doesn’t have any discretion whatsoever, why is he there? Some limited playing field must be available. To answer this question, one case- Shamsher Singh v. State of Punjab. 7-judge constitutional bench. They were dealing with some issues which had no such linkage to Presidential discretion. Some confusion about the scope of President and Governor’s discretion. 
 -In the case of Shamsher Singh v State of Punjab, Justice Krishna Iyer and Bhagwati said:
-Without being dogmatic or exhaustive, these situations relate to (a) the choice of Prime Minister (Chief Minister) restricted though his choice is by the paramount consideration that he should command majority in the House; (b) the dismissal of a Government which has lost its majority in the House but refuses to quit office; (c) the dissolution of the House where an appeal to the country is necessitous, although in this area the Head of State should avoid getting involved in politics and must be -advised by his Prime Minister (Chief Minister) who. will eventually take the responsibility for the step.
+Without being dogmatic or exhaustive, these situations relate to:
+(a) the choice of Prime Minister (Chief Minister) restricted though his choice is by the paramount consideration that he should command majority in the House. In 1996, President Shankar Dayal Sharma called BJP to the form the government. The government lasted only 13 days. Can ask parties to show support from MPs and MLAs and use other means to find out who can provide a stable government. This works with regard to a governor as well. (Karnataka example and Goa example). If one party has clear majority, then no discretion. There was a difference in the way discretion was used in both the states. In Karnataka, largest post-poll alliance was called and in Goa, largest party was called.
+(b) the dismissal of a Government which has lost its majority in the House but refuses to quit office;
+(c) the dissolution of the House where an appeal to the country is necessitous, although in this area the Head of State should avoid getting involved in politics and must be advised by his Prime Minister (Chief Minister) who will eventually take the responsibility for the step.
 -In 1996, no parties were close to the majority mark in the Lok Sabha. This is one area where the President or the Governor has some amount of discretion, provided that the person they call upon to form a government can maintain a majority.
 -IG suggested to dissolve the House to hold early elections, the President in such cases should explore alternatives because the House is supposed to function for a 5 year tenure. However, if the President fails to find an alternative, he will be forced to dissolve the House and issue an Appeal to the Nation to go vote and exercise their mandate again.
 
@@ -502,8 +625,7 @@ doubt. In the famous case of Beck who was convicted on mistaken identity, the Br
 (Home Secretary) exercised the power after a lapse of several years when the mistake was
 discovered. I am of opinion that in the conditions prevailing in the country this power of review
 should vest with the judiciary and not with the President, i.e., the Executive.
-It is well known that in
-cases of political clashes, the ruling party taken the upper hand and if after conviction by Court, the
+It is well known that in cases of political clashes, the ruling party taken the upper hand and if after conviction by Court, the
 President, i.e. the executive, exercises clemency for those convicted, the rule of law will be
 desecrated.
 
@@ -514,7 +636,7 @@ desecrated.
 2. To what areas does the power of the President scrutinize extend and
 3. Whether the petitioner is entitled to an oral hearing from the President in his petition invoking the powers under Article 72.
 -The answers to the above questions as given by the SC were as follows:
-1. It is opened with the President in the exercise of the power vested in him by Article 72 of the Constitution to scrutinize the evidence on the record of the criminal case and come to a different conclusion from that recorded by theCourt in regard to the guilt, and sentence imposes on the accused. In doing so, the President does not amend or modify or supersede the judicial record. The judicial record remains intact and undisturbed.
+1. It is opened with the President in the exercise of the power vested in him by Article 72 of the Constitution to scrutinize the evidence on the record of the criminal case and come to a different conclusion from that recorded by the Court in regard to the guilt, and sentence imposes on the accused. In doing so, the President does not amend or modify or supersede the judicial record. The judicial record remains intact and undisturbed.
 2. The rejection of the President cannot be subjected to judicial review on its merits except within the strict limitations defined in Maru Ram’s case.
 3. The proceedings before the President are of an executive character and there is no right of oral hearing. Finally, the Court directed, after quashing the petition, for fresh consideration to the President.
 
@@ -532,8 +654,8 @@ desecrated.
 (e) that the order suffers from arbitrariness
 -These 5 grounds are so vague that virtually any decision can come under one of these 5 grounds.
 
+-In the case of Devender Pal Singh Bhullar  v NCT Of Delhi (2013), 2-judge bench of the SC said that the delay in deciding the mercy petition does not mean that his crimes should be ignored and his sentence commuted. The nature of the offence that Bhullar has committed is much more serious and heinous.
 -In the case of Shatrughan Chauhan v UoI (2014), 3-judge bench of the SC said if there was delay in the disposal of a mercy petition, that delay could become the ground for commutation of a sentence. This relates only to the delay in those mercy petitions which dealt with death penalties.
-- In the case of Devender Pal Singh Bhullar  v NCT Of Delhi (2013), 2-judge bench of the SC said that the delay in deciding the mercy petition does not mean that his crimes should be ignored and his sentence commuted. The nature of the offence that Bhullar has committed is much more serious and heinous.
 
 7.9.20
 
@@ -543,7 +665,7 @@ Legislative power of the Executive
 -In the case of AK Roy v UOI (1980), it was reiterated that the President's satisfaction of the immediacy requirement could be questioned. However, since the Ordinance in question had already been made into a law they only looked into the Act in this case.
 -In the case of T Venkata Reddy v State of Andhra Pradesh (1985), the position was reversed and it was said that the  President's satisfaction would not be questioned.
 -DC Wadhwa v State of Bihar (1989) had said that ordinances could not be re-promulgated continuously except in very special circumstances. However, Bihar nationalised a few private Sanskrit schools via an ordinance and kept re-promulgating it. The question arises whether the teachers remained government servants when the ordinance lapses during the time the House is in session and the ordinance has lapsed?
--In the case of Krishna Kumar Singh v State of Bihr (1998), the court was deciding three things:
+-In the case of Krishna Kumar Singh v State of Bihar (1998), the court was deciding three things:
 	1.Question of immediacy requirement and whether President's satisfaction could be subjected to judicial review.
 	2.Re-promulgation of ordinance.
 	3.Doctrine of Enduring Rights.
@@ -564,6 +686,8 @@ Legislative power of the Executive
 
 9.9.20
 
+STARTING FEDERALISM
+
 -Some debate on how Art.1 would be phrased. It was mooted that India be called a "federation" of states. But, this was shot down in favour of "Union" of states.
 -Compnonents of Federalism as popularly understood:
 	1.Existence of two layers of government: federal and state.
@@ -576,3 +700,371 @@ Legislative power of the Executive
 	3.Supremacy of the Constitution is still respected though.
 	4.While dispute settlement is nominally free of interference, one only has to look at the GST Council to spot the lie. The Central government's vote in the Council counts for 1/3rd of the vote, while the states together count for only 2/3rds. An amendment to GST needs 3/4ths of the total vote, so the Centre has a virtual veto on any amendment. Disputes will also be resolved by a mechanism that is decided by the Council where the Centre has an outsized hold.
 -After the dilution of the domicile requirement, the Rajya Sabha is weakened as the repository of states' rights. How will Abhishek Manu Singhvi represent WB's rights when he probably doesn't even spend much time here? This is in opposition to the US Senate.
+
+10.9.20
+
+Constitutional Provisions which removes the slightest facade of federalism
+249- (1) Notwithstanding anything in the foregoing provisions of this Chapter, if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest that Parliament should make laws with respect to any matter enumerated in the State List specified in the resolution, it shall be lawful for Parliament to make laws for the whole or any part of the territory of India with respect to that matter while the resolution remains in force.
+250- (1) Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to any of the matters enumerated in the State List.
+252 - (1) If it appears to the Legislatures of two or more States to be desirable that any of the matters with respect to which Parliament has no power to make laws for the States except as provided in articles 249 and 250 should be regulated in such States by Parliament by law, and if resolutions to that effect are passed by all the Houses of the Legislatures of those States, it shall be lawful for Parliament to pass an Act for regulating that matter accordingly, and any Act so passed shall apply to such States and to any other State by which it is adopted afterwards by resolution passed in that behalf by the House or, where there are two Houses, by each of the Houses of the Legislature of that State.
+253- Notwithstanding anything in the foregoing provisions of this Chapter, Parliament has power to make any law for the whole or any part of the territory of India for implementing any treaty, agreement or convention with any other country or countries or any decision made at any international conference, association or other body.
+-Article 253- Government just needs to have a conference and decide certain things to make laws in the state list. 
+-Makes it really easy to circumvent. 
+-In executive relations, same things happen- executive instructions can be given to states who can be disqualified if they don’t follow. (Remember Kerala case)
+-Judicial competence- some balance is there
+-Supremacy of constitution- undisputed
+-Dispute Resolution Mechanism- Article 131 SC. Even here there can be unitary focus. Turn to GST, states entered because they thought GST council will compensate. Through collections, cesses or other sources. GST council – has Union government and state governments present. Every decision has to be taken with 75 % majority. In coming to this computation, weighted average, Union government- 1/3rd and state governments – 2/3rd . All must have one vote. But no. And most state governments run by BJP. Virtually, Union has veto power. 
+-GST provisions say that any dispute settlement, mechanism must be decided by GST council itself, not 131 (SC). Since this is a constitutional amendment, only BS can lie. 
+-GST compensation Act (came after the 101st amendment). It said deficit will be compensated for 5 years out of the GST compensation fund. Maintained through collections. So Nirmala Sitharaman might have a point with ‘act of God’ legally but this again is a provision which shows a unitary tilt. 
+
+State of WB case
+Key point of difference between Sinha and Subba Rao
+-Sinha- kept US as standpoint and Subba Rao, America is just one of the models
+-For Sinha. States are not sovereign, Subba Rao says states are sovereign. 
+-Sinha looks at the exceptions and Subba Rao looks at the norms, but practically these exceptions don’t remain as such because of power hungry governments at both levels. 
+-On sovereignty, Sinha looks at the history of formation of India and contrasts with formation of America. (a) A truly federal form of Government envisages a compact or agreement between independent and sovereign units to surrender partially their authority in their common interest and vesting it in a Union and retaining the residue of the authority in the constituent units. Ordinarily each constituent unit has its separate Constitution by which it is governed in all matters except those surrendered to the Union, and the Constitution of the Union primarily operates upon the administration of the units. Our Constitution was not the result of any such compact or agreement: Units constituting a unitary State which were non-sovereign were transformed by abdication of power into a Union.
+-In USA, states gave up some of their sovereign powers and gave it to the federation. Still governed by their constitutions. 
+-Whether state is sovereign or not- example given by advocate general of WB- if states are not sovereign, can the government building be taken over? In WB? It can, but that would be abuse of power according to Sinha. That cant be reason to say states are sovereign. 
+Supremacy of the constitution- Sinha says that the constitution is supreme and states have no power to amend it. Only Union has the power. Only some amendments require state ratification. 
+-Distribution of power- in matters of national importance, Union has power. Concurrent list and residual power also. Very little power with states, including taxation. Quality and quantity both with the centre. State subjects can also be usurped under certain circumstances, given above. 
+-Supreme authority of the courts for dispute resolution- this is there according to Sinha in full force. GST council example yesterday, sometimes it can be skewed. 
+-Subba Rao says that unnecessary importance being given to the US model. Other federal models also exist. 
+-On the basis of a comparison of the Indian Constitution with that of America, it is argued that none of the important criteria of a federation is present in the Indian Constitution. "Federalism in the United States embraces the following elements : (1) as in all federations, the union of several autonomous political entities, or "States", for common purposes; (2) the division of legislative powers between a "National Government", on the one hand and constituent "States", on the other, which division is governed by the rule that the former is "a government of enumerated powers" while the latter are governments of "residual powers"; (3) the direct operation, for the most part, of each of these centers of Government, within its assigned sphere, upon all persons and property within its territorial limits; (4) the provision of each center with the complete apparatus of law enforcement, both executive and judicial; (5) the supremacy of the "National Government" within its assigned sphere over any conflicting assertion of "state" power; (6) dual citizenship." The aforesaid elements are no doubt present in the American Constitution, but it is not possible to contend that unless all the said criteria exist a constitution cannot be described as a federal one. Though on paper the American Constitution is a typical federation, in practice the Supreme Court of the United States of America by evolving and developing many legal doctrines and implied powers has invested the Federal Government with large powers to enable it to interfere indirectly in the States' field. Even in regard to judicial power, though the American Supreme Court was originally conceived to be a Federal Court concerning itself with federal laws, in fact it authoritatively interprets the State laws when they come into conflict with federal laws. The point is that even in America there is no federation in the orthodox sense of the term.
+-In USA also, federalism has been diluted due to court’s interpretation. Even the true federation of USA is not completely ideal. 
+-Other examples where the four features are not found but still called federal- Canada, Australia etc. 
+-It is, therefore, clear that in every federal Constitution there are either textually or customarily some unitary elements. The real test has to ascertain whether a particular Constitution has accepted the federal principle or not is whether the said Constitution provides for the division of powers in such a way that the general and regional governments are each within its sphere substantially independent of the other. The reservation of the residue of power or the power to interfere with States' affairs in emergencies in the Union may affect the balance of power in a federation, but does not destroy its character. Some Constitutions show a marked bias towards the Federation and the others towards the States, but notwithstanding the varying emphasis they accept the federal principle as their basis. Though some authors, accepting the American Constitution as the yardstick for a federation, prefer to describe Constitutions with a bias towards Union as quasi-federations, I do not think it is inappropriate to describe all Constitutions which substantially accept the federal principle as Federations. Applying this test, I have no doubt that the Indian Constitution is a federation, as the units in normal times exercise exclusive sovereign powers within the fields allotted to them.
+-India’s history different, strong centre to prevent any fissiparous tendencies. 
+-States are politically sovereign according to Subba Rao. Cant take away property. 
+-Subba Rao also says Article 31 (Right to Property) of the state is getting affected since state is a ‘person’
+
+Interpretation of Article 246
+Subject matter of laws made by Parliament and by the Legislatures of States
+(1) Notwithstanding anything in clauses ( 2 ) and ( 3 ), Parliament has exclusive power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule (in this Constitution referred to as the Union List)
+(2) Notwithstanding anything in clause ( 3 ), Parliament, and, subject to clause ( 1 ), the Legislature of any State also, have power to make laws with respect to any of the matters enumerated in List III in the Seventh Schedule (in this Constitution referred to as the Concurrent List)
+(4) Parliament has power to make laws with respect to any matter for any part of the territory of India not included (in a State) notwithstanding that such matter is a matter enumerated in the State List
+Hierarchy is 1, 3 and 2.
+
+Non obstante clause (notwithstanding clauses)
+-If it is alleged that a law is beyond the legislative competence of the Parliament, first look at Union List, notwithstanding any other list. Look at every entry to try and fit the law. Doctrine of Plenary Powers- each entry you give the widest possible meaning, maximum amplitude possible. Then try to fit the law. If yes, legislative competence there. If no, then go to List 3. 47 entries- if it can be fit then legislative competence is there. Here also, plenary powers available. If not in the concurrent list also, then go to the state list (lowest in the hierarchy). If not there, go to Entry 97 (residuary powers). 
+-In this case, the court said Entry 42 deals with acquisition of property meaning all kinds of property giving it is plenary meaning. Therefore, allowed to take state property. 
+
+-Also, unitary tilt is shown through the fact that the Union can alter, destroy and form a state unilaterally. Only views of state assembly required, not binding. 
+
+-What is the point of having the state itself, the state assembly and the state list? This question has been asked wrt not only the Constitution but the GOI Act 1935.
+-British House of Commons believed in enumeration of lists and outlining subject matters properly without leaving it open to interpretation. 
+
+2 doctrines of interpretation
+-Pith and Substance and Harmonious Construction rule- used to restore some parity to the process
+Read Legislative Competence article in Oxford Handbook- Sir will discuss later.
+
+Pith and Substance Rule
+-The state of WB is passing a law- to regulate moneylenders (non-institutional). Someone challenges this on grounds of legislative competence. WB says they can pass the law based on Entry 30 of List II (Moneylending and Moneylenders). The one who is challenging it on Entry 46 of List I. (Bills of exchange, cheques, promissory notes and other like instruments)
+-In a situation like this, both Union and state are competent but repugnancy is different and state law is repugnant if Union Law in conflict. 
+-This case took place during the GOI Act 1935. 
+-If plenary powers and non obstante followed, then state not competent. It falls under Union list and then we don’t go further, state list non-existent. 
+-But if such is followed, no point in having state list at all. 
+-In this case, law related directly to Entry 30 of the state list. Entry 46 just covers the means of moneylending. The overlap is incidental, not substantial- in this case, the doctrine of Pith and Substance allows us to ignore the overlap and look at the crux of the law. This is the Pith and Substance rule. 
+-The case was Prafulla Kumar Mukherjee v Bank of Commerce, Khulna- Pith and Substance was used to hold that the law is within the legislative competence of the state. 
+-If Union had passed the same, may have been beyond legislative competence using the same doctrine. Plenary powers, but can’t extend to absurd limits. Entry at hand is Promissory notes etc. cannot be logically extend to such limits. 
+-If overlap is substantial, plenary powers need to used. 
+-There is a state law, from 10 in the night to 6 in the morning, can’t play loudspeakers. Challenged on grounds of legislative competence. State says, Entry 6 (6. Public health and sanitation; hospitals and dispensaries.) and Entry 1 (Public order) 
+- Entry 31. Posts and telegraphs; telephones, wireless, broadcasting and other like forms of communication. - Union list, challenged on this. 
+-State of Rajasthan v G. Chawla- read this case to get the answer. 
+-A situation may be such that a particular body is competent to pass a law but is repugnant to some other law. But this isn’t the law in India. Both are fused. Article 254 talks about repugnancy. 
+-Loudspeakers being regulated only for a few hours in the night. SO can fall under State list. Maybe if there was a blanket ban, then it would have come under the Union List. Or maybe if there was a prohibition on the sale of loudspeakers. 
+-First we need to look at the crux of the law- certain hours in the night no loudspeaker to safeguard the right to sleep at night. It is a public health-oriented legislation. Not so much about loudspeakers. More about maintaining public health and public order. Encroachment if any is incidental not substantial. Pith and substance of the law justifies that the state is competent to pass it. 
+-Same goes with car horns- if law to regulate it in front of schools or hospitals, public order and health but if altogether banned then encroachment might be substantial.
+
+Doctrine of Harmonious Construction 
+-There is this student who has done schooling in English. After schooling, college says that for them the exclusive language of instruction is Hindi or Gujarati. Student argues that his first language is English. But college says that the student has to prove his mother tongue is English, only then an exception can be made. The father decides to challenge the law. Primary ground of challenge is legislative competence. Education part of Entry 11 in the state list (previously in state list). 
+-Entry 25. Education, including technical education, medical education and universities, subject to the provisions of entries 63, 64, 65 and 66 of List I; vocational and technical training of labour (earlier Entry 11 of the state list). 
+-Entry 66. Co-ordination and determination of standards in institutions for higher education or research and scientific and technical institutions.- Union List
+-Student argues that setting standards is for Union Lists and entry 11 is subject to Entry 66 of the Union List. Language is part of the setting standards. The state argues that standards mean other things like student-teacher ratio etc., min. qualifications of teachers not setting the medium of instruction. This would directly fall under Entry 11 of the state list. 
+-Mother tongue conventional meaning used- language used at home. Not medium of instruction. 
+-Case: Gujarat University v. Krishna Ranganath Mudholkar, AIR 1963 SC 703
+(Coram: Sinha, C.J., Jaffer Imam, Wanchoo, Shah, Ayyangar, Subba Rao, JJ.)
+-The case debated over the fixation of exclusive medium of instruction in University Education by virtue of the Gujarat University Act, 1949 (amended in 1961) and associated statutes, and the Legislative competence of the State Legislature therein. The amendment to the Act had made Gujarati and Hindi as exclusive media of instruction and examination, which was challenged by the Petitioner who wanted to attend the
+classes in English.
+-The questions to be determined in this case were:
+(1) whether the Gujarat University had the power to prescribe Gujarati or Hindi or both as exclusive medium or media of instruction and examination,
+(2) whether a legislation authorising the University to impose such media was constitutionally valid in view of Entry 66 of list I of the Seventh Schedule to the Constitution.
+
+-It was held that it was not correct to say that legislation prescribing the medium or media of instruction in higher education and other instructions must fall within Item 11 of List II (Education, as it then stood, before it was taken over to the Concurrent List) of the Seventh Schedule to the Constitution of India. The use of the expression “subject to” in that Item clearly indicates that legislation in respect of matters excluded by that Item could not be undertaken by the State Legislature and since imposing of a regional language was excluded by it, the State Legislature was not competent to impose it. In arriving at this conclusion, the Court makes use of the Doctrine of Harmonious Construction.
+
+-Another argument centre can take- for matters of convenience and smooth transition between states, medium of instruction needs to be set by the Parliament. 
+-In the case, the majority said that its beyond the competence of the states- language has something to do with standards. Used the method of harmonious construction. In Pith and Substance, there is an overlap still. In harmonious construction, a perfect segregation can be done, like in this case. That school education and to a limited extent, higher education is part of state list. 
+-Dissent- Subbarao- language has nothing to do with standards. The overlap is incidental and Pith and Substance must be used to say that state was legislatively competent. 
+-2 forms of segregation possible- higher education in state list, except a few aspects
+-School education in state list, and some aspects of higher education, rest in Union List. 
+-O.N. Mohindroo v Bar Council of Delhi- For Harmonious Construction
+-Sir isn't the rule of harmonious construction in repugnance with the tenet, separation of powers because here the court itself is modifying the scope and reach of an entry and then using it to give effect to the law. Does the prerogative of interpretation also include the ability to modify the entry? Which is not the case in the pith and substance rule as only the substance of the law after interpretation is sought to be fit into any of the entries.
+-In Gujarat case, two ways by which problem could be solved- Pith and Substance (Look at overlap as incidental and states must be competent, this was the dissent) and Harmonious Construction. (all aspects of school education lie with state, all aspects of higher edu except those in 63, 64, 65, 66 lie with the state, carve out two completely isolated spheres). If infraction is substantial, plenary powers used. 
+-If courts separate the two, they are only trying to ensure that the two governments can function within their individual spheres. The main purpose of enlisting subjects was to separate the powers, if still there is litigation then courts have to develop a mechanism like Harmonious Construction.
+-So is the judiciary by applying these doctrines essentially overruling State of WB v. UOI where it was held by the majority that India is not a Federal country and Union can even destroy the States.- No, it just wants to prevent the ratio from being taken to absurd levels. And give some power and relevance to the states as well. 
+-State of Karnataka v. M/S Drive- In Enterprises (Pith and Substance)- read
+-Union of India v Harbhajan Singh Dhillon- 7 judge bench (4-3 majority). 
+UOI represented by MC Setalwad, Dhillon by Palkivala.
+-Net capital value of agricultural property will be charged through wealth tax- new amendment to wealth tax act. Challenged on two grounds- 
+-Entry 86. Taxes on the capital value of the assets, exclusive of agricultural land, of individuals and companies; taxes on the capital of companies. In Union List. This was used by Dhillon. Agricultural land is excluded. 
+-Entry 49. Taxes on lands and buildings.- State list. So state is competent not Union. 
+-Most of what Punjab and Haryana HC did was with Entry 49 of the State list, used various interpretations and said that it doesn’t fall into Entry 49. Used Tax jurisprudence- not very important. They also said Entry 86 also doesn’t cover this, since excluded. Which means no one can legislate on this. Union argues on Entry 97 in the SC- residuary powers. Palkhivala said that the argument is absurd since taxes on net capital value of agri land has been specifically excluded from the ambit of Entry 86. How can it be brought back to the Parliament through other means? Clear that the constitution makers didn’t want the Parliament to legislate on this matter. 
+-Entry 82. Taxes on income other than agricultural income.- uses this to say that an exception has been created and then the inclusion can be found in the state list. 
+-86 is the only entry where there is an exclusion and no inclusion elsewhere, which means no one can legislate. 
+-Setalwad argues that Parliament is competent under 97. Someone must have the power, and since there is no inclusion anywhere it is the Parliament. 
+-Palkivala argues that residuary powers must be used for matters which are not there in any of the lists- in this case a specific exclusion has been created. 
+(We are assuming that the power is not under 49 of the state list based on tax jurisprudence). 
+-About Entry 97 and Article 248, a unique argument by Palkhivala. 
+-97. Any other matter not enumerated in List II or List III including any tax not mentioned in either of those Lists
+-Palkivala says the word ‘other’ matters, which means something that cannot be found in any lists, not mentioned. But agricultural land is mentioned and excluded, so it not ‘any other matter.’ 
+-Setalwad says ‘other’ cannot be taken seriously, but even if not under Entry 97 but even then, look at Article 248. 
+-248. (1) Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. (2) Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists
+-Here ‘other’ is not mentioned. 
+-Palkhivala said why have Entry 97 if it is in conflict with Article 248?
+-The majority said that they will go with Setalvad and accepted UOI’s argument. (J Sikri)
+-Justice Shelat agrees with Palkivala and says that the consti makers could not have envisaged Parliament’s power to be excluded and included under other entries. 
+254. (1) If any provision of a law made by the Legislature of a State is repugnant to any provision of a law made by Parliament which Parliament is competent to enact, or to any provision of an existing law with respect to one of the matters enumerated in the Concurrent List, then, subject to the provisions of clause (2), the law made by Parliament, whether passed before or after the law made by the Legislature of such State, or, as the case may be, the existing law, shall prevail and the law made by the Legislature of the State shall, to the extent of the repugnancy, be void. 
+(2) Where a law made by the Legislature of a State 1 *** with respect to one of the matters enumerated in the Concurrent List contains any provision repugnant to the provisions of an earlier law made by Parliament or an existing law with respect to that matter, then, the law so made by the Legislature of such State shall, if it has been reserved for the consideration of the President and has received his assent, prevail in that State:
+Provided that nothing in this clause shall prevent Parliament from enacting at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislature of the State.
+-In Article 254, most of the dispute relate to the placement of a punctuation mark. 254 deals with the doctrine of repugnancy. 
+-Existing Laws is every pre-constitutional law like IPC.
+-Between the two branches in part 1, there is a comma, then the part before the comma and the part after needs to be looked at separately. Therefore, the qualifier of concurrent list should apply only to the second branch (existing law) and not to the first half. Must be a comma after ‘with respect to.’ 
+-One argument is that the qualifier of concurrent list must apply to both. If it doesn’t apply, then no point of the doctrines we have discussed so far, first part will essentially be redundant. SC has also said this in most SC judgements. 
+-Hoechst Pharmaceuticals v State of Bihar, Vijay Kumar Sharma v State of Karnataka, Deep Chand v State of UP, M Karunanidhi v Union of India.
+-On the other hand, there is enough literature who say that this interpretation is wrong- Prof. PK Tripathi. Argues a very interesting point. It is not necessary that everything in 254 deals with concurrent list. He gives an example of how the first part can be looked at as a reconciler. Just like Article 251 reconciles conflicts in laws passed under 249 and 250. Similarly, 252 and 253 allows the Parliament to pass some laws in the state list. What if there is a conflict between such laws and state laws, the reconciler is given by 254 first part. It resolves the conflict. No other reconciler given in other Articles. 
+-Can be opposed- 254 doesn’t have a reference to 252 and 253 at all. It rather says, the law a Parliament is competent to enact. In 251, reference is there. 
+-249 and 250 laws are temporary in nature while 252 and 253 are permanent- therefore a division there. 
+-Niranjan’s article in the Oxford Handbook also makes an argument to support Tripathi’s proposition but argument is different. 246 and 254 deal with different things. 246 deals with competence and 254 deals with repugnancy. 246 doesn’t require there are two laws- only says if there are two subject matters similar, what is the hierarchy? Gujarat and Prafulla case were both wrongly decided according to him. Repugnance fallacy- competence and repugnance are different. If there is a conflict, then 254 (1) can be used for reconciling. But then, why is there a mention of concurrent list there at all? Could have omitted it and the article would have had the same meaning. Niranjan argues that the comma means that both parts are separate. More importantly, he says look at the GOI Act. Initially this reference to concurrent list was not there. Inserted by an amendment only for existing laws and state law conflicts. The same reasoning extended to Constituent Assembly as well. Therefore, the legislative history says that the comma is meant to separate both. 
+Supreme Court- no difference between the two parts. The entire thing pertains to the same entry in the concurrent list. Comma and all doesn’t matter. Vijay Kumar Sharma deals with two laws dealing with two entries of the concurrent list, 254 not used. So SC’s argument is very simple. 
+If we look at the substance of 254 (1), it says only ‘one of the matters enumerated in the concurrent list.’ 
+The repugnancy will have to be concerned with the same entry in the concurrent list. If different entries, 254(1) wont apply.
+Vijay Kumar Sharma v. State of Karnataka- Contract Carriages Act is essentially in violation of the MV Act which is a central law. To be struck down as repugnant. He was using the repugnancy (Article 254 (1)). For a state law to be repugnant to a central law, it has to deal with the same subject in the concurrent list. 
+Vijay Kumar Sharma – it deals with two entries in the concurrent list- Regularising contracts and Motor vehicles. Court said only HR Cons. Or Pith and Subs can be used, not Article 254. 
+Justice Mishra concurring opinion-  1. There is no direct inconsistency between the Karnataka Contract Carriages (Acquisition) Act, 1976 and the  Motor Vehicles Act, 1988. [631G-H]
+    2.1	 In cl. (1) of Art. 254 of the Constitution  it	 has
+been clearly indicated that the competing legislations	must
+be  in respect of one of the matters enumerated in the	Con-
+current List. In the instant case, the State Act was an	 Act
+for  acquisition and came within Entry 42 of The  Concurrent
+List. The Parliamentary Act on the other hand is a  legisla-
+tion  coming within Entry 35 of the Concurrent List.  There-
+fore, the said two Acts as such do not relate to one  common
+head  of  legislation  enumerated in  the  Concurrent  List.
+Clause	(2) also refers to the law with respect to the	same
+matter. [628F; 629A]
+    2.2 Repugnancy between two statutes would arise if there
+is direct conflict between the two provisions and if the law
+made by Parliament and the law made by the State Legislature
+occupy	the same field. In the instant case, the  State	 Act
+intended  to eliminate private operators from the  State  in
+regard	to  contract carriages acquired under  the  existing
+permits, vehicles and ancillary property and with a view  to
+giving	effect to a monopoly situation for the State  Under-
+taking	made provision in s. 20. The Parliamentary Act	does
+not  purport to make any provision in regard to	 acquisition
+of contract carriage permits which formed the dominant theme
+or the core of the State Act. Nor does it in s. 73 and s. 74
+indicate as to who the applicant shall be while laying	down
+how  an application for a contract carriage permit shall  be
+made  and how such a permit shall be granted. Section 80  of
+the  Parliamentary Act does contain a liberalised  provision
+in the matter of grant of permits but even then there  again
+the ancillary provision contained in s. 20 of the State	 Act
+to  effectuate acquisition does not directly run counter  to
+the 1988 provision. [630G; 631C]
+617
+    There does not thus appear to be any repugnancy  between
+the  two  Acts for invoking Art. 254  of  the  Constitution.
+
+
+-Dominant Theme of the law needs to be looked at to see it comes under which entry. Therefore, it is essentially a Pith and Substance test. You look at the crux of the law and then decide whether it’s the same entry or different entry. If same, 254 applied, otherwise go back to 246. 
+
+Article 254 (2) 
+(2) Where a law made by the Legislature of a State 1 *** with respect to one of the matters enumerated in the Concurrent List contains any provision repugnant to the provisions of an earlier law made by Parliament or an existing law with respect to that matter, then, the law so made by the Legislature of such State shall, if it has been reserved for the consideration of the President and has received his assent, prevail in that State: 
+Provided that nothing in this clause shall prevent Parliament from enacting at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislature of the State.
+-State law can be saved if state law passed after the Parliamentary law has been passed. It will prevail in the state if Presidential assent is given. Parliament may repeal the law as well (proviso). 
+Zaverbhai Amaidas v State of Bombay- 1954 case
+-There is a Parliamentary Law which prescribes a certain punishment for an offence (3 years). There is a state law which comes later on, prez assent received. Enhancing the period of offence to 7 years. The Parliament amends the original law, makes 3 offences and 3 punishments. If someone convicted in the state, which law will apply? Related to essential commodities. 3 kinds of hoardings were created. 
+-Court said Parliamentary law will apply using the proviso to 254 (2). Provided that nothing in this clause shall prevent Parliament from enacting at any time any law with respect to the same matter…it just includes a law which amends or repeals a state law, can be a standalone law. No need to target the state law specifically. 
+
+
+21.9.20
+
+Types of Repugnancy
+-Subba Rao J's 3 pronged test in Deep Chand v State of UP
+(1) whether there was a direct conflict between  them,
+(2) whether	 Parliament intended to lay down an exhaustive	code in  respect of the subject-matter replacing the Act of the State Legislature,
+(3) whether both the  laws  occupied the same field.
+-This is known as the rule of Intended Occupation.
+-In the case of Deep Chand, Parliament passed a law which amended the Motor Vehicles Act and passed a law dealing with nationalisation of motor vehicles and roadways. UP also passed a law dealing with nationalisation of bus routes. These two laws were not exactly in conflict with each other.
+-Subba Rao says that Parliament did not intend to exhaustively cover nationalisation related to motor vehicles and roadways. Thus, the State law stands.
+
+-Fazl Ali J in M Karunanidhi v Union of India:
+1. Where the provisions of a Central Act and a State Act in the Concurrent List are fully inconsistent and are absolutely irreconcilable, the Central Act will prevail and the State Act will become void in view of the repugnancy.
+2. Where, however, a law passed by the State comes into collision with a law passed by Parliament on an Entry in the Concurrent List, the State Act shall prevail to the extent of the repugnancy and the provisions of the Central Act would become void provided the State Act has been passed in accordance with clause (2) of Article 254.
+3. Where a law passed by the State Legislature while being substantially within the scope of the entries in the State List entrenches upon any of the Entries in the Central List the constitutionality of the law may be upheld by invoking the doctrine of pith and substance if on an analysis of the provisions of the Act it appears that by and large the law falls within the four corners of the State List an entrenchment, if any, is purely incidental or inconsequential.
+4. Where, however, a law made by the State Legislature on a subject covered by the Concurrent List is inconsistent with and repugnant to a previous law made by Parliament, then such a law can be protected by obtaining the assent of the President under Article 254(2) of the Constitution. The result of obtaining the assent of the President would be that so far as the State Act is concerned, it will prevail in the State and overrule the provisions of the Central Act in their applicability to the State only. Such a state of affairs will exist only until Parliament may at any time make a law adding to, or amending, varying or repealing the law made by the State Legislature under the proviso to Article 254.
+
+Tika Ram v State of UP
+-Industries (Development and Regulation) Act, 1951 was broght forth by UP. Tika Ram said that the UP Act is invalid and must not apply. He said- the state law is repugnant. 
+-Even assuming that sugarcane was an article or class of articles relatable to the sugar industry within the meaning of section 18-G of Act LXV of 1951, it is to be noted that no order was issued by the Central Government in exercise of the powers vested in it under that section and no question of repugnancy could ever arise because, as has been noted above, repugnancy must exist in fact and not depend merely on a possibility.
+-The possibility of an order under section 18-G being issued by the Central Government would not be enough. The existence of such an order would be the essential prerequisite before any repugnancy could ever arise.
+
+State of Kerala v Mar Appraem Kuri
+-A firm dealing with chit funds in Kerala. There was a law called Kerala Chitties Act, 1975- regulated chit funds stringently. But, Chit Funds Act, 1982 was made by the Centre.
+Section 1(3) in the Chit Funds Act, 1982
+(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different States.
+-Justice Kapadia says just the fact that a Union law exists, it will be extended to its fullest potential and thus, the state law is repugnant by the mere fact of existence of a Central law. Since, Art. 254 only says "law made" and not "law in force".
+-State of Kerala had argued that until the law has been notified and formally come into force in Kerala, a person will not be bound by it until then.
+-Thus, the state law is struck down.
+
+22.9.20
+
+-Some laws are applicable in an extra-territorial capacity, like the IPC.
+-This stems from the Doctrine of Territorial Nexus (Art. 245): The nexus has to be between the person and the legislating state. Second, the nexus has to be real and not illusory as judged by the SC.
+-IMDT Act- only for Assam. Parliamentary laws can have limited operation in terms of areas. AFSPA also. Even states can have laws for disturbed areas for instance. Can have it for the whole or for the part.
+-In the case of GVK Industries v. Income Tax Officer, law had been passed by Parliament to be used on companies and persons residinga abroad. The SC had to look at this law in the context of Art.245. The word 'for' in this Article has a special connotation. If a law is passed for the benefit of Indians abroad, it will be applicable on them.
+-In the case of State of Bombay v RMD Chamarbaugwala, a newspaper had its office in Bangalore which had a prize competition. Despite this, a lot of its operation was conducted in the State of Bombay, more than what it conducted in the State of Mysore. Now Bombay was trying to tax the paper's revenue highly. However, the argument was made that only Mysore could tax this revenue as the office was registered in Bangalore. Since, there is a very substantial nexus with Bombay as the lion's share of revenue is generated in Bombay, the law was upheld and constitutionally valid.
+-In the case of Tata Iron and Steel Company v. State of Bihar, Bihar had imposed a tax on their sales no matter where it was being sold. SC said a territorial nexus existed and the tax was upheld. Dissent- difference between manufacturing and sales. The former can be used for nexus, not the latter. 
+
+23.9.20
+
+STARTING EMEREGENCY
+
+3 categories of Emergency
+-General/Constitutional Emergency (Art. 352)
+-Financial Emergency (Art. 360)
+-State Emergency (Art. 356)
+
+-When emergency was imposed in 1975, we were already under emergency due to the 1971 war. 
+
+Art.352
+-There were only 3 grounds in this Article. War, External Agression and Internal Disturbance.
+-With the 44th Amendment, the ground Internal Disturbance was changed to Armed Rebellion.
+-War- 1971, external aggression- maybe Kargil and whats happening in Ladakh rn. Illegal immigration on a large scale. 
+War, there is a formal declaration usually. Thin difference. 
+Internal Disturbances- Opposition leader becoming popular can also be an act of internal disturbance. In 1975, internal disturbances were, according to IG in an interview, that there could have been a civil war, secret services were fanning protests in India. But she was allowed because in 1975, Article 352 allowed emergency due to internal disturbance. 
+In armed rebellion, the threshold is much higher than a mere internal disturbance. The basis of proclamation of 1975 emergency was undone. 
+There was also a huge allegation about how the 1975 emergency was proclaimed. The cabinet was not consulted. Only a few handful of people knew about it. The prez was asked to proclaim emergency orally- not even a written document- this is mostly a conspiracy. After the amendment, 352 (3)- The President shall not issue a Proclamation under clause (1) or a Proclamation varying such Proclamation unless the decision of the Union Cabinet (that is to say, the Council consisting of the Prime Minister and other Ministers of Cabinet rank appointed under article 75) that such a Proclamation may be issued has been communicated to him in writing.
+(4) Every Proclamation issued under this article shall be laid before each House of Parliament and shall, except where it is a Proclamation revoking a previous Proclamation, cease to operate at the expiration of one month unless before the expiration of that period it has been approved by resolutions of both Houses of Parliament:
+Many other procedural changes. Clauses 3 to 8 all inserted by the 44th Amendment. 
+Prior to the amendment, within two months the proclamation had to be ratified, brought down to one month. Ratification required a simple majority before the amendment, now 2/3rds required. 
+Till the amendment, no need for periodic review of the emergency, after the amendment, review after every 6 months and every time renewal has to happen with two/thirds majority/. 
+Ratification has to be done after one month from proclamation, not after the house comes into session.
+Emergency can be revoked by a simple majority, also if one tenth of the members of the LS write to the Prez and if house in session write to the speaker, then within 14 days the house has to be reassembled (if not in session) and revoked by a simple majority.
+
+24.9.20
+
+-The Centre can give administrative directions to states. And if such directions are not followed, it would be a ground for Emergency.
+-Art.353 clearly tells us that the Centre can give binding directions to the States.
+-Art.354 also has provisions for financial directives. The centralisation is complete when an Emergency is in force.
+-The 1971 Emergency was technically not revoked till 1977.
+-Art. 358 & 359.
+-Originally 358 said that all freedoms under Art.19 gets suspended when an Emergency is declared. This means you cannot file a suit at any point of time, even after the Emergency has been revoked because you did not have rights to be violated in the first place.
+-Originally 359 said that apart from Art.19 the enforcement of all other rights stand suspended. This means that you can demand enforcement of these other rights after the Emergency has been revoked.
+-Art.358 changes:
+	1.The law has to be temporary in nature
+	2.The law has to state how it is related to the Emergency.
+	3.The law is needed to suspend Art.19, it is not automatic anymore.
+-Art.359 changes:
+	1.Art.20 & 21 can never be suspended.
+	2.A Presidential Order is needed to suspend enforcement of rights.
+
+25.9.20
+
+-Any and every situation under Art.355 can be taken to absurd ends.
+	1.Categorise a situation as external aggression like illegal immigration.
+	2.Issue directives to amend the situation to the state.
+	3.Impose Emergency if directives not followed.
+-The above is vis-a-vis the Centre and the States.
+
+Article 356
+-President can either rely on the Governor's report or without one, to dismiss the government. If, in the opinion of the President, the governance is not being carried out in accordance with the Constitution.
+
+28.9.20
+
+Impact of proclamation of Emergency
+
+-In 1975, judicial review was not possible for any executive decision. So not for Emergency. Today, after Bommai and etc. it should be available on certain grounds. Maybe, because we have never again had such a situation can’t really say. 
+-If today there were to be repromulgation, maybe fraud like in ordinance. 
+353. While a Proclamation of Emergency is in operation, then
+(a) notwithstanding anything in this Constitution, the executive power of the Union shall extend to the giving of directions to any State as to the manner in which the executive power thereof is to be exercised;
+If not exercised, then this can be a ground for imposing prez rule. (355, Kerala case). In normal times also this happens, but in Emergency, executive power can extend to State list also. 
+(b) the power of Parliament to make laws with respect to any matter shall include power to make laws conferring powers and imposing duties, or authorising the conferring of powers and the imposition of duties, upon the Union or officers and authorities of the Union as respects that matter, notwithstanding that it is one which is not enumerated in the Union List:
+-Legislative, executive, administrative and financial- all kinds of centralisation. 
+-Huge Impact on governance more than rights.
+
+How Emergency affects rights 358 and 359
+
+Before and after 44th amendment
+-Before- Under 358, all Article 19 freedoms got suspended. Expression, speech etc. Cannot be challenged also.
+-Under 359- enforcement of all other rights suspended. This means other rights, can be enforced after Emergency (not for 19). During emergency. No. 
+-In 1975, this suspension of Article 19 was taken to absurd levels. Banning books, singers, censoring newspapers etc. 
+-There were a number of Habeas Corpus petitions were filed in different HCs- primary cause was preventive detention. Family members to know whether he/she was alive or not, just produce in front of the court. 
+-Forced sterilisations were also communal in nature (mostly Muslim dominated areas). Turkmani gate demolition of slums since they resisted. 
+-This provision that enforcement after emergency not really helpful. Highlighted best in ADM Jabalpur case. 
+-ADM Jabalpur v. Shivakant Shukla- appeals against many HCs orders granting Habeas Corpus. SC, by a 4-1 majority, said that 359 is clear- can't enforce rights, so writ petition cannot be entertained by the HCs. Enforcement of FRs suspended. Even the SC was functioning under the shadow of the Emergency. 
+-HR Khanna dissent- text doesn’t matter, superior norms and rule of law more important. If constitutionalism demands that the constitutional spirit must be protected and certain rights cannot be violated, then text not very important. So Habeas Corpus allowed.  
+-44th Amendment made significant changes to both 358 and 359
+-358 now- While a Proclamation of Emergency declaring that the security of India or any part of the territory thereof is threatened by war or by external aggression is in operation, so armed rebellion as a ground removed for suspension of Article 19 rights. 
+-If Article 19 has to be suspended, there has to be a law which needs to have a recital, wont apply to any law which does not contain a recital to the effect that such law is in relation to the Proclamation of Emergency in operation when it is made; or (b) to any executive action taken otherwise than under a law containing such a recital.
+
+Article 359 amended- can suspend enforcement except Articles 20 and 21 even if there is Emergency. 
+
+-As a further check against the misuse of the Emergency provisions and to put the right to life and liberty on a secure footing, it would be provided that the power to suspend the right to move the court for the enforcement of a fundamental right cannot be exercised in respect of the fundamental right to life and liberty. The right to liberty is further strengthened by the provision that a law for preventive detention cannot authorise, in any case, detention for a longer period than two months, unless an Advisory Board has reported that there is sufficient cause for such detention. An additional safeguard would be provided by the requirement that the Chairman of an Advisory Board shall be a serving Judge of the appropriate High Court and that the Board shall be constituted in accordance with the recommendations of the Chief Justice of that High Court.
+-Art. 355. It shall be the duty of the Union to protect every State against external aggression and internal disturbance and to ensure that the Government of every State is carried on in accordance with the provisions of this Constitution.
+-Internal disturbance goes away from 352, but stays here. It is a duty-based narrative. But actually another question on our federalism. It is the duty to issue directives and instructions. If not obeying, can become a ground for imposition of Prez rule. This cases huge rifts (WB and Centre- COVID). Union’s opinion on what constitutes internal disturbance is very subjective. 
+-Sarbananda Sonowal v. UOI- IMDT Act struck down. Hit Article 355. Argument was that illegal immigrants tribunal delays the process of expulsion of Bangladeshi immigrants. Under Foreigner’s Act the process is expedited. This delay amounts to external aggression- Union has failed in its duty. Large scale illegal immigration is external aggression. 
+-Even a law-making exercise can be against 355 after Sarbananda Sonowal. This can be taken to absurd proportions- could have been struck down under 14 and 21 also, 355 usage is an issue. Just because a law is ineffective does not mean it is unconstitutional on 355 grounds. Decision making cannot be looked at as an abdication of duty. 
+-2 steps under 355- first advisories issued and if not followed, 356 imposed. 
+-Art. 356. (1) If the President, on receipt of a report from the Governor 1 *** of a State or otherwise, is satisfied that a situation has arisen in which the Government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation— (a) assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor 2 *** or any body or authority in the State other than the Legislature of the State; (b) declare that the powers of the Legislature of the State shall be exercisable by or under the authority of Parliament; (c) make such incidental and consequential provisions as appear to the President to be necessary or desirable for giving effect to the objects of the Proclamation, including provisions for suspending in whole or in part the operation of any provisions of this Constitution relating to any body or authority in the State: Provided that nothing in this clause shall authorise the President to assume to himself any of the powers vested in or exercisable by a High Court, or to suspend in whole or in part the operation of any provision of this Constitution relating to High Courts
+Read 356 in full- very long
+Only first three clauses will be discussed.
+
+-Or otherwise- can impose without governor’s report also. Upon factors not illustrated by the governor. This describes the scope of applicability of 356. Mostly through governor’s report but there have been cases otherwise also like Karunanidhi Government. 
+-After 356 comes into force, government dismissed, even the state assembly can be dismissed and another election after Emergency removed. After Bommai, some procedural safeguards are there. 
+(3) Every Proclamation under this article shall be laid before each House of Parliament and shall, except where it is a Proclamation revoking a previous Proclamation, cease to operate at the expiration of two months unless before the expiration of that period it has been approved by resolutions of both Houses of Parliament.
+-Defections also became a major ground for imposing prez rule even before confidence motions or floor tests. Just because in the opinion of the Centre the government lost the confidence of the Assembly. 
+-Many courts have entertained cases by state governments asking for a writ of prohibition to the Central government. Courts used to say- Judicial Review not exercisable. 
+-As late in 1977- State of Rajasthan v. UOI (JP government had sent letters to various congress state governments to step down or else they will be dismissed)
+-Article 131 petition filed. Discussed before. First time in this case, SC said that if they find there is lack of any material on which Prez satisfaction has been derived, or extraneous circumstances, malafides etc. then limited judicial review can be exercised. In this case they did not intervene because pre-emptive and no actual dismissal had happened. Also they said that just because a political party had lost LS elections, cannot justify the dismissal of state governments of that party, without anything else. Actually a passing observation, but court would have probably accepted the dismissal since 1977 elections were very different. It was a rout for the Congress. And emergency antecedents etc. 
+-One case before Bommai- After demolition of Babri Masjid, 4 states BJP government were dismissed. One was MP government. Led by Sunder Lal Patwa challenged this through a writ petition in the Jabalpur bench of the HC. First instance- HC said government’s decision was based on malafide considerations and extraneous circumstances. It was wrong. First time in India’s constitutional history. Centre’s argument- communal harmony was being disturbed, many BJP leaders part of banned RSS. The HC bench said this is not sufficient. HC ordered for the re-instituting of the MP government. 
+-There were other governments dismissed due to horse trading- Karnataka, Meghlaya, Nagaland. All these cases clubbed together (including BJP governments and MP judgement was in bg) and heard by SC in SR Bommai. 
+-First thing in SR Bommai- Judicial Review scope after State of Rajasthan case and Sundar Lal Patwa case.
+
+https://www.google.com/url?hl=en&q=https://www.ebc-india.com/lawyer/articles/94v3a1.htm&sa=D&ust=1601356531693000&usg=AFQjCNEdXavs8EFEyy6EDNEc75pzjtOVMA – Article By Soli Sorabjee
+
+-President's satisfaction has to be based on objective material and further that the objective material available either from the Governor's report or from other information or both must indicate that the government of the State cannot be carried on in accordance with the provisions of the Constitution.
+-Consequently, the validity of the proclamation issued by the President under Article 356(1) is judicially reviewable to the extent of examining whether it was issued on the basis of any material at all or whether the material was relevant or whether the proclamation was issued in the mala fide exercise of the power. 
+-Once such material is shown to exist, the satisfaction of the President based on the material is not open to question.
+-Which means insufficiency cannot be questioned. Judicial Review is very limited. Unlike popular perception.
+
+Key Findings of SR Bommai
+-The majority enjoyed by the Council of Ministers shall be tested on the floor of the House. Centre should give a warning to the state and a time period of one week to reply.
+-The court cannot question the advice tendered by the CoMs to the President but it can question the material behind the satisfaction of the President. Hence, Judicial Review will involve three questions only:
+a. Is there any material behind the proclamation
+b. Is the material relevant.
+c. Was there any malafide use of power.
+-If there is improper use of Article 356 then the court will provide remedy. Under Article 356(3) it is the limitation on the powers of the President. Hence, the president shall not take any irreversible action until the proclamation is approved by the Parliament i.e. he shall not dissolve the assembly. Article 356 is justified only when there is a breakdown of constitutional machinery and not administrative machinery
+-The above recommendations by Sarkaria Commission, accepted by SR Bommai. 
+-Circumstances when 356 can be imposed: (Sarkaria Commission and quoted by the majority)
+1. Where after general elections to the assembly, no party secures a majority, that is, Hung Assembly. (AK 49)
+2.Where the party having a majority in the assembly declines to form a ministry and the governor cannot find a coalition ministry commanding a majority in the assembly.
+3.Where a ministry resigns after its defeat in the assembly and no other party is willing or able to form a ministry commanding a majority in the assembly.
+4.Where a constitutional direction of the Central government is disregarded by the state government.
+5.Internal subversion where, for example, a government is deliberately acting against the Constitution and the law or is fomenting a violent revolt.
+6.Physical breakdown where the government willfully refuses to discharge its constitutional obligations endangering the security of the state.
+
+-Circumstances when 356 must not be imposed: (Sarkaria Commission)
+1.Where a ministry resigns or is dismissed on losing majority support in the assembly and the governor recommends imposition of President’s Rule without probing the possibility of forming an alternative ministry.
+2.Where the governor makes his own assessment of the support of a ministry in the assembly and recommends imposition of President’s Rule without allowing the ministry to prove its majority on the floor of the Assembly.
+3.Where the ruling party enjoying majority support in the assembly has suffered a massive defeat in the general elections to the Lok Sabha such as in 1977 and 1980.
+4.Internal disturbances not amounting to internal subversion or physical breakdown.
+5.Maladministration in the state or allegations of corruption against the ministry or stringent financial exigencies of the state.
+6.Where the state government is not given prior warning to rectify itself except in case of extreme urgency leading to disastrous consequences.
+7.Where the power is used to sort out intra-party problems of the ruling party, or for a purpose extraneous or irrelevant to the one for which it has been conferred by the Constitution.
+
+
+-After SR Bommai, nothing much happens. He doesn’t get to be the CM again, new elections had happened. Except BJP state governments, all others reinstated, secularism held to be a part of the BS. 
+-These circumstances are illustrative. 
+-How dismissals have been reversed? 2005 Bihar elections. None of the parties had absolute majorities. BJP and Nitish Kumar vs Congress/RJD. Nitish Kumar went to the governor and claimed majority. Governor asked him to do a parade of all the MLAs. In that 3 days, the governor sends a report to the President that he has heard a lot of stories about heavy horse trading. Breakdown of Constitutional machinery hence. Central government advised Prez Kalam to impose Prez rule. 
+-Kalam refused first and then had to sign it. 356 imposed. By the time SC heard the challenge, Parliament ratified the disqualification. Assembly was dissolved. Therefore, fresh elections had to happen. The matter reached the SC- Rameshwar Prasad v. State of Bihar- outside the rules of SR Bommai. The governor’s report- malafide and extraneous circumstances. The dismissal was reversed. It wasn’t possible as elections were already announced. Nitish Kumar won again. 
