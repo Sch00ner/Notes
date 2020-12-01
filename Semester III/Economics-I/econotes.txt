@@ -15,7 +15,7 @@ Developmental economics in the vein of Amartya Sen.
 7.7.20
 
 Axiom of Completeness
--Assume that the consumer can compare any two combina­tions of the goods—he may prefer one to the other or he may be indifferent between the two. This axiom ensures that the consumer is able to make a choice or express neutrality between any two commodity combinations.
+-Assume that the consumer can compare any two combinations of the goods — he may prefer one to the other or he may be indifferent between the two. This axiom ensures that the consumer is able to make a choice or express neutrality between any two commodity combinations.
 	(a) If a combination A is strictly preferred to another combination B, then it can be written as A > B.
 
 	(b) If a combination A is at least as preferred as another combination B, it can be  written as A ≥ B. In this case, it can be also said that the consumer weakly prefers A to B.
