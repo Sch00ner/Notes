@@ -1,3 +1,120 @@
-1.12.20
+2.12.20
 
+The Cost of Rights distinction
+-Is there any economic cost to providing rights?
+-As a state do I have the economic resources to secure the rights?
+-Some rights might have a huge capital commitment to secure at the start and some may not require much economic capital at all, like freedom of speech and expression, freedom of religion.
 
+The Positive/Negative Rights distinction
+-Primary target of the state is to make sure that these rights are not violated either by the state or anyone else.
+-In some other rights, there is a positive duty on part of the state to secure the right, like Right to Food, unlike the right to free speech where the state has to ensure that no one violates it.
+-Some rights thus need continuous action on part of the state to ensure and some only require enforcement at specific times to secure them.
+
+-Non-state actors may also be bound by such rights.
+-The rights which do not require any significant economic input are civil and political rights, like freedom of speech and religion. The rights which require significant economic input are typically known as economic, social and cultural rights.
+-The Americans favoured civil and political rights and the Russians favoured economic, social and cultural rights.
+-Thus, we got two human rights treaties in the 60s. The ICCPR, backed by the Americans and the ICESCR backed by the Russians.
+-So, since the ICCPR did not require any significant economic input, it could be implemented upon ratification of the treaty itself. However, the ICESCR stated that the treaty members were to gradually work towards realisation of these rights.
+-India very cleverly put the economic, social and cultural rights in the DPSP, while having the civil and political rights as FRs. This pleased both the Americans and Russians.
+-However, the DPSPs are not enforceable in law. But, progressive realisation is possible like how the Indian state is building houses for people or how UCC is being promised.
+
+4.12.20
+
+-When right to life or personal liberty was initially guaranteed, no one really thought that it could include ecosoc rights. However, ecosoc rights have slowly become infused into these civpol right like life and personal liberty.
+-In the Irish constitution, Directive Principles of Social Policy are not cognisable in court. In India, the DPSPs are not enforceable in court. This means that courts in Ireland will not even acknowledge it, while courts in India can hear arguments based upon the DPSPs to enforce other rights.
+-State of Madras v Champakam Dorairajan 1951: Madras had provided for an affirmative action for SC/ST etc. Since Art 14 and 15(1) existed in its original state, this was challenged because discrimination on the basis of caste was unconstitutional. The State countered that it was only trying to fulfill the DPSPs. But, the SC said that the DPSPs were not to be acknowledged in courts under the mistaken impression that the situation in India was the same as in Ireland, where Directive Principles of Social Policy were not cognisable. However,in India the DPSPs are not enforceable, but that does not mean that arguments related to them are completely prohibited from court.
+-Mohd Hanif Quraishi v State of Bihar 1958: The first challenge against the ban of cow slaughter. They were in the business of slaughterhouses and said their right to practice religion and carry on their own business was being infringed. The court said rights could be reasonably restricted based upon public interest. Since, there is a DPSP saying that the State should ensure cows, milch and draught cattle slaughter should be restricted, there is reasonable ground to uphold the ban. However, it could not be a blanket ban and reasonable classifications need to be made, such as cows which are still producing milk.
+-In Re Kerala Educational Bill 1958:
+
+8.12.20
+
+-Courts used to say that reservations should not exceed 50% because the exception should not be bigger than the rule.
+-In N.M. Thomas, the court moved away from the above position. This is because reservation is not the exception to the rule of equality, rather they are in furtherance of the rule of equality.
+
+9.12.20
+
+-DP Joshi vs Madhya Bharat(State of MP later)1955: MP had reserved seats in medical seats and Joshi challenged this saying that this was discrimination based on place of birth. Court said that this was based on residency and not place of birth. MP justified it by saying that medical colleges are heavily subsidised by the state government and thus, if the students from the state are prioritised it is not a problem. For example, if a student from WB studies in a MP medical college and goes back to practice in WB, MP sees no benefit.
+
+-BN Rao was a major architect of the Constitution. He went to the US to check out the Bill of Righst because he was fascinated with it.
+-The 5th and 14th amendments to the Bill of Rights say that no one can be deprived of their liberty except by the "due process of law".
+-Article 31 of the Japanese Constitution however used the term "procedure established by law" which is what we adopted.
+
+-AK Gopalan was placed under house arrest under the Preventive Detention Act. He was not given a reason and no hearing was scheduled. Thus, Gopalan through Nambiar pleads to the SC. Nambiar asked whether any law could deprive people of their liberty just because it is an established procedure of law. Nambiar recounts a story from Rochester in the UK where people were put to death by being fried alive in oil for the crime of theft. With this, Nambiar illustrated how the State can run amok and make a mockery of democracy. Secondly, Nambiar argued that mere physical right to live cannot be the full extent of Art. 21, it must include the right to be free to live our lives to a reasonable extent. However, besides Justice Fazl Ali all the judges of the SC declined to do anything about it.
+-In Maneka Gandhi, Bhagwati made sure to lay out that procedure established by law needs to be fair, just and reasonable, echoing Fazalali in the Gopalan case.
+
+11.12.20
+
+-In Mithu v State of Punjab the court went beyond procedure and said that even the law has to be fair, reasonable and just.  It was argued that Sec. 303 of IPC goes against Art. 14 because the punishment was different for a person who was already under life imprisonment and then commits a murder, compared to someone who has only been convicted for murder.
+
+-Mohini Jain v State of Rajasthan: Court said RTE is included in Right to Life under Art. 21. The court realised its mistake later because anyone can ask the State to fund their education from primary to doctorate which will go beyond the capacity of the State to fulfill.
+-So, in Unni Krishnan v State of AP 1993, the court restricted it to basic education from 6-14 years of age. Then, Art. 45 was changed and Art. 21A inserted to make this a FR.
+
+14.12.20
+
+FUNDAMENTAL DUTIES
+
+-Outlined in Art. 51A of the Constitution.
+-If there is an IPL match happening and the National Anthem is being played, can I be prosecuted for not standing up? Or, for not having a scientific temper? Not really.
+-FDs are similar to DPSPs. They are not enforceable and was not envisioned to be so.
+-So why do we have FDs?
+-In the CA, some advocated for a duty based narrative in the Constitution. This was backed up by the Vedas and the Upanishads which talk about various duties.
+-However, others felt that the Constitution was voluminous enough as it was and only added it as a non-enforceable section.
+-In Sachidananda Pandey v State of WB, involved the construction of the Taj Bengal hotel. The petitioner argued that since the Alipore zoo was in a green zone and the big hotel would block the path of the migratory birds. The Tatas said that the hotel will be built in a sustainable way so as to not disturb the environment. The petitoners raised Art. 51A(g) because every person should protect the environment. The SC said because there is a FD and a DPSP involved, it will be brought to teh notice of the State. However, after the State has evaluated it in a bona fide manner, the court will not involve itself further. Basically, relevant but not really.
+-Chowksy case: Deepak Mishra heard this case where Chowksy was offended by the national anthem scene in Kabhi Khushi Kabhi Gam. Mishra agreed and said it was insulting to the national anthem to be sung in a fake British accent. However, the movie was already out and a lot of money was riding on it, so it was left untouched. But, Chowksy approached Mishra to ensure that the national anthem be played before movies with the uniform tune and aniumation that we have today. Mishra called this a display of constitutional patriotism.
+
+15.12.20
+
+FUNDAMENTAL RIGHTS
+
+Two basic fundamentals about the fundamental rights. Firstly. Most FRs have a negative rights connotation. Distinguished between Civil Rights and Economic, Social Rights. When we have couched the rights in negative language, we are assuming that there is a basic understanding of all citizens about their rights. If there is any denial, the citizen knows where to approach. Isn’t this expecting too much, given our literacy level? This led to a more positive rights approach by Indian courts. The court realised that if rights are limited to a situation in which the citizens can approach only when there is a denial, this is not desirable. 
+Second premise- FRs are vertically enforceable (against the state). This is not an absolutely true statement- some FRs are horizontally applicable (against private citizens). Case of Article 17 (Prevention of untouchability). It is essentially a practice by individuals. So horizontally applicable. 
+Similarly, right against exploitation (Article 23). Even if a private employer exploits, then applicable. 
+Article 15 (2) and 15 (1)- 
+15. (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. (vertically applicable)
+(2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to— (a) access to shops, public restaurants, hotels and places of public entertainment; or (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public. (Horizontally applicable)
+https://ir.nbu.ac.in/bitstream/123456789/3623/1/Vol.%2010%2c%20No.%202%2c%20September%202019_11.pdf – paper by Shameek Sir, read.
+Sir, what if instead of excluding a group based on the mentioned criteria, you include one community excluding everyone else? – Mostly based on reasonable classification. Prima facie, this is also discrimination.
+
+16.12.20
+
+Article 12
+-Definition of State is inclusive and not exhaustive.
+-This definition is limited to Part III.
+-University of Madras v Shanta Bai: A case first asked whether the University of Madras is part of State. The court decided that it was not. The court decided this on the principle of ejusdem generis and the common thread among State bodies was found to be that State bodies are supposed to be performing sovereign functions. Since, the university was under the authority of the Education Ministry and not autonomous in its functioning, it could not be said to be performing as a sovereign body.
+-Rajasthan Electricity Board v Mohan Lal: All statutory bodies would be counted as "other authorities" according to this case. This established the new standard and did away with the University of Madras ruling.
+
+18.12.20
+
+-Sukhdev v Bhagat Ram: The issue was whether statutory corporations like LIC, ONGC, IFCI are State. CJI Ray, Chandrachud and Gupta give 3 tests to find out whether are State or not:
+	1. They are statutory bodies.
+	2. They have statutory power to make binding rules and regulations.
+	3. They are subject to a pervasive governmental control.
+-Justice Mathew gave 2 more tests in his concurring opinion:
+	1. Whether the body is an instrumentality or an agent of the State.
+	2. Whether a body performs functions that can be called public functions.
+-Sabhajit Tiwari v UoI: Issue was whether the CSIR could be counted as State. The court said that it was not. The court reasoned that since the CSIR was a society registered under the Societies' Registration Act and not a statutory body, it could not be counted as State. Decided by the same bench, but it came to a different conclusion.
+
+21.12.20
+
+-Narmada Bachao Andolan v UoI: Sardar Sarovar dam being erected. Initial stay on the height of the dam because the higher it is, the more displacement and environmental damage. But, the court went on to say that whether the dam was to be built or not was a legislative prerogative. They only asked that rehabiltitation of the displaced people be provided for.
+
+READ THIS: Zoroastrian Co-operative Housing Society Limited and Another v District Registrar Co-operative Societies (Urban) and Others.
+
+-RD Shetty case: International Airports Authority was counted as an instrumentality of the Indian government, so, it would be counted as State.
+-Ajay Hasia v Khalid Mujib: Regiona Engineering College in Srinagar had a system where some marks were allotted to a written test and an interview. Hasia challenged the weightage of the interview process. The SC agreed and said that it was indeed arbitrary. They did this inspite of the fact that it was a registered society, going aginst the precedent of Sabhajit Tiwari. Bhagwati gives a 6 prong criteria to identify a body as State:
+	1. One thing is  clear that  if the  entire share  capital  of	 the corporation is	held by	 Government it	would go  a long way towards indicating that the Corporation is an instrumentality or  agency of Government. 
+	2. Where the financial assistance  of the  State is	so much	 as to	meet
+	almost entire  expenditure  of	the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
+	3. Whether  the	corporation   enjoys
+	monopoly status	 which	is  the	 State conferred  or  State	protected. 
+	4. Existence of deep and pervasive  State	control may afford an indication that the Corporation is a
+	state agency or  instrumentality.
+	5. If the  functions of	 the corporation of	public importance and	closely	 related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of
+	Government.
+	6. Specifically, if a department	  of Government is  transferred to  a corporation, it would be a strong	factor supportive of this inference of the corporation being an instrumentality or agency of Government.
+-Pradeep Kumar Biswas v Indian Institute of Chemical Biology: Ruma Pal J proposed a test which is the current position of law today and it is as follows:
+	The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
+
+22.12.20
+
+We got let off early!

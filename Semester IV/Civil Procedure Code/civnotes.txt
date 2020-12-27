@@ -1,0 +1,17 @@
+9.12.20
+
+-Due to lots of case, dates for peremptory hearings are not set. Instead a date is set for getting a date for the suit.
+-Several stages of evidence:
+	1. Evidence in Chief: Plaintiff had to appear in the dock in person previously. After amendment, evidence is submitted by way of affidavit. Plaintiff is required to prove his case and disprove the case of the defendant in this stage.
+	2. Cross examination: The defendant's lawyer can now start cross examining the plaintiff after the first stage is completed. Cross examination is always in person.
+	3. Evidence in Chief: For the defendant.
+	4. Cross examination: For the defendant.
+-Hearing of Argument:
+	1. Plaintiff's lawyer argues first to convince the court and precedents may be cited.
+	2. Defendant's lawyer argues second to convince the court and precedents may be cited.
+	3. Plaintiff's lawyer may reply now only on the questions of law. The factual parts of the case cannot be reopened. For example, he may dispute precedents cited by the defendant.
+
+
+14.12.20
+
+-Covered Sections 1,2
