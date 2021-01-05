@@ -109,12 +109,29 @@ READ THIS: Zoroastrian Co-operative Housing Society Limited and Another v Distri
 	monopoly status	 which	is  the	 State conferred  or  State	protected. 
 	4. Existence of deep and pervasive  State	control may afford an indication that the Corporation is a
 	state agency or  instrumentality.
-	5. If the  functions of	 the corporation of	public importance and	closely	 related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of
-	Government.
+	5. If the  functions of	 the corporation of	public importance and	closely	 related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of Government.
 	6. Specifically, if a department	  of Government is  transferred to  a corporation, it would be a strong	factor supportive of this inference of the corporation being an instrumentality or agency of Government.
 -Pradeep Kumar Biswas v Indian Institute of Chemical Biology: Ruma Pal J proposed a test which is the current position of law today and it is as follows:
 	The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
 
 22.12.20
 
-We got let off early!
+We got let off early! Holiday incoming.
+
+4.1.21
+
+Article 13
+-What would happen to pre-constitutional and post-constitutional laws? These are dealt with Art.13(1) and Art.13(2), respectively.
+-This is reflected in the manner in which both Art.13(1) and Art.13(2) are worded, with the latter being much more forceful and deliberate in its phrasing.
+-FRs cannot be retrospectove. Thus, a contravening provision of the IPC, for example, cannot be declared void ab initio. All actions taken under the umbrella of this provision till 26th January, 1950 will stand. This is in contradiction to any law passed after the Constitution comes into force which goes against provisions of Part III.
+-State of Bombay v Keshavan Madhava Menon: The Brits made a law, Indian Press (Emergency Powers) Act, 1931, to gag the free press during the nationalist movement. This law continued to be in force even after independence and Menon was arrested again by the government of India. Menon argued that since there are FRs in independent India this law is unconstitutional as it violates Art.19. The court agrees, but refuses to let Menon go because the offence was committed before 26th January, 1950 in 1949. Thus, the conviction stood.
+-Doctrine of Severability: When only a portion of a law is excised for being unconstitutional, it is the implementation of this doctrine that makes it possible. For example,Section 66A of the IT Act, 2000 was severed from the rest of this legislation. However, if the legislation as a whole is inextricably linked to the offending provisions, the whole law may need to be struck down.
+
+5.1.21
+
+Doctrine of Eclipse
+-When the court says that a law is in violation of FRs, the law remains on the books but cannot be used until that judgement is struck down. This means that the law has been eclipsed.
+-This means that the law has ceased to be from the date of violation, i.e., 26th January, 1950.
+-Bhikaji Narain Dhakras v State of Madhya Pradesh 1955: A monopoly was created by the state for providing transportation in MP. So, all bus routes were nationalised. However, Art.19(1)(g) guaranteed freedom of trade and occupation and Bhikaji challenged the nationalisation based on this. But, while the case was pending Art.19(6) was introduced via an amendment allowing the State to place reasonable restrictions on the freedom of trade and occupation. Bhikaji argued that since the earlier Motor Vehicle law was in contravention of Art.19(1)(g) from 26th January, 1950, it was void from that day. Since the law was already void, Bhikaji argued that a simple constitutional amendment could not revive a law that was void, instead, the government would have to enact a new Motor Vehicle law to impose such restrictions again. Court discusses the doctrine of eclipse. The law was unconstitutional, but that would mean the law was ineffective, not dead. The moment constitutional amendment came in, law get validated and eclipse is removed. So re-enactment not required, law not struck down. In this case, Justice SR Das takes a conservative approach- even though 13 (1) uses void, does not mean law is rendered a nullity. It just means ineffective. Justice SR Das limits the operation of this case to the facts of this case- pre-constitutional law. What about post-constitutional law? Not answered in this case. This created confusion.
+-Deep Chand v State of UP: Subba Rao says that Eclipse cannot be used for post-constitutional laws. Subba Rao reasoned that pre-constitutional laws cannot be void ab initio because they operated during a time when no FRs existed, so they could not have violated something that didn't existed. However, post-constitutional laws cannot be conceived if they are in contravention to FRs. Thus, it will lead to a still birth of that law, it will be void ab initio. A subsequent amendment cannot revive something that is already dead.
+-State of Gujarat v Sri Ambica Mills 1974: A law was challenged on the ground of Art.19(1)(f) and struck down. However, Justice Mathew posed an interesting question, whether the law was void in its entirety or was it only relatively void? Article 19- a non-citizen does not have it. If we are saying that the law is dead and void ab initio, can we say that the law is void vis-à-vis non-citizens who do not even have Article 19 rights? The law is therefore relatively void- ineffective for people who have those rights and effective for the rest. The moment ‘ineffective’ analogy is used, eclipse is being used according to some scholars (MP Singh). Since the law is not becoming still-born.

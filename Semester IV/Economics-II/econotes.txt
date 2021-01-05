@@ -22,4 +22,7 @@ Gross National Product
 -Total value of all finished goods and services produced by domestic production factors calculated at market prices.
 -Net National Product at market price is GNP - Depreciation.
 -Fund that is set aside by a firm to replace existing machinery is known as Capital Consumption Allowance (CCA).
--
+
+4.1.21
+
+Recap of stuff

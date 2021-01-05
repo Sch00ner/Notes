@@ -63,3 +63,22 @@ Doctrine of Lis Pendens
 22.12.20
 
 Babulal v. Bhawani (1912) 9 ALJ 776
+
+4.1.21
+
+Immovable property under Section 3
+-Fish in water is immovable property. However, when fish are moved out of the water, so it is no longer attached to the water body, it becomes movable property.
+-A Right, such as a Right to Ferry or Right to catch fish is immovable property because it is tied to a static property.
+-Cases:
+	1.Bihar Fisherman Co-operative Society Sipahi Singh AIR 1977 SC 2149: SC held that Right to catch fish is immovable property.
+	2.Moti Singh v. Deoki Singh AIR 1936, Pat 46: Crops are movable property, but right to grow crops is immovable property.
+	3.SB of Patiala v. M/S Chohon Huhtamaki India) Pvt. Ltd., AIR 1982 Mad 187
+	4.Baijnath v. Ramadhar, AIR 1963 All 214
+
+5.1.21
+
+Notice
+-Notice is knowledge or presumed knowledge of a state of being or an occurence. There is some burden to conduct a proper search or research about the fact in question.
+-Actual Notice: When a person does know of the fact.
+-Constructive Notice: When a person is presumed to know of the fact.
+-Lloyds Bank v P.F. Guzder & Co. AIR 1930 Cal 22
