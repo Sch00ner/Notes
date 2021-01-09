@@ -26,3 +26,43 @@ Gross National Product
 4.1.21
 
 Recap of stuff
+
+7.1.21
+
+Class didn't happen.
+
+8.1.21
+
+Foreign Exchange
+-Market will determine the value of different currencies.
+-Lets say I want to buy an Apple Watch straight from the US. In that case, by using my credit card I am purchasing 1000USD by paying 70,000INR which then gets transferred to Apple. Provided the import demand elasticity is elastic the import demand curve is downward sloping and the demand for Apple Watch will decrease.
+-Money value of dollar demand will increase provided the demand elasticity is greater than 1.
+-Lets say the US imports basmati from India. If the price of basmati falls and the import demand elasticity of basmati is more than 1, the ensuing demand is more than enough to get people to buy more. Thus, Americans will use more USD to buy INR and the supply of USD in India will increase.
+-Thus, an equilibrium is reached where the demand curve for dollars and the supply curve for dollars intersects in the positive quadrant of the price-quantity space. Then there will be no reason for the exchange rate to change unless there is an external shock.
+-When the interest rate is increased in India, capital inflow will increase to take advantage of the higher interest rate compared to the US. Americans will sell off dollars for rupees to lend to Indians, increasing the supply of dollars. Since the supply curve for dollars now shifts to the right, the price of USD will decrease in INR.
+-Lets say the government increases the budget of MNREGA and this increases the demand for automobiles. The government borrows more money to increase the budget, this pushes up the interest rate. Americans sell dollars for rupees to take advantage of higher interest rates increasing the supply of dollars. Since India imports crude, with the increased supply of dollars we can buy in more volume reducing the per unit prices of oil barrels. This will push down the price of petrol in India and lead to growth in the automobile sector.
+
+9.1.21
+
+Influential works:
+	1. Adam Smith - Wealth of Nations, 1776
+	2. David Ricardo - Principles of Political Economy and Taxation, 1817
+	3. Alfred Marshall - Principles of Economics, 1819
+-Smith and Ricardo argued for free trade between nations compared to the mercantilism observed before.
+-Factors of interest for classical macroeconomic scholars:
+	1.Aggregate level of output.
+	2.Level of employment.
+	3.Determination of real wage.
+	4.Interest rate.
+	5.Money wage rate.
+	6.Absolute price level of commodities.
+
+The 3 Pillars of CLassical Macroeconomics:
+-Say's Law (Jean-Baptiste Say): Supply creates its own demand. Production of goods or services requires generation of factor income in the form of wages, rents, equipment. This income is spread to the people who now have more disposable income which drives up demand for goods or services which are being produced.
+-Wage Price Flexibility: If there is any excess demand/supply in a market, the market instantaneously adjusts to return to a equilibrium.
+-Perfect Competition exists in every market:
+	1.Complete and perfect knowledge on behalf of all actors.
+	2.Free entry to the market.
+	3.Mobility of labour and capital.
+	4.Many competitors in the market.
+	5.Homogeneity of goods.
