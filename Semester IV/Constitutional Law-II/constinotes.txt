@@ -151,3 +151,38 @@ Definition of laws in Art.13(3)
 -Not personal laws that have already been codified, but things like Triple Talaq.
 -This is concerned with laws that are not attached to a statute.
 -State of Bombay v Narasu Appa Mali: The Bombay Prevention of Bigamous Hindu Marriages Act, 1946 was challenged on multiple grounds. One of them was, that it only stopped Hindus from bigamy but not Muslims. They hold the law to be constitutionally valid. However, Justices Chagla and Gajendragadkar reframed the question as to whether we can intervene in bigmaous Muslim marriages. Can the Shariat be brought under the scrutiny of Art.13? They look at the Government of India Act, where Art.112 mentions customs and personal laws separately so the argument was that they were cleary meant to be separate. Another argument was that the Constitution has provisions specifically banning untouchability and untouchability is part of personal laws, then if personal laws are subject to FRs scrutiny, why would we need a specific provision banning it? The answer given by Gajendragadkar was that personal laws are generally not subject to FRs crutiny except those elements which are so abhorrent that they need to be excised from the general body of personal laws. Gautam Bhatia disagreed and said that banning untouchability specifically was a result of abundant caution.
+
+11.1.21
+
+-Sri Krishna Singh v Mathura Ahir: In this case, a Shudra wanted to join a religious order but the challenge was that only Brahmins could become priests. The Allahabd HC allowed it saying that he left all his caste relationships behind when he wanted to become an ascetic. But, the SC overturned the HC judgement and said that: 
+In our opinion, the learned Judge failed to appreciate that Part III of the Constitution does not touch upon the personal laws of the parties. In applying the personal laws of the parties, he could not introduce his own concepts of modern times but should have enforced the law as derived from recognised and authoritative sources of Hindu law, i.e., Smritis and commentaries referred to, as interpreted in the judgments of various High Courts, except where such law is altered by any usage or custom or is modified or abrogated by statute.
+-In a lot of these cases, it was a law being challenged which gave legitimacy to a personal law.
+-C. Masilamani Mudaliar v. Idol of Sri Swaminathaswami: Personal laws are derived not from the Constitution but from the religious scriptures. The laws thus derived must be consistent with the Constitution lest they become void under Art. 13 if they violate fundamental rights. However, this case is not challenging Narasu Appa Mali but only solidifying the concept that only statutory laws can be challenged.
+
+Triple Talaq
+-Nariman played it safe. He struck down the 1937 law insofar as it legitmised all forms of talaq including triple talaq. He didn't scrutinise personal laws with respect to FRs.
+
+-DYC in Sabarimala said:
+Custom, usages and personal law have a significant impact on the civil status of individuals. Those activities that are inherently connected with the civil status of individuals cannot be granted constitutional immunity merely because they may have some associational features which have a religious nature. To immunize them from constitutional scrutiny, is to deny the primacy of the Constitution.
+
+13.1.21
+
+Right to Equality and Reservation(Article 14)
+Salient points:
+1. You must not be treating everyone equally.
+2. You must classify people and have no discrimination in the group itself.
+3. There must be no over or under inclusion.
+
+18.1.21
+
+-Equal protection before the law is derived from Dicey's Rule of Law theory.
+-Criteria for reasonable classification:
+	1.Intelligible differentia: Groupings are made based on reasonable and perceptible measures and ensuring that such categorisations don't suffer from under or over inclusion.
+	2.Rational nexus with the object: There has to be an ultimate objective you seek to secure. Steps taken must be linked to securing such objective.
+	3.Presumption of constitutionality (more a condition for success than a criterion): The intial presumption that what the state has proposed is constitutional to aid in the function of a welfare state.
+-Pradeep Tandon case: Court upheld a scheme of reservation in hilly areas but not in villages. The population of a village is too heterogeneous for it to be included in the scheme.
+-State of WB v Anwar Ali Sarkar: WB special courts case. Anwar and 49 other unrelated cases were sent to a special court. Anwar challenged this saying it was against Art.14 as other cases like his were tried in ordinary courts under the CrPC. Court ruled that this was against Art.14 as there was no intelligible differntia for the cases being referred to the special court.
+-Kathi Raning Rawat v State of Saurashtra: A similar law for special courts was present. However, it was seen that a whole category of cases was referred to the special court. However, there were two crucial differnces with Anwar Ali; first, that it was a whole category of cases was picked compared to particular cases in Anwar Ali, second, there was a preamble in this law which included a reason as to why this law was needed. These two differences made sure that the law was upheld by the court.
+-In Re SPecial Courts Bill, 1978: Bill moved by Janata government that all abuse of power during Emergency would be referred to a special court. Court allowed this as Emergency was an extraordinary period of time. However, a flaw in the Bill was also pointed out by the court that cases from February 1975 till the end of Emergency was also included even though the Emergency started in June 1975. Thus, the law was not valid for that period.
+-Deepak Sibal v Punjab University: PU had a rule stating that the evening session was only for government and semi-government employees because they had work during the daytime. Sibal challenged this rule and the court said that there was no intelligible difference to discriminate between government, semi-government and other employees who had work during the day.
+-DS Nakara v Union of India: New pension scheme launched that wuld be applicable to people who retired on a specific date and onwards. Nakara challenged this saying it was creating a sub-classification within pensioners. The court agreed and said that it should not be based on the date of retirement.

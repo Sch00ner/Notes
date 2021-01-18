@@ -66,3 +66,26 @@ The 3 Pillars of CLassical Macroeconomics:
 	3.Mobility of labour and capital.
 	4.Many competitors in the market.
 	5.Homogeneity of goods.
+
+11.1.21
+
+-The reality of the Great Depression refuted the principles of classical macroeconomics.
+-Classical theory says that anyone who wants to work at the market clearing wage rate will find a job. However, there was massive unemployment during the GD.
+-Keynesian theory explained these deficiencies well.
+-Keynes showed that underemployment equilibrium would hold in a real life oligopolistic market.
+-An important principle of classical theory that governments should not interfere in markets was severely challenged because of the great depression.
+-For a perfectly competitive market, a price ceiling would be disastrous.
+
+14.1.21
+
+In order to find the labour supply curve, 
+-Whenever there is excess demand in the labour market, real wage rises. Whenever there is excess demand in the labour market, real wage falls.
+
+18.1.21
+
+Aggregate Demand
+-Factor income in an economy is equal to the output produced in an economy.
+-The supply of money is also a factor in determining aggregate demand.
+-Professor Irving Fisher first talked about the quantity theory of money.
+-Quantity theory Equation of Exchange: An identity where the price level multiplied by the index of real expenditure is equal to the stock of money multiplied by the velocity of money.
+-Cambridge version of Quantity Theory: Money demanded by the citizens is equal to the multiple of proportion of national income that people want to hold, the national output and the average price.
