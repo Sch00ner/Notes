@@ -86,12 +86,12 @@ Article 12
 18.12.20
 
 -Sukhdev v Bhagat Ram: The issue was whether statutory corporations like LIC, ONGC, IFCI are State. CJI Ray, Chandrachud and Gupta give 3 tests to find out whether are State or not:
-	1. They are statutory bodies.
-	2. They have statutory power to make binding rules and regulations.
-	3. They are subject to a pervasive governmental control.
+    1. They are statutory bodies.
+    2. They have statutory power to make binding rules and regulations.
+    3. They are subject to a pervasive governmental control.
 -Justice Mathew gave 2 more tests in his concurring opinion:
-	1. Whether the body is an instrumentality or an agent of the State.
-	2. Whether a body performs functions that can be called public functions.
+    1. Whether the body is an instrumentality or an agent of the State.
+    2. Whether a body performs functions that can be called public functions.
 -Sabhajit Tiwari v UoI: Issue was whether the CSIR could be counted as State. The court said that it was not. The court reasoned that since the CSIR was a society registered under the Societies' Registration Act and not a statutory body, it could not be counted as State. Decided by the same bench, but it came to a different conclusion.
 
 21.12.20
@@ -102,17 +102,17 @@ READ THIS: Zoroastrian Co-operative Housing Society Limited and Another v Distri
 
 -RD Shetty case: International Airports Authority was counted as an instrumentality of the Indian government, so, it would be counted as State.
 -Ajay Hasia v Khalid Mujib: Regiona Engineering College in Srinagar had a system where some marks were allotted to a written test and an interview. Hasia challenged the weightage of the interview process. The SC agreed and said that it was indeed arbitrary. They did this inspite of the fact that it was a registered society, going aginst the precedent of Sabhajit Tiwari. Bhagwati gives a 6 prong criteria to identify a body as State:
-	1. One thing is  clear that  if the  entire share  capital  of	 the corporation is	held by	 Government it	would go  a long way towards indicating that the Corporation is an instrumentality or  agency of Government. 
-	2. Where the financial assistance  of the  State is	so much	 as to	meet
-	almost entire  expenditure  of	the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
-	3. Whether  the	corporation   enjoys
-	monopoly status	 which	is  the	 State conferred  or  State	protected. 
-	4. Existence of deep and pervasive  State	control may afford an indication that the Corporation is a
-	state agency or  instrumentality.
-	5. If the  functions of	 the corporation of	public importance and	closely	 related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of Government.
-	6. Specifically, if a department	  of Government is  transferred to  a corporation, it would be a strong	factor supportive of this inference of the corporation being an instrumentality or agency of Government.
+    1. One thing is  clear that  if the  entire share  capital  of   the corporation is held by  Government it  would go  a long way towards indicating that the Corporation is an instrumentality or  agency of Government. 
+    2. Where the financial assistance  of the  State is so much  as to  meet
+    almost entire  expenditure  of  the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
+    3. Whether  the corporation   enjoys
+    monopoly status  which  is  the  State conferred  or  State protected. 
+    4. Existence of deep and pervasive  State   control may afford an indication that the Corporation is a
+    state agency or  instrumentality.
+    5. If the  functions of  the corporation of public importance and   closely  related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of Government.
+    6. Specifically, if a department      of Government is  transferred to  a corporation, it would be a strong factor supportive of this inference of the corporation being an instrumentality or agency of Government.
 -Pradeep Kumar Biswas v Indian Institute of Chemical Biology: Ruma Pal J proposed a test which is the current position of law today and it is as follows:
-	The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
+    The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
 
 22.12.20
 
@@ -177,12 +177,86 @@ Salient points:
 
 -Equal protection before the law is derived from Dicey's Rule of Law theory.
 -Criteria for reasonable classification:
-	1.Intelligible differentia: Groupings are made based on reasonable and perceptible measures and ensuring that such categorisations don't suffer from under or over inclusion.
-	2.Rational nexus with the object: There has to be an ultimate objective you seek to secure. Steps taken must be linked to securing such objective.
-	3.Presumption of constitutionality (more a condition for success than a criterion): The intial presumption that what the state has proposed is constitutional to aid in the function of a welfare state.
+    1.Intelligible differentia: Groupings are made based on reasonable and perceptible measures and ensuring that such categorisations don't suffer from under or over inclusion.
+    2.Rational nexus with the object: There has to be an ultimate objective you seek to secure. Steps taken must be linked to securing such objective.
+    3.Presumption of constitutionality (more a condition for success than a criterion): The intial presumption that what the state has proposed is constitutional to aid in the function of a welfare state.
 -Pradeep Tandon case: Court upheld a scheme of reservation in hilly areas but not in villages. The population of a village is too heterogeneous for it to be included in the scheme.
 -State of WB v Anwar Ali Sarkar: WB special courts case. Anwar and 49 other unrelated cases were sent to a special court. Anwar challenged this saying it was against Art.14 as other cases like his were tried in ordinary courts under the CrPC. Court ruled that this was against Art.14 as there was no intelligible differntia for the cases being referred to the special court.
 -Kathi Raning Rawat v State of Saurashtra: A similar law for special courts was present. However, it was seen that a whole category of cases was referred to the special court. However, there were two crucial differnces with Anwar Ali; first, that it was a whole category of cases was picked compared to particular cases in Anwar Ali, second, there was a preamble in this law which included a reason as to why this law was needed. These two differences made sure that the law was upheld by the court.
 -In Re SPecial Courts Bill, 1978: Bill moved by Janata government that all abuse of power during Emergency would be referred to a special court. Court allowed this as Emergency was an extraordinary period of time. However, a flaw in the Bill was also pointed out by the court that cases from February 1975 till the end of Emergency was also included even though the Emergency started in June 1975. Thus, the law was not valid for that period.
 -Deepak Sibal v Punjab University: PU had a rule stating that the evening session was only for government and semi-government employees because they had work during the daytime. Sibal challenged this rule and the court said that there was no intelligible difference to discriminate between government, semi-government and other employees who had work during the day.
 -DS Nakara v Union of India: New pension scheme launched that wuld be applicable to people who retired on a specific date and onwards. Nakara challenged this saying it was creating a sub-classification within pensioners. The court agreed and said that it should not be based on the date of retirement.
+
+19.1.21
+
+-Sukumar Mukherjee v State of WB: This case made a difference between doctors who were teachers (West Bengal Health Education Services) and doctors who worked in government facilities(West Bengal Health Services). The teachers were not allowed to conduct private practice unless they were hired to teach specialist courses. The state said that teachers are supposed to keep themselves updated and immersed in research, so they should not waste time on private practice. However, Mukherjee countered by saying that practicing doctors also keep themselves updated. But, the court agreed with the state and said that teaching doctors should invest their time in research. However, specialist doctors were an exception because they were contractors and they would refuse to take courses if their own practices were required to be shut down and specialist departments would shut down.
+-Chiranjit Lal Chowdhuri v UOI: The state made a law to specifically take over the Sholapur Spinning Company. Lal argued that his shares were being taken away was a violation of Art.14 as other shareholders in the country were still enjoying their shares. The court disagreed and said that the company was very important to the economy of the nascent country which necessitated the takeover of this company in particular.
+-Ameerunnissa Begum v Mahboob Begum: These were two begums of the deceased Nizam of Hyderabad who were disputing the property left over after his death. The court struck down the law resolving this dispute saying that the Nizam was not so special to require a special law and ordinary Muslim law would suffice.
+-Air India v Nargesh Mirza: Distinguishes between Air Hostesses (AH) and Air Flight Pursers (AFP). Age of retirement for AFP was 58 years. For AH, it was 35 or their first pregnancy or getting married within 4 years of joining the service, this was Rule 46. Rule 47 said that if she is still in the job at 35 years of age she can be given yearly extensions at the complete discretion of management. The tribunal said that AH has to look young and attractive because they have to deal with temparamental passengers. The case goes to the SC. The SC says that AH and AFP belong to different classes because their job descriptions, promotion structure and retirement ages are different, in a case where the retirement age was under challenge. This is despite their job functions being basically the same. On the pregnancy question, Nariman conceded that retirement at first pregnancy was too harsh and proposed that it be shifted to the third pregnancy. The court agreed because this would avoid population explosion, save the health of the mother and ensure proper upbringing of the children. Rule 47 that said management could provide yearly extensions was also held to be arbitrary and struck down. (Link: https://indconlawphil.wordpress.com/2015/08/12/sex-discrimination-and-the-constitution-vi-the-discontents-of-air-india-v-nargesh-mirza/)
+
+20.1.21
+
+Arbitrariness
+-Tarunabh Khaitan calls the old equality model Unreasonable Comparison. Here, one compares the way another has been treated and how one's treatment has no nexus with the objective sought to be achieved.
+-The new model is called Non-Comparative Unreasonableness, where no comparison with the treatment another is needed.
+-EP Royappa v State of Tamil Nadu: Royappa was an acting chief secretary in TN. He was transferred to the Planning Comission first, and then shifted to officer on special duty. He challenged the second transfer under Art.32 and by an amendment to his pleading an Art.14 challenge was also introduced, almost as an afterthought. Justices Ray, and Palekar said that the petition should be dismissed as there was no disadvantage. Bhagwati and the other 2 judges said that Royappa had not been able to prove his disadvantage. However, Bhagwati wrote something in his judgement that turned out to be extremely important:
+    Equality is a dynamic concept with many aspects and dimensions and it cannot be ‘cribbed, cabined and confined’ within traditional and doctrinaire limits. From a positivistic point of view, equality is antithetic to arbitrariness. In fact, equality and arbitrariness are sworn enemies… Where an act is arbitrary it is implicit in it that it is unequal both according to political logic and constitutional law and is therefore violative of Article 14…
+
+22.1.21
+
+-Sahara v SEBI (popularly known as Media Guidelines case) mentioned in class but not yet done.
+-A critical question asked from the 80s was whether it was restricted to only administrative rules or could be applied to legislation too?
+-State of AP v McDowells: This was a liqour ban case. Rohinton Fali Nariman argued that legislation should also be scrutinised on the basis of arbitrariness. The court refused because that would be admitting that substantive due process is available in the country. Nariman pointed out that substantive due process had come up in cases such as Sunil Batra. However, the court said that such cases were only related to Art.21 and refused to extend it beyond that.
+-Rajbala v State of Haryana: Law restricting who can stand in elections with various requirements. Chelameshwar quoted McDowell's to say that scrutinising this law was not possible on the ground of arbitrariness as that would amount to acknowledging the existence of substantive due procedure.
+-Shayara Bano v UoI: Triple Talaq was struck down on the ground of manifest arbitrariness by Nariman, who  is now a judge.
+
+25.1.21
+
+Section 377 and Homosexuality
+
+Navtej Johar
+-Justice Indu Malhotra and Justice Shah talked about sexual orientation.
+-DYC said that the whole idea of natural and unnatural offences is premised upon a very majoritarian bias. For example, death is natural but that does not mean it is desirable.
+-Mishra said that there is no rational nexus is not satisfied as it doesn't really protect women and children.
+-DYC said that the intelligible differentia is also absent as there is no difference between homosexuals and heterosexuals.
+-Malhotra said that basing distinctions upon factors out of one's control cannot be the basis for any kind of intelligible classification.
+-All of the judges found that Section 377 was manifestly arbitrary.
+Read this: https://indconlawphil.wordpress.com/2018/09/09/guest-post-navtej-johar-v-union-of-india-key-highlights/
+
+Joseph Shine
+-Case about decriminalisation of adultery.
+
+	Justness postulates equality. In consonance with constitutional morality, substantive equality is “directed at eliminating individual, institutional and systemic discrimination against disadvantaged groups which effectively undermines their full and equal social, economic, political and cultural participation in society.” To move away from a formalistic notion of equality which disregards social realities, the Court must take into account the impact of the rule or provision in the lives of citizens. The primary enquiry to be undertaken by the Court towards the realisation of substantive equality is to determine whether the provision contributes to the subordination of a disadvantaged group of individuals.
+
+27.1.21
+
+Articles 15 and 16
+-Art.16 disallows discrimintion based on descent while Art.15 does not.
+-Art.15 does not include residence as a ground for non-discrimination but Art.16 includes it in the case of public employment.
+-So domicile in educational institutes are allowed but not in public employment.
+
+29.1.21
+
+Differences between Articles 15 and 16
+-Socially and Educationally Backward Classes(SEBC) are different from SC/ST as defined in Art.15(4).
+-Art.16(4) talks directly about reservations in public employment and only singles out backward classes and not SEBC. Also, Art.15(4) is not concerned with adequate representation.
+-Art.16(4) existed from the start of the Constitution and was meant as a temporary measure. Art.15(4) came as a response to Champakai Durai Rajan case where TN reserved seats for SC and it was struck down because it was found in violation of Art.14 & 15.
+
+Specific questions to be answered:
+1. How do you determine backwardness and what are its indicators?
+2. Are such affirmative action measures an exception to the general rule of non-discrimination or in furtherance of non-discrimination?
+
+Cases
+MR Balaji v State of Mysore(1963)
+-Issue: whether caste can be the sole indicator of backwardness?
+-The court said caste can be a relevant factor but it cannot be the sole factor for SEBC. Other factors can be poverty, occupation, location.
+
+R. Chitralekha v State of Mysore
+-The parameters for defining backwardness were economic condition and occuopation.
+-
+
+Two cases decided in the same year differed on whether caste can be used to primarily decide backwardness:
+P Rajendran v State of Madras
+-Test of backwardness predominantly based on caste. It was accepted.
+State of AP v P Sagar
+-Test of backwardness predominantly based on caste. It was rejected.

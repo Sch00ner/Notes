@@ -107,4 +107,32 @@ What is Transfer? (Section 5)
 18.1.21
 
 What may be transferred?(Section 6)
+Just read the section
+-Section 6(h)(1) is like when one is attempting to sell the right to light above a piece of land without transferring the land itself.
 
+21.1.21
+
+Persons competent to transfer (Section 7)
+Sections 8, 9, 10 and 11 done.
+
+25.1.21
+
+Unborn Person
+-Brijesh AIR 1934 Oudh 35
+
+28.1.21
+
+Section 14
+-Stanley v Leigh: Case against perpetuity.
+
+29.1.21
+
+Sections 19 and 21 (Vested and Contingent interest)
+-A makes a gift deed to B but does not mention when the deed will be executed. If no time is specified then B will gain a vested interest from the day the deed was made.
+-A makes a gift deed to B which B will get on the death of C. This will be a vested interest for B as the death of C is a certainty.
+
+Sew Dayal v Official Trustee AIR 1931 Cal 651
+Kokilambal v N Raman Kokilambal AIR 2005 SC 2468
+Rajesh Kanta Roy v Srimati Shanti Devi AIR 1957 SC 255
+
+-A transferred certain properties to B which are to be gained by B after attaining the age of majority. This is a vested interest. However, if the condition is that B gets it at 25 years, this condition will be void.

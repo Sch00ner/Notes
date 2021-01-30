@@ -89,3 +89,57 @@ Aggregate Demand
 -Professor Irving Fisher first talked about the quantity theory of money.
 -Quantity theory Equation of Exchange: An identity where the price level multiplied by the index of real expenditure is equal to the stock of money multiplied by the velocity of money.
 -Cambridge version of Quantity Theory: Money demanded by the citizens is equal to the multiple of proportion of national income that people want to hold, the national output and the average price.
+Quantity Theory of Money: https://www.economicsdiscussion.net/theories-of-money/quantity-theory-of-money-with-diagram/6387
+
+20.1.21
+
+-Money wage and price are instantaneously adjustable. The ratio of W/P will always be a constant.
+-The IS-LM model: https://saylordotorg.github.io/text_economics-theory-through-applications/s35-36-the-is-lm-model.html
+-If there is a technological innovation comes to the market, the supply of goods will increase with the same amount of labour. Thus, the aggregate supply curve shifts to the right but the aggregate demand remains the same. The nominal wage falls but the real wage stays the same. Full employment is still in effect.
+
+21.1.21
+
+Look at the screenshots: https://photos.app.goo.gl/FnMAoPocnzHwdiuh8
+
+25.1.21
+
+-Macro and Micro are highly related. For example, if there is a tariff on crude petroleum it can be analysed by a micro framework. But, macro frameworks are needed to understand the knock on effects on the economy.
+
+KEYNESIAN MODEL
+
+-Keynes was a technocrat compared to the Smiths and Marxes of the world who were philosophers and scientists. He had a concrete problem in hand and needed a solution to it.
+-This problem was the Great Depression which was the result of a Wall Street crash in June 1928. It led to massive unemployment in capitalist economies.
+-A lot of history.
+
+28.1.21
+
+-Kuznets showed that the Gini coefficient was rising along with GDP but started falling after 1915, which shows that inequality was falling.
+-Gini coefficient is shown by a Lorenz Curve. (https://www.economicshelp.org/blog/glossary/lorenz-curve/)
+-Around 1915, WW1 spurred greater empployment and a rise in wages. The explanation from leftist economists is that the capitalists from different nations were fighting against each other and profit rates started falling. Thomas Piketty is one of the main proponents of this.
+-Inequality spurs conflict in a society more than a society that is uniformly poor. Extreme inequality agitates people and this was used by fascists to whip up a frenzy against the Jews.
+-However, after 1945 capital was reunited again and equality started worsening.
+-The Middle East became the new playground for capitalism because of vast oil reserves. This ignited a lot of conflict based around ethnic and territorial differences.
+
+30.1.21
+
+-The dumping ground for industrial output were the colonies, who resisted this. This is one of the reasons that Say's law was not holding true anymore.
+-Such resistance was seen in India and was a major reason for demand drying up for industrial goods in the West.
+
+-Keynes says that as income rises consumption also rises proportionally, but not matching the rise in income as some is converted into savings.
+-Keynes' income hypothesis is known as the Absolute Income hypothesis.
+
+Assumptions in the Absolute Income hypothesis:
+	1. Aggregate consumption (C) is a fairly stable rising function of disposable income. Thus, C = f(Y-T)
+	Y: Real GDP
+	T: Taxation
+	2. The slope of the consumption function is called the marginal propensity to consume (MPC) and it lies between 0 and 1.
+	3. At all levels of income the average propensity to consume (APC = C/Y) is greater than MPC.
+	4. APC is a decreasing function of income.
+-If the consumption function is linear there will be an upward sloping curve. In this case, the APC is calculated by joining points on the curve to the origin. The tan function of these angles will always be less than 1 and will keep getting flatter the higher you go on the curve. This bears out the assumption that people will save more with rising income.
+
+Simple Keynesian Model:
+-Only the goods market is considered in this model.
+-The price of goods is fixed because of strong excess capacity.
+-The capital, loan, money and labour markets are not relevant in this model. This is because all the prices have been driven down to their minimum.
+-The investment function is not included because there is no further investment during the Great Depression as the rate of interest is flat for about 8 years at this point.
+-If price is constant at $15, there is no real reason to include the price in calculations. If the price is normalised to $1, then revenue will equal the output.
