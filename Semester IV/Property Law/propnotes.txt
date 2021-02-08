@@ -133,6 +133,43 @@ Sections 19 and 21 (Vested and Contingent interest)
 
 Sew Dayal v Official Trustee AIR 1931 Cal 651
 Kokilambal v N Raman Kokilambal AIR 2005 SC 2468
-Rajesh Kanta Roy v Srimati Shanti Devi AIR 1957 SC 255
+Rajesh Kanta Roy v Srimati Santi Debi AIR 1957 SC 255
 
 -A transferred certain properties to B which are to be gained by B after attaining the age of majority. This is a vested interest. However, if the condition is that B gets it at 25 years, this condition will be void.
+
+1.2.21
+
+Kokilambal v N Raman Kokilambal: A had transferred the accumulation rights and some alienation rights over it to B as part of a family settlement. B had died, so C was now given the property by A. However, B's brother contested that the property had vested in B and thus, A had no right to transfer the property anymore.
+-A had only created limited interest in B's favour.
+-The property was supposed to vest in B after A's death. But, B died before A.
+-The question was whether the particular property vested in B or not?
+-Since, only limited rights were transferred to B and it was a family settlement, the claim by B's brother was disallowed. B died with a limited interest and thus, the property didn't vest in him. Thus, the transfer of the property to C is valid.
+
+2.2.21
+
+-A transfers a house to B with the condition that if B doesn't take possession by 6 months, the property will pass to C. This condition flows out of Section 28. This is a vested interest.
+-Thus, this condition of 6 months is not for the vesting of the property in B, but rather the divesting of the property from B.
+Rajesh Kanta Roy v Srimati Santi Debi:
+-A transferred a property by trust deed with the condition that the trust would be dissolved after the loans he had incurred were paid off as that was the purpose of the trust or if A died. After the dissolution of the trust the property was supposed to pass to his two sons, S1 and S2. If the sons died, the legal heirs of the son would get the property. However, A died before the the loan could be discharged. The question before the court was whether the interest created in favour of the two sons was vested or contingent.
+-The vesting of the property was not postponed. The income arising from the property was burdened with the obligation to pay back the debt.
+
+4.2.21
+
+Kannappa Chettiar v. Kupuswamy Naidu, AIR 1975 Mad 256
+-A executed a deed of settlement. The daughter B was given a life interest and her legal heirs would get a vested interest. If B died before she had any children, the property would pass to C, the son. However, A made a new deed after this where he passed an abolute interest to B instead of a life interest. C sues because the contention is that whether A is competent to execute the second deed at all.
+-The court said that A has no further interest in the property to enable him to execute another deed to give the property away. B already holds the life interest and the contingent interest would flow to C in the form of an absolute interst if B dies with no children.
+
+Namburi Basava Subhramanayam v Alapati Hymavathi - AIR 1996 SC 2220
+-A has some property and makes a settlement deed in favour of his daughters D1 and D2. D1 died and he revoked the deed and gave all the property to the surviving daughter D2. Then, the legal heirs of D1 challenged the validity of his second transfer.
+
+8.2.21
+
+Section 25
+
+-The legal effect of transfer may vary according to the nature of the condition attached to it.
+-Conditions can be of 3 types:
+	1.Condition precedent - A condition where you have to fulfill the condition for the transfer to happen.
+	2.Condition subsequent - A condition which has to be fulfilled after the transfer.
+	3.Collateral condition - Creation of the interest in the property and the fulfillment of the condition happen simultaneously.
+-If A takes a loan from C and fails to pay back, A's property can be attached to pay that amount back. If A has transferred his property to B, it cannot be attached for this transaction. However, if it can be proved that A transferred it to B just to frustrate the legal proceeding against him, it can be attached and the transfer to B will be held to be void.
+-A leased his property to B so long as B stays in A's house. This is a collateral conditon and is perfectly valid.

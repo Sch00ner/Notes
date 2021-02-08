@@ -143,3 +143,32 @@ Simple Keynesian Model:
 -The capital, loan, money and labour markets are not relevant in this model. This is because all the prices have been driven down to their minimum.
 -The investment function is not included because there is no further investment during the Great Depression as the rate of interest is flat for about 8 years at this point.
 -If price is constant at $15, there is no real reason to include the price in calculations. If the price is normalised to $1, then revenue will equal the output.
+
+1.2.21
+
+Look at the screenshots: https://photos.app.goo.gl/Ty3UCGbpLFD7wHKi9
+
+3.2.21
+
+Discussion on projects and viva stuff
+
+4.2.21
+
+Bond Markets
+-
+
+-In the goods market, Say's law has clearly failed.
+
+Aggregate supply = Aggregate demand + Excess inventory
+=> AS = AD + ∆I
+
+8.2.21
+
+-Demonetisation did not significantly impact the supply of black money in the economy.
+-While there was an initial spurt in digital payments, it has come back down to pre-demonetisation levels.
+-Gita Gopinathan said it led to the GDP shrinking by 2%
+-45 year high unemployment during demonetisation.
+-Price of crude was cheaper than during UPA regime, but due to high taxes the price of petrol was higher during this period, which retarded GDP growth.
+-Nirmala Sitharaman reduced the effective corporate tax rate to 25.17% from 34.9%
+-This reduction in corporate tax led to a deficit of 1,45,000 crore in tax collection.
+-However, this was not really a supply side problem, so the economy didn't grow as much as was projected due to these tax cuts.

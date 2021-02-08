@@ -246,6 +246,8 @@ Specific questions to be answered:
 1. How do you determine backwardness and what are its indicators?
 2. Are such affirmative action measures an exception to the general rule of non-discrimination or in furtherance of non-discrimination?
 
+How do you determine backwardness and what are its indicators?
+
 Cases
 MR Balaji v State of Mysore(1963)
 -Issue: whether caste can be the sole indicator of backwardness?
@@ -260,3 +262,112 @@ P Rajendran v State of Madras
 -Test of backwardness predominantly based on caste. It was accepted.
 State of AP v P Sagar
 -Test of backwardness predominantly based on caste. It was rejected.
+
+1.2.21
+
+-A committee was appointed in the 50s headed by Babasaheb Kalelkar. It made a report that was to determine the factors of backwardness, which was primarily focused on caste. Nehru categorically rejected this report as he wanted it to be more multi-faceted in its accounting of backwardness. This could be seen as a way to secularise the understanding of backwardness.
+-In NM Thomas, Nehru's view was challenged as the court said that caste could be counted as the sole determinant of backwardness.
+-Jayashree v State of Kerala was a case that reiterated the stand of NM Thomas.
+-KC Vasanth Kumar v State of Karnataka(1985): The five judges gave different criteria for backwardness:
+    1.CJI Chandrachud said that person would be considered backward only if their backwardness is conmparable to SC/ST. Secondly, that they must meet a laid down economic criterion.
+    2.Justice Desai said that the only criteria for determining backwardness is economic.
+    3.Justice Chinappa Reddy said that the primary factor is class poverty among other relevant like caste, occupation etc.
+    4.Justice Sen said that the predominant factor should be poverty. Caste is only a factor to determine the Chandrachud test.
+    5.Justice Venkataramaiah said that there were three main factors for determining backwardness is caste, economic standing and occupation.
+The ratio of this case is nothing.
+-The above case is why Indra Sawhney was need soon because this case was too divided in the opinions offered.
+
+Are such affirmative action measures an exception to the general rule of non-discrimination or in furtherance of non-discrimination?
+
+-In MR Balaji the rationale for not letting reservations exceed 50% is that the exception is becoming the rule in that case.
+-Carry Forward Rule: TN had a 17.5% reservation. However, if some seats are unfilled those unfilled reserved seats would be added to the pool of reserved seats in the next year.
+-In Devdasan v. UOI, it was said by the majority that Carry Forward itself was unconstitutional as voiced by Mudholkar. However, Subba Rao dissented and said that Carry Forward itself was not unconstitutional but, such amount of reserved seats could not exceed 50%.
+-The stance is changed in NM Thomas where reservation is seen as furthering equality and Krishna Iyer said that it was an emphatic assertion of equality.
+
+General Manager, Southern Railways v S. Rangachari
+-The issue was whether reservations could be implemented in promotions.
+-The court said that reservations could also exist in promotions.
+-The rationale was that a person from a backward class/caste would be able to find a job, but promotions would be monopolised by the upper caste.
+-Thus, the fear was that the office dynamics would become pyramid shaped, with the upper castes perched at the top and this would just recreate existing social dynamics of discrimination in the office.
+
+2.12.21
+
+-The 2nd Backward Classes Commission in the year 1979 under BP Mandal, this is known as the Mandal Commission.
+-This commission too submitted a report that primarily focused on caste as a determinant of backwardness.
+-However, this time the perspective on backwardness had changed a lot from the time of the first commission. This was due to the judicial uncertainty as to the factors of backwardness and NM Thomas.
+-The list for backward classes was based on the 1931 census and it was recommended that 27% reservation be given in central and state employment along with educational institutions.
+-The report came out in 1980. Because a person's caste had more weightage than economic and educational indicators. Since, caste had more weightage, this list became almost a list of backward castes instead of backward classes.
+
+-VP Singh was the one of the first to camopaign with the promise to essentially implement the recommendations of the Mandal Commission.
+-However, the plan was to allow states to form their own list of backward classes. This meant that if some backward classes were included in the state list but not in the central list, in that state they would get all the benefits of reservation. If a backward class was in the central list, but not the state list, they would get the benefits of reservation in central services throughout India.
+-This meant that effectively, the reservation was 49.5% on paper, but effectively it could cross 50% depending on how the state list is.
+
+-PV Narasimha Rao passed an office memorandum on 25.9.1991 saying that:
+	1.In the 27% reservation, preference is to be given to the poorer of the backward classes.
+	2.Another 10% reservation which is to be given to economically weaker sections of society.
+-Thus, this again breaches the 50% ceiling on reservation even though it isn't really relevant anymore.
+
+Indra Sawhney case
+-Justice Jeevan Reddy said that the criteria of the reservation scheme was fine being dominantly based on caste as the Mandal Commission had also considered other factors.
+-He also said that reservation was in furtherance of equality but it should not breach 50% in ordinary circumstances. But, if there is a remote region where the population is 90% SC, then the scheme of reservation could be altered for that region.
+-However, it was said that the most critical services that required the highest skill and calibre and administrative efficiency would be exempt from reservation. This clearly shows that reservation was seen as something that compromised merit and efficiency. It was also said that reservation would not be allowed in the judiciary, armed forces, nuclear research, defence production, technical posts including R&D jobs etc.
+
+3.2.21
+
+-Art. 16(4A) was brought in by way of an amendment that explicitly nullified Indra Sawhney and allowed reservation in promotion.
+-Ajit Singh Januja (1 & 2), Virpal Singh Chauhan were a couple of cases that dealt with a peculiar thing: the question of seniority. Lets say that A joins on 1.1.20 and is from the General category and B joins on 2.1.20 and is from the SC category. B gets promoted on 1.1.21 and A gets promoted on 2.1.21.
+-There are two rules deciding seniority:
+	1. Consequential Seniority - When a person gets promoted even though he joined later, he would be considered senior to all those who were promoted after him. Thus, seniority depends on the date of promotion.
+	2. Catch up Rule - This rule says that if someone who joined later gets promoted before someone who joined earlier, the person who joined earlier would regain his seniority when he gets promoted to the same level. Thus, seniority depends on the date of joining.
+-Thus, in both these cases it was said that consequential seniority could not be applied and the Catch up Rule would have to be followed.
+
+-S Vinod Kumar v Union of India: Kumar argued that lowering of qualifying marks would have a detrimental effect on the administrative efficiency of the sevice so affected. There is also Art.335 which stated that reservation should not negatively impact administrative efficiency. Thus, the court said that there would be no relaxation in qualifying marks.
+
+-Art.16(4B) is inserted via the 82nd amendment that states that reserved seats can be carried over to the next year, going against Devdasan.
+-Art.335 was amended by the 82nd amendment to state that relaxation in qualifying marks would be allowed, going against S Vinod Kumar.
+-Art.16(4A) is amended via the 85th amendment to allow for the implementation of consequential seniority in employment, going against Ajit Singh Januja (1 & 2) and Virpal Singh Chauhan.
+
+5.2.21
+
+A lot of project discussion.
+
+8.2.21
+
+M.Nagaraj & Others vs Union Of India & Others(19.10.06)
+-The state has to prove through quantifiable data the following before granting reservation in promotion according to Justice Kapadia:
+
+	1.Demonstrate the backwardness of the SC/STs.
+	2.Prove that the SC/ST is inadequately represented in relevant public employment.
+	3.Maintain the overall efficiency of administration.
+
+-The adequate representation is to be calculated by the government and approved by the court.
+-This followed the Cumulative Adequacy position where all tiers of employment was supposed to have adequate requirement.
+
+UP Power Corporation vs. Rajesh Kumar
+-Rajesh Kumar challenged reservation in promotion based on Nagaraj.
+-The court struck it down.
+-There was widespread furore in the country.
+-Because of this, the government brought forward the 117th constitutional amendment that legalised reservation in promotion with consequential seniority.
+-The Bill failed, but it demonstrated that the state finally realised that Nagaraj was a Frankenstein that needed to be put down.
+
+Jarnail Singh v. Lakshmi Narayan Gupta
+-The primary question was whether the three points laid down in Nagaraj was valid.
+-The 5 judge bench led by Justice Rohintan Nariman said Nagaraj did not need to be reviewed.
+-It also said that Nagaraj did not overrule Indra Sawhney. The court said that Nagaraj was dealing with amendments that were brought into force after Indra Sawhney and thus, was dealing with a new situation that was not even possible after Indra Sawhney. 
+-However, it did say that the first point laid down in Nagaraj would be rejected.
+-But, it also said that creamy layer can be implemented for reservation in promotion.
+-This may lead to the same problem of the upper tiers of employment being dominated by the upper castes as the salary at those levels would by itself make a SC/ST candidate part of the creamy layer.
+
+DK Pavitra 1
+-It struck down the reservation law brought about by the Karnataka government in promotions.
+-After the first DK Pavitra judgement the Karnataka government made a committee to quantify backwardness. This committee was called the Ratna Prabha committee.
+-This committee was supposed to provide the Karnataka government with data to back up their reservation scheme.
+-The law was again revived based on the committee report.
+
+DK Pavitra 2
+-The law was challenged again in the SC.
+-The arguments were that
+	1.It was a legislative overruling of the BK Pavitra 1 judgement.
+	2.There is consequential seniority and creamy layer was not part of the scheme.
+-Justice Chandrachud said that it was not a legislative overruling. The court can only have limited oversight over the committee. It was also an expert committee that used methods commonly accepted in the field, the court was satisfied with it.
+-Chandrachud says that for consequential seniority there is no requirement for satisfying creamy layer as Jarnail Singh was only about reservation in promotion.
