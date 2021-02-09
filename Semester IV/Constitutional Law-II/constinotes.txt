@@ -358,16 +358,64 @@ Jarnail Singh v. Lakshmi Narayan Gupta
 -But, it also said that creamy layer can be implemented for reservation in promotion.
 -This may lead to the same problem of the upper tiers of employment being dominated by the upper castes as the salary at those levels would by itself make a SC/ST candidate part of the creamy layer.
 
-DK Pavitra 1
+BK Pavitra 1
 -It struck down the reservation law brought about by the Karnataka government in promotions.
--After the first DK Pavitra judgement the Karnataka government made a committee to quantify backwardness. This committee was called the Ratna Prabha committee.
+-After the first BK Pavitra judgement the Karnataka government made a committee to quantify backwardness. This committee was called the Ratna Prabha committee.
 -This committee was supposed to provide the Karnataka government with data to back up their reservation scheme.
 -The law was again revived based on the committee report.
 
-DK Pavitra 2
+BK Pavitra 2
 -The law was challenged again in the SC.
 -The arguments were that
 	1.It was a legislative overruling of the BK Pavitra 1 judgement.
 	2.There is consequential seniority and creamy layer was not part of the scheme.
 -Justice Chandrachud said that it was not a legislative overruling. The court can only have limited oversight over the committee. It was also an expert committee that used methods commonly accepted in the field, the court was satisfied with it.
 -Chandrachud says that for consequential seniority there is no requirement for satisfying creamy layer as Jarnail Singh was only about reservation in promotion.
+
+9.2.21
+
+EV Chinniah v State of Andhra Pradesh
+-A law in AP had made sub-classifications within SCs designating some SCs as more backward than others.
+-The court said that this cannot be done because SCs are homogeneously backwards.
+
+State of Punjab v Davinder Singh
+-There was a Punjab law that made sub-classifications within SCs that said 50% of the SC seats would be reserved for Valmiki and Mazhavi Sikhs.
+-The court thought that it needed to be considered by a larger bench.
+-So, the case was referred to a 5 judge bench. Justice Arun Mishra severely criticised EV Chinnaiah. The case was then referred it to an even bigger 11 judge bench.
+-The judgement from the 11 judge bench is still pending but, it looks like EV Chinnaiah will probably be overturned along with some reconsideration of Indra Sawhney.
+
+Read: https://indconlawphil.wordpress.com/2020/09/04/guest-post-sub-classification-in-reservations-ii/
+
+-There were 3 judgements between 2002-2005 that struck down the attempts by state governments to bring in reservation in private entities.
+-The 3 cases were:
+	1.TMA Pai Foundation v UOI 2002
+	2.Islamic Academy v UOI 2003
+	3.PA Inamdar v State of Maharashtra 2005
+-All of these reservations were struck down under Article 19(1)(g).
+-Then, Article 15(5)  was introduced via the 93rd constitutional amendment in response to these judgements. It says:
+
+	Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.
+-Clearly intended to overrule the 3 SC judgements.
+
+Ashoka Kumar Thakur v Union of India
+-https://en.wikipedia.org/wiki/Ashoka_Kumar_Thakur_v._Union_of_India
+-Central Educational Institutions (Reservation in Admission) Act, 2006 was brought in to ensure reservations in Central educational institutes.
+-This law was challenged on the basis of BS and Article 19(1)(g).
+-CJI Balakrishnan said that since this law does not deal with reservation in private institutions, the court would not look at this with respect to private institutions.
+-This can be problematic because this law could be a model for further laws that reserve seats in private institutes. This leads to a split in Basic Structure scrutiny which is supposed to be all encompassing.
+-The SC upheld both the constitutional amendment and the law. They said that the 93rd amendment did not violate the BS so far as it concerned state insitutions and thus, partially upheld Article 15(5).
+
+-The question that was left unanswered was whether reservations can be imposed in private, unaided educational insitutions.
+-This question came to the fore after Article 21A and the RTE, which mandated that seats be reserved even in private, unaided schools.
+
+Society for Unaided Private Schools, Rajasthan v UOI
+-When the RTE Act was challenged, the law was upheld.
+-Only minority educational institutions were excluded as they enjoyed a special constitutional position.
+-As such, Article 21A itself was not challenged in this case.
+
+Pramati Education Trust v UOI
+-However, in this case the 86th consitutional amendment which brought Article 21A into existence was challenged. The inclusion of private schools under the RTE Act was also challenged.
+-The five judge bench in this case unanimously upheld it all. Neither, Article 15(5) nor 21A was in violation of the BS.
+-Thus, it is now completely valid to have reservation in private, unaided educational institutions.
+
+-The 103rd constitutional amendment brought in the EWS reservation. Since, this one is brought in as a constitutional amendment it will be subjected to a BS scrutiny unlike the office memorandum one in the 90s.

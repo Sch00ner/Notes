@@ -36,3 +36,26 @@ Recognised agents of pleaders
 
 21.1.21
 
+9.2.21 JA
+
+Restoration Application
+-In respect of order 9 rule 9, the restoration application period of limitation is 30 days, according to article 122
+-In case of setting aside of ex parte decree it is covered under Order 9 Rule 13 the period of limitation is also 30 days under Article 123
+-After 30 days, Section 5 of the Limitation Act will apply.
+
+Jaswant Singh v. Parkash Kaur (2018) 12 SCC 249
+-In this case, since the defendant did not appear the suit was decreed ex parte against the defendant.
+-The defendant filed to get the ex parte decree dismissed under Order 9 Rule 13, but did not turn up again as he died. The application was thus, dismissed.
+-Now the question is whether the dismissal of the application to get the decree dismissed can be challenged again.
+-Yes, the dismissal can also be appealed under Order 43 Rule 1(d) for the application for dismissal to be restored.
+-Appeal court restored the application in Order 9 Rule 13.
+-HC says dismissal was correct and appeal court was wrong.
+-In terms of Section 141 all the procedures in the suit are applicable.
+-SC says that the application under Order 9 Rule 13 stands and reinstates it.
+
+-Against an ex parte decree a person has two options under  Section 96(2) and under Section 104 read with, Order 43 Rule 1(d).
+
+-Order 9 Rule 9- Plaintiff does not appear, ex parte decree for the defendant.
+-Order 9 Rule 13- Defendant does not appear, exparte decree for the plaintiff.
+-Order 9 Rule 13- It covers restoration applications when the defendant did not get the summons.
+-Section 96(2)- It covers restoration applications when the subject matter of the exparte decree is challenged.

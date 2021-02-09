@@ -173,3 +173,11 @@ Section 25
 	3.Collateral condition - Creation of the interest in the property and the fulfillment of the condition happen simultaneously.
 -If A takes a loan from C and fails to pay back, A's property can be attached to pay that amount back. If A has transferred his property to B, it cannot be attached for this transaction. However, if it can be proved that A transferred it to B just to frustrate the legal proceeding against him, it can be attached and the transfer to B will be held to be void.
 -A leased his property to B so long as B stays in A's house. This is a collateral conditon and is perfectly valid.
+
+9.2.21
+
+Section 26 - Just read it.
+-The broader position of law is to ensure justice. The concept of justice itself is a developing one. So, one has to use one's judicious mind to determine the most just path.
+
+Ulterior disposition
+-Used in a layman sense in Section 27. A latent transfer that is triggered upon a specific condition.
