@@ -419,3 +419,44 @@ Pramati Education Trust v UOI
 -Thus, it is now completely valid to have reservation in private, unaided educational institutions.
 
 -The 103rd constitutional amendment brought in the EWS reservation. Since, this one is brought in as a constitutional amendment it will be subjected to a BS scrutiny unlike the office memorandum one in the 90s.
+
+10.2.21
+
+ARTICLE 19 - FREEDOM OF SPEECH AND EXPRESSION
+
+-Can companies in India have Article 19(1)(a) right? RC Cooper said the aggregation of the Article 19(1)(a) rights of all the people in the organisation is the Article 19(1)(a) right of the organisation itself.
+-This rationale was extended to media companies in Bennett Coleman & Co. v. Union of India. The Article 19(1)(a) right of a newspaper, TV channel etc when violated is actually the violation of the Article 19(1)(a) rights of its, audience, employees and others, as represented by that media company.
+
+12.2.21
+
+Article 19(2)
+-Acts as a restriction on freedom of speech and expression to protect public and private interests.
+-Allows the government to take steps to curb free speech. The question is whether such limits are reasonable or not.
+-The yardstick for reasonable restriction shifts from time to time, from generation to generation.
+-Devidas Ramachandra Tuljapurkar v State of Maharashtra: Someone wrote a nasty poem against Mahatma Gandhi. The state prosecuted the person for obscenity. Justice Dipak Mishra said that one must be careful when criticising "historically respected persons". This classification of "historically respected persons" was brought about out of thin air and there is no clarity as to who belongs in this category.
+-Bijoe Emmanuel v State of Kerala: 3 kids did not sing the national anthem because it went against their religious beliefs as part of Jehovah's Witnesses. They stood silent during the assembly and for this they were expelled from the school. The SC said that there was no law itself that mandated the singing of the national anthem but it was instead done by an office order of the Department of Education in Kerala. The SC ruled that the expulsion of the kids violated their rights to freedom of speech and expression and right to freedom of religion.
+
+15.2.21
+
+-The restriction on Article 19(1) has to  fall on one of these grounds:
+	1.It has to be brought about by means of a law.
+	2.The grounds mentioned in Article 19(2).
+
+The evolution of Article 19(2)
+-The first difference that we can see in the original Article 19(2) is that it did not have public order. Instead, it had the restriction that if your speech undermined the security of the state or tending to overthrow the state.
+-Incitement to offence was also not part of Article 19(2).
+-Restrictions on freedom of speech and expression did not have to be "reasonable".
+-There were two periodicals that caught the ire of the government.
+	1.Crossroads was a periodical that was published by the communist party, whose editor was Romesh Thapar the brother of the Romila Thapar. It was highly critical of Nehru's foreign policy and there would be strikes and protests whenever a new issue came out. The state of Madras invoked the Madras Maintenance of Public Order Act, 1949 to ban the circulation, distribution and sale of the periodical. This was done in the interest of public order even though it was not a ground under the original Article 19(2).
+	2.The Organiser was the mouthpiece of the RSS and SP Mookherjee criticised the pact between India and Pakistan about the settlement of refugees. The Punjab government brought about the Public Safety Act, 1959 to similarly ban the Organiser for the benefit of public order.
+-The two cases dealing with these bans were Romesh Thappar vs State of Madras and Brij Bhushan vs State of Delhi. The majority judgement was delivered by Patanjali Shastri and in both these cases struck down the restrictions. They said that the restrictions could not be sustained as public order was not a ground under the original Article 19(2) and the standard of undermined the security of the state or tending to overthrow the state was much higher. So, unless your speech was literally fomenting a civil war, it could not qualify to be restricted. Fazl Ali said that the state should be able to decide at what stage it counted as going against the state as under the original Article 19(2) as part of its sovereign prerogative. Fazl Ali said that the distincition between public order and public safety is quite flimsy.
+-State of Bihar v Shailabala Devi 1950: Devi owned a printing press that had brought out a Bengali leaflet called Sangram, that included a dialogue between Maa Kali who said I am the bloodhtirsty goddess who yearns for revolution against the shackles. Bihar restricted this leaflet for inciting violence against the state. Justice Sharju Prasad said:
+	“if a person were to go on inciting murder or other cognisable offences either through the press or by word of mouth, he would be free to do so with impunity” as “he would claim the privilege of exercising his fundamental right of freedom of speech and expression”
+-As a response to these three judgements, the first constitutional amendment was brought about.
+-Nehru was about to leave for Lusaka when he was beseeched by Sardar Patel in the form of a letter who urged Nehru to consider constitutional amendments to curb free speech and strenghten press control laws.
+-This amendment brought about some changes to the original Article 19(2):
+	1.Standard was lowered from basically sedition to public order.
+	2.Incitement to offence was also brought in.
+	3.At the behest of Ambedkar, the word "reasonable" was also inserted so as to rein in the power of the state.
+
+-Can politicians say they have a right not to speak? Yes, but this right is counterbalanced by the right to be informed of the electorate which is part of their right to freedom of speech and expression. As a vote is an expression, it has to be based on correct, timely information.

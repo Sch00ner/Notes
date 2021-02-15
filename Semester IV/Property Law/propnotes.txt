@@ -181,3 +181,33 @@ Section 26 - Just read it.
 
 Ulterior disposition
 -Used in a layman sense in Section 27. A latent transfer that is triggered upon a specific condition.
+
+11.2.21
+
+Section 27
+-Deals with second transfer on failure of first. This is a conditional transfer.
+-The second transfer is the ulterior disposition. The first transfer is the prior disposition.
+
+-A transfers property to B with the condition that he will open a shop  within 3 years of receiving the property or the property will pass to C. B dies before setiing up the shop. The property will still pass to C even though the condition was not exactly contemplated by A.
+-A transfers property to his wife, W, with the condition that if she should die in his lifetime, the property will pass to C. If both A and W die in a plane crash such that it is impossible to say who died first, the property should not pass to B.
+
+
+Section 28
+-Deals with conditional limitation.
+-Conditional limitation is a condition which divests an interest and subsequently vests it in another person.
+-A transfers certain property to B with a condition that B must go to England within 3 years. If B fails to go to England then the property will go to C.
+
+15.2.21
+
+Section 32
+-Deals with condition subsequent which is void.
+-Any condition for ulterior disposition must be legally valid.
+-Any condition subsequent which intends to divest interest in any property will not take place if the condition is invalid.
+-A transfers property to B with a condition that B should not set fire to the haystack. If he sets fire to the haystack it will go to C. Even if B burns the haystack, the property will not divest.
+-A transfers property to B with the condition that B should not desert her husband within a period of 1 year. If she does, then the property goes to C. Even if she deserts her husband, the property will not divest.
+
+Section 33
+-A transfers property to B with the condition that B must join the army, if B does not the property will go to C. B started a business in the meantime and did not join the army. Thus, the property will divest immediately to C when B starts a business.
+
+Section 34
+-A transfers property to B with a condition that if B doesn't live in Benaras for 3 months from the date of transfer, the property will go to C. If the relatives of C confined B for 3 months so that he was unable to live in Benaras, the property will not pass to C.

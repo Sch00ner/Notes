@@ -59,3 +59,23 @@ Jaswant Singh v. Parkash Kaur (2018) 12 SCC 249
 -Order 9 Rule 13- Defendant does not appear, exparte decree for the plaintiff.
 -Order 9 Rule 13- It covers restoration applications when the defendant did not get the summons.
 -Section 96(2)- It covers restoration applications when the subject matter of the exparte decree is challenged.
+
+10.2.21 JB
+
+11.2.21 JA Limitation
+
+Section 6
+-A minor cannot file a suit because he is not of age yet. So, the limitation period for this minor will only start from the time he becomes a major.
+-Section 6 applies only to the suit and application. It is not related to appeals.
+-Apart from minors, the insane and the idiot are also covered under this. For them, the time for limitation starts from whenever they have managed to overcome their disability.
+-If a minor immediately after becoming a major is afflicted with insanity, he can file the suit after the second disability, the insanity, has ceased.
+-However, if there is a gap between the first and second disability, Section 6 will be overruled by Section 9, which says that once the period of limitation has started to run, no subsequent disability can stop this time from running out.
+-The legal representative of the disabled person retains the limitation period of the disabled person. So, if a minor dies at 17, the legal representative would avail of the fact that the limitation period starts from the minor's 18th birthday.
+-If the legal representative is affected by a disability at the point of death of the original disabled person, the rules for disability under Section 6(1) and (2) will apply to them.
+
+Section 7 - Just read it.
+
+Section 8 - Just read it.
+
+12.2.21 JB
+
