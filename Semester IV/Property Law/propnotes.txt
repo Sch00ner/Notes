@@ -211,3 +211,79 @@ Section 33
 
 Section 34
 -A transfers property to B with a condition that if B doesn't live in Benaras for 3 months from the date of transfer, the property will go to C. If the relatives of C confined B for 3 months so that he was unable to live in Benaras, the property will not pass to C.
+
+18.2.21
+
+Section 35
+What is election?
+This is not mentioned it Section 35 but it incorporates election. Election simply means choosing one between two contradicting or alternative rights or interests.
+35. Election when necessary.—Where a person professes to transfer property which he has no right to transfer, and as part of the same transaction confers any benefit on the owner of the property, such owner must elect either to confirm such transfer or to dissent from it; and in the latter case he shall relinquish the benefit so conferred, and the benefit so relinquished shall revert to the transferor or his representative as if it had not been disposed of, subject nevertheless, where the transfer is gratuitous, and the transferor has, before the election, died or otherwise become incapable of making a fresh transfer, and in all cases where the transfer is for consideration, to the charge of making good to the disappointed transferee the amount or value of the property attempted to be transferred to him. Illustrations The farm of Sultanpur is the property of C and worth Rs. 800. A by an instrument of gift professes to transfer it to B, giving by the same instrument Rs. 1,000 to C. C elects to retain the farm. He forfeits the gift of Rs. 1,000. In the same case, A dies before the election. His representative must out of the Rs. 1,000 pay Rs. 800 to B. The rule in the first paragraph of this section applies whether the transferor does or does not believe that which he professes to transfer to be his own. A person taking no benefit directly under a transaction, but deriving a benefit under it indirectly, need not elect. A person who in his one capacity takes a benefit under the transaction may in another dissent therefrom. 
+Exception to the last preceding four rules.—Where a particular benefit is expressed to be conferred on the owner of the property which the transferor professes to transfer, and such benefit is expressed to be in lieu of that property, if such owner claims the property, he must relinquish the particular benefit, but he is not bound to relinquish any other benefit conferred upon him by the same transaction. Acceptance of the benefit by the person on whom it is conferred constitutes an election by him to confirm the transfer, if he is aware of his duty to elect and of those circumstances which would influence the judgment of a reasonable man in making an election, or if he waives enquiry into the circumstances. Such knowledge or waiver shall, in the absence of evidence to the contrary, be presumed, if the person on whom the benefit has been conferred has enjoyed it for two years without doing any act to express dissent. Such knowledge or waiver may be inferred from any act of his which renders it impossible to place the persons interested in the property professed to be transferred in the same condition as if such act had not been done. 
+Illustration 
+A transfers to B an estate to which C is entitled, and as part of the same transaction gives C a coal-mine. C takes possession of the mine and exhausts it. He has thereby confirmed the transfer of the estate to B. If he does not within one year after the date of the transfer signify to the transferor or his representatives his intention to confirm or to dissent from the transfer, the transferor or his representative may, upon the expiration of that period, require him to make his election; and, if he does not comply with such requisition within a reasonable time after he has received it, he shall be deemed to have elected to confirm the transfer. In case of disability, the election shall be postponed until the disability ceases, or until the election is made by some competent authority. 
+COMMENTS 
+When question of election arises A case of election arises only when the transferee takes a benefit directly under a transaction. When the transferee derives any benefit indirectly, no question of election arises, as he, in that case, cannot be said to take under the deed; Valliammai v. Nagappa, AIR 1967 SC 1153.
+
+Beepathumma v. S V Kadambolithya AIR 1965 SC 241
+In this case it was held that a person can't take under and against the same instrument, or otherwise, no one can approbate and reprobate at the same time. The latter line has been taken from an English case Coddington v Lindsay.
+Why does a person profess to transfer a property not their own? If we look into the statute under person who can transfer, a person can transfer one's own property or a person who has the authority to transfer. In these cases the provision is not applicable. However, a person may transfer certain property either because of his ignorance or misunderstanding of the ownership of the property or may have Express or implied authority by the owner to do so. Ignorance is not tenable especially in the present day.
+However, the authority part is very important. Express authority is an authority expressly given, in this case to sell the property. Implied authority is when the person has approved of the transfer who has an actual authority. For example, when one transfers a property not of their own in presence of the original owner and the latter had every opportunity to challenge the transfer as in was free from undue influence, coercion, etc and was given some benefit under the transfer document as well , the latter may choose whether they should challenge the transfer or take the benefit under the transfer document. 
+This is also under doctrine of estoppel where the owner once accepts the transfer cannot later deny its validity. 
+The situation where one transfers a property not his own arises in the case of a will, because the transfer ebecomes valid only after the death of the testator. So if I transfer a property I have been bequeathed in the will during the lifetime of the transferor, I am transferring a property not my own. If alongside the transfer I give the testator some benefit, he is under an ibli
+White and Tudor's Leading Cases in Equity (book) : election is an obligation imposed upon a party by courts of equity to choose between two contradicting rights or claims in case where there is a clear intention that he should not enjoy both. He who enjoys a benefit under a deed or will must adopt the whole contents of the document. 
+Section 35 by applying the principle of equity says that if you accept the benefit out of a transaction you must accept the transaction. 
+If this principle is not there, people will accept the benefit only and challenge the transfer. This goes against the principle of equity. Thus, the court of equity developed the principle which has been codified under Section 35.
+A gifted some money to B. In lieu of that, B is required to transfer his house to A. If A refuses to transfer the house B has to also refuse the money. This is election. The law says of you take the benefit you must fulfill the obligation. 
+A makes a gift deed of Rs 1000 with a condition that B must transfer property to C. Here B must choose between the gift and the property not being transferred. In the language of law, B has been put to election. It is an equitable principle under which a person may not be allowed to approve only that part of the instrument which is beneficial to him and disapprove of another part of the instrument which is contradictory to his interest. 
+Ramayya v. Mahalaxmi AIR 1922 Mad 357
+Deputy Commissioner v. Ram Swarup (1917) OC 243
+There are 3 essential conditions under Section 35:
+1. A person must profess to transfer a property not their own. 
+2. A part of the transaction confers a benefit to the actual owner of the property. 
+3. Both the transfer of the property and the benefit must be in the same transaction/instrument. 
+Under these conditions the doctrine of election will arise. 
+The requirement that it must be put of the same transaction is quite important. If there is no transfer and interest in the same instrument, the doctrine of election will not apply, per Ramaiya v Mahalaxmi
+If the transfer and the benefit are inseparable and interdependent, they form part of the same transaction. The transfer of property is to be made only in lieu of the benefit. 
+If the transfer and benefit are independent, the doctrine of election doesn't apply. There is no election of the two are independent transactions.
+Ramaiya v Mahalaxmi
+
+19.2.21
+
+22.2.21
+
+-Under what circumstances can we assume there is an implied election?
+-When the election is implied, the intention of the owner is to be determined from his acts or conduct.
+-Such acts or conduct can be
+-If the donee has enjoyed real benefits from the transaction, the election is implied.
+
+25.2.21
+
+Section 39
+
+-When A transfers a property to B, B is entitled to the incidental benefits of the property. Lets say the value of the property is 1 lakh and it has a liability clause stating that when A's daughter gets married, B has to pay 75k out of the income of the property.
+-Just read the section. Class made no sense to me. Read Mulla if further explanation needed.
+
+1.3.21
+
+Ostensible owner just read the section.
+
+4.3.21
+
+Section 41
+
+Ramcoomer Koondoo v. Macqueen 1872
+-A bought a plot of land in the name of his wife, W. Sale deed registered to the wife. Wife sold property to R. Son of W, M, raised objection to this sale, saying it was willed to him by A and the mother couldn't transfer it as she was just the benami figurehead of the land and not the actual owner.
+-The Calcutta HC decided this case in favour of the son. So, R went on appeal to the Privy Council.
+-The Privy Council overturned the HC judgement and awarded the land to R.
+
+5.3.21
+
+Jaydayal Poddar (Deceased) v Mst. Bibi Hazra And Ors on 19 October, 1973
+-This case laid down some important factors to consider in case of benami transactions:
+	1. the burden of showing that a transfer is a benami transaction lies on the person who asserts that it is such a transaction;  
+
+	2. it is proved that the purchase money came from a person other than the person in whose favor the property is transferred, the purchase is prima facie assumed to be for the benefit of the person who supplied the purchase money, unless there is evidence to the contrary;  
+
+	3. the true character of the transaction is governed by the intention of the person who has contributed the purchase money and  
+
+	4. the question as to what his intention was has to be decided on the basis of the surrounding circumstances, the relationship of the parties, the motives governing their action in bringing about the transaction and their subsequent conduct, etc.

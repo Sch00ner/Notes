@@ -77,5 +77,16 @@ Section 7 - Just read it.
 
 Section 8 - Just read it.
 
-12.2.21 JB
+12.2.21 JA Limitation
 
+Computation of the Period of Limitation
+-The certified copy of the order has to be included in the application for its appeal.
+-If it takes 10 days to obtain the certified copy of the order, it will be added to the period of limitation. So, the effective period of limitation could be 10+90 days, i.e., 100 days.
+-The period of limitation starts
+
+25.2.21 JA Limitation
+
+-Injunction is against the party. Stay is against the operation of the order of a lower court by a higher court.
+
+Section 15
+-

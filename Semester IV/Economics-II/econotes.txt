@@ -178,3 +178,56 @@ Aggregate supply = Aggregate demand + Excess inventory
 -The first round the government is giving a stimulus of 
 
 Look at the screenshots: https://photos.app.goo.gl/C8FLsKp9JADJJTDe8
+
+15.2.21
+
+-Due to diminishing marginal returns, the growth of poor countries is higher than rich countries. This is the doctrine of absolute convergence.
+-However, Robert Solo himself discarded this in favour of the doctrine of conditional convergence.
+-The reason for the Great Depression was inadequacy of demand.
+-
+
+18.2.21
+
+-Development economists from the 1930s discussed how to get colonies out of their low level equilibrium trap.
+-If an economy is poor, for various reasons, like low mineral wealth, no arable land etc.
+-In the medieval period, it was the ruling class were affected with the change in rulers during invasions. The rural proletariat was not really that affected by such change in rulers.
+-There was a stark difference when the East India Company came here. The EIC simply wanted to use India as both a factor market and a goods market.
+-There was a profit motive for setting up colonies.
+-Post independence there was a constraint on resources with a huge population to feed.
+-The Cold War was also at its peak and the US and USSR both used former colonies to further their objective.
+-India had somewhat more bargaining power due to the sheer size of the market.
+-When a country is poor, they are caught in the poverty trap. They will be unable to save up enough capital to progress. Because they don't have enough capital to access resources to move up, it will deepen their poverty.
+-Economists say that these countries need a big push, in the form of government expenditures, that creates forward and backward linkages.
+-For example, if investment in steel is done, it will have a backward link to power generation and mining iron ore and a forward link to many industries that utilise steel like construction and manufacturing.
+-INR was artificially overvalued during the 80s. This led to a boom in import and led to the balance of payments to crisis.
+-The RBI deposited almost 600 tons of gold as collateral with the Bank of England to get a loan from the IMF.
+-This led to the measures by Manmohan Singh. On 1 July, 1991, he devalued the INR by 10% and again on 3 July by another 11%.
+Read: The reform measures in 1991.
+
+19.2.21
+
+22.2.21
+
+-Budgeted expenditure for government in FY20 = 30.42 lakh crore rupees
+-Post Covid, revised estimate of BE = 34.5 lakh crore rupees.
+-So additional 4.08 lakh crore went into the economy as fiscal stimulus owing to the crisis.
+-An additional 50k crore went straight to MNREGA.
+-Budgeted expenditure for government in FY21 = 34 lakh crore rupees
+-Assuming a 3% inflation rate, to maintain the same level of BE as last year it would have to be 35.5 lakh crore.
+-In 2019-20, MNREGA expenditure was 71,686 crores
+-In 2020-21, the RE on MNREGA is 1,11,500 crores
+-In 2021-22, the BE on MNREGA is 73,000 crores
+
+25.2.21
+
+LM locus(Liquidity Money locus)LM curve is defined as the locus of Combinationsof Y and R for which the money market is atequilibrium. Once we talk about the money marketequilibrium, we need to understand both the supplyside and the demand side.To start with, when we deal with the basic LMmodel, we will take a simplistic assumption that theentire money supply is exogenously determined bythe Central Bank, this is a short run model, goodsprice is constant in the short term, so the realmoney supply also becomes an exogenous variablein this system. This is for the supply side.Demand side of the money marketThe money demand functionWhy is money demanded? As a medium ofexchange, a metric for the purpose of evaluation ofintrinsic value of a commodity and used to
+exchange different goods, so medium of exchange.Also there is the precautionary balance, a store ofliquid money kept for exigencies, which hasbecome low with the rise in credit and debit cards,provided the technical situation of your area. So inrural areas liquid cash for exigencies may be apossible motive for holding money.These are basically both used as a medium ofexchange. We shall thus club the transactiondemand and the precaution demand and have theL1 function of money demand.There is a basic assumption that money will havevalue at the end of the depression, as promissorynotes issued by the Central Bank in the form ofmoney may not be honoured, Value of money has a certainty when the situationis more stable, but then also there is the questionof inflation. The money gives you certainty with respect topurchasing power, but this is related to futuretransaction demand. What is the speculative function of money? 
+How can money store some kind of value in itself?Money is being used as a bond, or some kind ofdebt or investment instrument. During Depression,the market rate of interest goes to almost zero,making the cost of holding bonds very high. If Ihave some money and I want to generate someincome from it, I can roll the money in the marketby purchasing some bonds or stocks. This means Iam basically lending money to a firm. A bond isbasically collection of the initial capital for a firm, byway of issuing debt instrument bond, which has aface value, which is the amount written on the bondwhich shows the amount of money lent to thebusiness entity against the bond. Say I float 5 lakh bonds each worth 1000 rs. Facevalue is Rs 1000. So someone needs to pay me Rs1000 to get the bond. When all the bonds arepurchased, 50 CR is raised. What is the benefit thatthat purchaser have? At the end of the maturityperiod, the money will be returned and so will thebonds. But why will the buyer part with theirliquidity? The incentive for such is known as the
+yield of the bond. A certain amount of money willbe paid to the person holding the bonds regularly,usually annually, as long as the maturity period.Thus, a regular annual income will be assured. Thebond is generating a stream of income over time.How will the buyer value this stream of income? Incomparison with the market rate of interest. Theinterest will probably be comparable to the marketrate of interest, if not a little bit at a premium. Thepresent valuation of the bond depends on theoption or second best option, but I can alsogenerate the stream of income by putting thatmoney in a commercial bank. In that case, how willthe buyer value the stream of income that isgenerated? What stream of income will be generated if thebuyer chooses a FD account with a commercialbank, Liquidity is higher for bonds, so the same rate ofinterest can actually be charged. Second channel of income generation from bank interms of capital gain. If the money is lent at a time
+when the rate is high and prices low, a capital gainis possible when the prices are high, by selling it offon the bond market. Present valuation of the bond=stream of incomethat could have been generated in an FD account ofa commercial bank. At the end of 1 year interestaccrued is 10000. The 1 lac becomes 1*(1+r)*1 lac.So 110000 at the end of one year. What will be theamount accruing at the end of second year.121000....at the 3nd of the 10th year, incomeaccruing will be 1 lac*(1+r^10). How would a buyerlook at the present value of the bond from me.What the buyer gets is 10000 rs per year. She willhave to wait for a year to get 10000. Thus, a cost oftrading is associated when we are looking at astream of income generated over time. Yield at theend of the first year= (Opportunity cost = exponential. When valuing total stream of income, totaldiscounted value= 1st years yield/1+r +2nd/(1+r)^2+...+10th years yield(1+r)^10+ principal. If there is a fixed yield, Y1=Y2=Y3.. =Y bar. 
+Present discounted value of the bond= Y bar/1+rfor 10 termsfor 10 terms.
+
+Screenshot: 
+
+Present discounted value of the bond= Y bar/1+rfor 10 termsfor 10 terms. Thus present value is calculated as such. Price, yield and market rate are related. Yield isconstant in a perpetuity. Thus, the inverserelationship between rate and price is established. Thus cost of holding bonds becomes very high so
+Thus, cost of holding bonds becomes very high, sovery low yield for bond. Thus better to hold liquidcash. There is also a chance where before the endof the maturity period liquid cash is needed, can begot by selling the bond. The price of bond may godown if the market recovers. Thus, a capital loss isbeing made.Return=r (market rate of interest prevailing at thetime of sale of the bond) +Expected price ofbond-current price of bond *100/current price ofbond(Expected capital gain).  *expressed in percentages*

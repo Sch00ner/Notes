@@ -20,6 +20,8 @@ The Positive/Negative Rights distinction
 
 4.12.20
 
+DIRECTIVE PRINCIPLES OF STATE POLICY
+
 -When right to life or personal liberty was initially guaranteed, no one really thought that it could include ecosoc rights. However, ecosoc rights have slowly become infused into these civpol right like life and personal liberty.
 -In the Irish constitution, Directive Principles of Social Policy are not cognisable in court. In India, the DPSPs are not enforceable in court. This means that courts in Ireland will not even acknowledge it, while courts in India can hear arguments based upon the DPSPs to enforce other rights.
 -State of Madras v Champakam Dorairajan 1951: Madras had provided for an affirmative action for SC/ST etc. Since Art 14 and 15(1) existed in its original state, this was challenged because discrimination on the basis of caste was unconstitutional. The State countered that it was only trying to fulfill the DPSPs. But, the SC said that the DPSPs were not to be acknowledged in courts under the mistaken impression that the situation in India was the same as in Ireland, where Directive Principles of Social Policy were not cognisable. However,in India the DPSPs are not enforceable, but that does not mean that arguments related to them are completely prohibited from court.
@@ -40,11 +42,11 @@ The Positive/Negative Rights distinction
 -Article 31 of the Japanese Constitution however used the term "procedure established by law" which is what we adopted.
 
 -AK Gopalan was placed under house arrest under the Preventive Detention Act. He was not given a reason and no hearing was scheduled. Thus, Gopalan through Nambiar pleads to the SC. Nambiar asked whether any law could deprive people of their liberty just because it is an established procedure of law. Nambiar recounts a story from Rochester in the UK where people were put to death by being fried alive in oil for the crime of theft. With this, Nambiar illustrated how the State can run amok and make a mockery of democracy. Secondly, Nambiar argued that mere physical right to live cannot be the full extent of Art. 21, it must include the right to be free to live our lives to a reasonable extent. However, besides Justice Fazl Ali all the judges of the SC declined to do anything about it.
--In Maneka Gandhi, Bhagwati made sure to lay out that procedure established by law needs to be fair, just and reasonable, echoing Fazalali in the Gopalan case.
+-In Maneka Gandhi, Bhagwati made sure to lay out that procedure established by law needs to be fair, just and reasonable, echoing Fazal Ali in the Gopalan case.
 
 11.12.20
 
--In Mithu v State of Punjab the court went beyond procedure and said that even the law has to be fair, reasonable and just.  It was argued that Sec. 303 of IPC goes against Art. 14 because the punishment was different for a person who was already under life imprisonment and then commits a murder, compared to someone who has only been convicted for murder.
+-In Mithu v State of Punjab, the court went beyond procedure and said that even the law has to be fair, reasonable and just.  It was argued that Sec. 303 of IPC goes against Art. 14 because the punishment was different for a person who was already under life imprisonment and then commits a murder, compared to someone who has only been convicted for murder.
 
 -Mohini Jain v State of Rajasthan: Court said RTE is included in Right to Life under Art. 21. The court realised its mistake later because anyone can ask the State to fund their education from primary to doctorate which will go beyond the capacity of the State to fulfill.
 -So, in Unni Krishnan v State of AP 1993, the court restricted it to basic education from 6-14 years of age. Then, Art. 45 was changed and Art. 21A inserted to make this a FR.
@@ -59,21 +61,23 @@ FUNDAMENTAL DUTIES
 -So why do we have FDs?
 -In the CA, some advocated for a duty based narrative in the Constitution. This was backed up by the Vedas and the Upanishads which talk about various duties.
 -However, others felt that the Constitution was voluminous enough as it was and only added it as a non-enforceable section.
--In Sachidananda Pandey v State of WB, involved the construction of the Taj Bengal hotel. The petitioner argued that since the Alipore zoo was in a green zone and the big hotel would block the path of the migratory birds. The Tatas said that the hotel will be built in a sustainable way so as to not disturb the environment. The petitoners raised Art. 51A(g) because every person should protect the environment. The SC said because there is a FD and a DPSP involved, it will be brought to teh notice of the State. However, after the State has evaluated it in a bona fide manner, the court will not involve itself further. Basically, relevant but not really.
--Chowksy case: Deepak Mishra heard this case where Chowksy was offended by the national anthem scene in Kabhi Khushi Kabhi Gam. Mishra agreed and said it was insulting to the national anthem to be sung in a fake British accent. However, the movie was already out and a lot of money was riding on it, so it was left untouched. But, Chowksy approached Mishra to ensure that the national anthem be played before movies with the uniform tune and aniumation that we have today. Mishra called this a display of constitutional patriotism.
+-In Sachidananda Pandey v State of WB, involved the construction of the Taj Bengal hotel. The petitioner argued that since the Alipore zoo was in a green zone and the big hotel would block the path of the migratory birds it would be detrimental to their well-being. The Tatas said that the hotel will be built in a sustainable way so as to not disturb the environment. The petitoners raised Art. 51A(g) because every person should protect the environment. The SC said because there is a FD and a DPSP involved, it will be brought to the notice of the State. However, after the State has evaluated it in a bona fide manner, the court will not involve itself further. Basically, relevant but not really.
+-Chowksy case: Deepak Mishra heard this case where Chowksy was offended by the national anthem scene in Kabhi Khushi Kabhi Gam. Mishra agreed and said it was insulting to the national anthem to be sung in a fake British accent. However, the movie was already out and a lot of money was riding on it, so it was left untouched. But, Chowksy approached Mishra to ensure that the national anthem be played before movies with the uniform tune and animation that we have today. Mishra called this a display of constitutional patriotism.
 
 15.12.20
 
 FUNDAMENTAL RIGHTS
 
-Two basic fundamentals about the fundamental rights. Firstly. Most FRs have a negative rights connotation. Distinguished between Civil Rights and Economic, Social Rights. When we have couched the rights in negative language, we are assuming that there is a basic understanding of all citizens about their rights. If there is any denial, the citizen knows where to approach. Isn’t this expecting too much, given our literacy level? This led to a more positive rights approach by Indian courts. The court realised that if rights are limited to a situation in which the citizens can approach only when there is a denial, this is not desirable. 
-Second premise- FRs are vertically enforceable (against the state). This is not an absolutely true statement- some FRs are horizontally applicable (against private citizens). Case of Article 17 (Prevention of untouchability). It is essentially a practice by individuals. So horizontally applicable. 
-Similarly, right against exploitation (Article 23). Even if a private employer exploits, then applicable. 
+Two basic fundamentals about the fundamental rights.
+-Firstly, most FRs have a negative rights connotation. Distinguished between Civil Rights and Economic, Social Rights. When we have couched the rights in negative language, we are assuming that there is a basic understanding of all citizens about their rights. If there is any denial, the citizen knows where to approach. Isn’t this expecting too much, given our literacy level? This led to a more positive rights approach by Indian courts. The court realised that if rights are limited to a situation in which the citizens can approach only when there is a denial, this is not desirable. 
+-Secondly, FRs are vertically enforceable (against the state). This is not an absolutely true statement- some FRs are horizontally applicable (against private citizens). Case of Article 17 (Prevention of untouchability). It is essentially a practice by individuals. So, horizontally applicable. 
+Similarly, right against exploitation (Article 23). Even if a private employer exploits, then it is applicable to them.
+
 Article 15 (2) and 15 (1)- 
 15. (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. (vertically applicable)
 (2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to— (a) access to shops, public restaurants, hotels and places of public entertainment; or (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public. (Horizontally applicable)
-https://ir.nbu.ac.in/bitstream/123456789/3623/1/Vol.%2010%2c%20No.%202%2c%20September%202019_11.pdf – paper by Shameek Sir, read.
-Sir, what if instead of excluding a group based on the mentioned criteria, you include one community excluding everyone else? – Mostly based on reasonable classification. Prima facie, this is also discrimination.
+-https://ir.nbu.ac.in/bitstream/123456789/3623/1/Vol.%2010%2c%20No.%202%2c%20September%202019_11.pdf – paper by Shameek Sir, read.
+-Sir, what if instead of excluding a group based on the mentioned criteria, you include one community excluding everyone else? – Mostly based on reasonable classification. Prima facie, this is also discrimination.
 
 16.12.20
 
@@ -101,16 +105,13 @@ Article 12
 READ THIS: Zoroastrian Co-operative Housing Society Limited and Another v District Registrar Co-operative Societies (Urban) and Others.
 
 -RD Shetty case: International Airports Authority was counted as an instrumentality of the Indian government, so, it would be counted as State.
--Ajay Hasia v Khalid Mujib: Regiona Engineering College in Srinagar had a system where some marks were allotted to a written test and an interview. Hasia challenged the weightage of the interview process. The SC agreed and said that it was indeed arbitrary. They did this inspite of the fact that it was a registered society, going aginst the precedent of Sabhajit Tiwari. Bhagwati gives a 6 prong criteria to identify a body as State:
-    1. One thing is  clear that  if the  entire share  capital  of   the corporation is held by  Government it  would go  a long way towards indicating that the Corporation is an instrumentality or  agency of Government. 
-    2. Where the financial assistance  of the  State is so much  as to  meet
-    almost entire  expenditure  of  the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
-    3. Whether  the corporation   enjoys
-    monopoly status  which  is  the  State conferred  or  State protected. 
-    4. Existence of deep and pervasive  State   control may afford an indication that the Corporation is a
-    state agency or  instrumentality.
+-Ajay Hasia v Khalid Mujib: Regional Engineering College in Srinagar had a system where some marks were allotted to a written test and an interview. Hasia challenged the weightage of the interview process. The SC agreed and said that it was indeed arbitrary. They did this inspite of the fact that it was a registered society, going aginst the precedent of Sabhajit Tiwari. Bhagwati gives a 6 prong criteria to identify a body as State:
+    1. One thing is clear that if the entire share capital of the corporation is held by Government it would go a long way towards indicating that the Corporation is an instrumentality or agency of Government. 
+    2. Where the financial assistance of the State is so much as to  meet almost entire  expenditure  of  the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
+    3. Whether  the corporation enjoys monopoly status  which  is State conferred  or  State protected. 
+    4. Existence of deep and pervasive  State   control may afford an indication that the Corporation is a state agency or instrumentality.
     5. If the  functions of  the corporation of public importance and   closely  related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of Government.
-    6. Specifically, if a department      of Government is  transferred to  a corporation, it would be a strong factor supportive of this inference of the corporation being an instrumentality or agency of Government.
+    6. Specifically, if a department of Government is  transferred to  a corporation, it would be a strong factor supportive of this inference of the corporation being an instrumentality or agency of Government.
 -Pradeep Kumar Biswas v Indian Institute of Chemical Biology: Ruma Pal J proposed a test which is the current position of law today and it is as follows:
     The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
 
@@ -121,9 +122,9 @@ We got let off early! Holiday incoming.
 4.1.21
 
 Article 13
--What would happen to pre-constitutional and post-constitutional laws? These are dealt with Art.13(1) and Art.13(2), respectively.
+-What would happen to pre-constitutional and post-constitutional laws? These are dealt with by Art.13(1) and Art.13(2), respectively.
 -This is reflected in the manner in which both Art.13(1) and Art.13(2) are worded, with the latter being much more forceful and deliberate in its phrasing.
--FRs cannot be retrospectove. Thus, a contravening provision of the IPC, for example, cannot be declared void ab initio. All actions taken under the umbrella of this provision till 26th January, 1950 will stand. This is in contradiction to any law passed after the Constitution comes into force which goes against provisions of Part III.
+-FRs cannot be retrospective. Thus, a contravening provision of the IPC, for example, cannot be declared void ab initio. All actions taken under the umbrella of this provision till 26th January, 1950 will stand. This is in contradiction to any law passed after the Constitution comes into force which goes against provisions of Part III.
 -State of Bombay v Keshavan Madhava Menon: The Brits made a law, Indian Press (Emergency Powers) Act, 1931, to gag the free press during the nationalist movement. This law continued to be in force even after independence and Menon was arrested again by the government of India. Menon argued that since there are FRs in independent India this law is unconstitutional as it violates Art.19. The court agrees, but refuses to let Menon go because the offence was committed before 26th January, 1950 in 1949. Thus, the conviction stood.
 -Doctrine of Severability: When only a portion of a law is excised for being unconstitutional, it is the implementation of this doctrine that makes it possible. For example,Section 66A of the IT Act, 2000 was severed from the rest of this legislation. However, if the legislation as a whole is inextricably linked to the offending provisions, the whole law may need to be struck down.
 
@@ -155,7 +156,7 @@ Definition of laws in Art.13(3)
 11.1.21
 
 -Sri Krishna Singh v Mathura Ahir: In this case, a Shudra wanted to join a religious order but the challenge was that only Brahmins could become priests. The Allahabd HC allowed it saying that he left all his caste relationships behind when he wanted to become an ascetic. But, the SC overturned the HC judgement and said that: 
-In our opinion, the learned Judge failed to appreciate that Part III of the Constitution does not touch upon the personal laws of the parties. In applying the personal laws of the parties, he could not introduce his own concepts of modern times but should have enforced the law as derived from recognised and authoritative sources of Hindu law, i.e., Smritis and commentaries referred to, as interpreted in the judgments of various High Courts, except where such law is altered by any usage or custom or is modified or abrogated by statute.
+	In our opinion, the learned Judge failed to appreciate that Part III of the Constitution does not touch upon the personal laws of the parties. In applying the personal laws of the parties, he could not introduce his own concepts of modern times but should have enforced the law as derived from recognised and authoritative sources of Hindu law, i.e., Smritis and commentaries referred to, as interpreted in the judgments of various High Courts, except where such law is altered by any usage or custom or is modified or abrogated by statute.
 -In a lot of these cases, it was a law being challenged which gave legitimacy to a personal law.
 -C. Masilamani Mudaliar v. Idol of Sri Swaminathaswami: Personal laws are derived not from the Constitution but from the religious scriptures. The laws thus derived must be consistent with the Constitution lest they become void under Art. 13 if they violate fundamental rights. However, this case is not challenging Narasu Appa Mali but only solidifying the concept that only statutory laws can be challenged.
 
@@ -460,3 +461,202 @@ The evolution of Article 19(2)
 	3.At the behest of Ambedkar, the word "reasonable" was also inserted so as to rein in the power of the state.
 
 -Can politicians say they have a right not to speak? Yes, but this right is counterbalanced by the right to be informed of the electorate which is part of their right to freedom of speech and expression. As a vote is an expression, it has to be based on correct, timely information.
+
+17.2.21
+
+-The press is also a business and runs for profit making motives.
+-So, there are Article 19(1)(g) connections to the press. Thus, restrictions can be imposed based upon Article 19(6).
+-Nehru started imposing restrictions based upon Article 19(6) instead of Article 19(1)(a).
+-The government introduced a law called the Working Journalists Act which aimed to better their working conditions, but was really meant to stifle the press.
+-The earnings remaining constant, the cost for running a press company will go up and profits will go down. This will cut down on either the reach of the newspaper or cut down on the quantum of news to print more advertisements.
+-Express Newspapers v UoI: Ramnath Goenka went to the SC against this Act and said there was an ulterior design behind the welfare provision. The SC appreciated the argument and gave the Direct and Inevitable Consequence test. This test meant that if the government imposed a restriction on a FR which led to an impact on another FR, this restriction would have to satisfy the test of both FRs which have been impacted and not just the one which has been explicitly restricted.
+-Sakal Papers Pvt. Ltd. v UoI: Immediately after the Indo-China war there was an acute shortage of newsprint in the country. The government declared newsprint as an essential commodity and it was being rationed. The government came up with a newsprint policy where every newspaper would be given a quota. So long as this policy is in place, the page numbers of the newspaper is fixed and restrictions on the number of newspapers that could be printed. The SC said that even though it was a Article 19(6) matter there is a clear and direct impact on a newspaper's Article 19(1)(a) rights.
+
+19.2.21
+
+Cases to be discussed:
+1. Ramji Lal Modi v State of UP (1957)
+2. Virendra v State of Punjab (1958)
+3. Supdt. Central Prisons v Ram Manohar Lohia (1960)
+4. Kedar Nath Sngh v State of Bihar (1962)
+
+Ramji Lal Modi v State of UP (1957)
+-Section 295A of the IPC was challenged on constitutional grounds as it was too vague and broad.
+-Ramji made a point that he may like to create honest criticism about the religion which doesn't even create a public order disturbance. Even then, the fact that it has the potential to create a public order disturbance is too broad.
+-CJI SR Das said that this was not a valid argument. Article 19(2) enables the government to create restrictions "in the interest of public order" and not "for public order". If it was the latter, only then would you have to establish a causal link between the restriction and the breach of public order.
+-The very fact that one's speech has a bad tendency to incite riots or similar disturbances is enough to establish restrictions in this framework.
+
+Virendra v State of Punjab (1958)
+-Save Hindi agitation in Punjab that led to the creation of Haryana was stopped from being reported in newspapers.
+-Court said that if it in interest of public order you don't need to prove a causal link between a speech and a riot. Only that the contents of the speech can possibly start a riot. This could be called the Bad Tendency test.
+
+Supdt. Central Prisons v Ram Manohar Lohia (1960)
+-There was a law called the UP Special Powers Act, 1932, brought about by the British. They used this law to punish RML for going against Nehru's policies.
+-Subba Rao says that just because it says "in the interest of public order" doesn't mean it can be so random. The state has to prove a proximate nexus between the speech and the potential riot. This nexus cannot be far-fetched, hypothetical or too distant. This is similar to the American standard of clear and present danger.
+
+22.2.21
+
+What are reasonable restrictions?
+
+State of Madras v VG Row
+-Three points to understand what is a reasonable restriction by Justice Shastri:
+	1.Nature of the right to be restricted.
+	2.Underlying purpose of imposing such restrictions.
+	3.The extent and urgency of the evil sought to be remedied.
+-These are just factors to consider, not really a ratio.
+
+23.2.21
+
+Article 19(1)(g) and Article 19(6)
+-Creation of a state monopoly does not have to be reasonable under Article 19(6)(ii).
+
+Can the right to open an educational institution fall under Article 19(1)(g)?
+-This was first discussed in the JP Unnikrishnan v State of AP (1993) case. It might be an occupation, but it cannot be called a trade. The court delineated occupation from trade and said that you cannot have a profit making motive when setting up a school.
+-Similarly in 2002, TMA Pai also said the same thing.
+-In Islamic Academy, the court recommended setting up of committees to ensure fair fee structure. As education was not supposed to be a profiteering venture.
+
+-In the case of Md. Hanif Qureshi, Court said that if there is restriction on slaughter of non-milk producing cattle, it will not be justified. Justice BK Mukherjee got a Hindu Brahmin priest to read out the Koran which said that x number of different kinds of cattle be sacrificed. Thus, Justice Mukherjee said that slaughter of cows is not mandatory and other aninmals would do.
+-State Of Gujarat vs Mirzapur Moti Kureshi Kassab: Total prohibition on slaughter.
+-You can also ban businesses by applying the doctrine of Res Extra Commercium. When some businesses are so abhorrent that such business cannot be allowed, such as gambling and prostitution.
+-Fantasy sports leagues were not counted as gambling. The court relied on two cases for this:
+	1.State of AP v Satya Narayana: Rummy was counted as gambling.
+	2.Dr. KR Laxmanan v State of TN: Horse trading was supposed to be a game of skill.
+-Any game involving skill preponderantly cannot be counted as gambling. Even if people do it for fun, if the model of the game itself is skill based, it doesn't matter.
+
+24.2.21
+
+Article 20
+
+-After the 44th amendment to Article 359, all FRs can be suspended during an Emergency except Article 20 and 21.
+
+Hathising Manufacturing Co v UOI
+-Law passed in 1957 said that if you're shutting down your business/industry you have to pay compensation to your workers from a backdate in 1956.
+-If they fail to provide this compensation, they can be arrested.
+-Law challenged on the ground that it imposed retrospective liability. Not only that, but they could also be jailed for failing to pay it which goes against Article 20(1).
+-Court said that since it was a civil liability, it would not be protected under Article 20(1).
+
+Sajjan Singh v State of Punjab
+-In this case, Section 5(3) of the Prevention of Corruption Act, 1947 was challenged.
+-The moment the ED is satisfied that one possesses disproportionate assets, the burden of proof shifts to you to prove that such assets were acquired by legitimate means.
+-Sajjan Singh challenged this section. He said that the law comes into force in 1947, there is a raid on my house in 1948 which finds disproportionate assets. However, I have started acquiring assets from 1920 when showing receipts for such assets was not required. Thus, this imposes an ex post facto liability on him.
+
+26.2.21
+
+Kedarnath Bajoria v State of WB
+-
+
+Rattan Lal v State of Punjab
+-Majority judgement delivered by Subba Rao.
+-A boy of 16 years was found guilty of trespassing and outraging the modesty of a 7 year old girl.
+-Magistrate awarded 6 months of rigorous imprisonment.
+-His appeals upto the HC get rejected.
+-Probation of Offenders Act had come into existence between the conviction and the appeals. But, his lawyers didn't bring up this Act during the appeals.
+-The Act said that offenders under 20 years of age could not be subjected to imprisonment and would be sent to a juvenile home for reformation.
+-After the case goes to SC, this argument is heard. The SC case says that this Act is only brought in after the conviction. Just as punishments cannot be scaled up retrospectively, it should not be scaled down retrospectively. However, Subba Rao said the benefit of the doubt should be given keeping in mind the intention of this Act, which is about reformation.
+
+Article 20(2)
+
+-In India, the bar is on succesful prosecution and punishment and not just prosecution for double jeopardy.
+
+Best Bakery case (Zaheera v State of Gujarat)
+-A bakery was allegedly set on fire by Hindus where a lot of Muslims died.
+-The court in Gujarat acquitted the accused with a lot of discrepancies.
+-The SC decided to have a retrial in Maharashtra because of the many discrepancies.
+
+MAqbool Hussain v State of Bombay
+-Person nabbed at the airport carrying unaccounted gold.
+-A criminal trial was instituted against him under FERA and a customs inquiry was also happening simultaneously.
+-Person claimed this was double jeopardy, but since only the FERA one was a criminal trial, it did not satisfy Article 20(2).
+
+1.3.21
+
+Article 20(3)
+-Self incrimination is providing evidence that can implicate oneself.
+-Is there any way to provide evidence without making a positive communication?
+-So, between a confession and being asked to provide documents what is the difference?
+-Orally, you have a right to remain silent, but documents are also evidence that can incriminate oneself. This can amount to forced to bear witness against oneself.
+
+MP Sharma v Satish Chandra 1954
+-8 judge bench in this case said that we don't have a right to privacy.
+-During the investigation process, one's Article 20(3) extends to making both oral communication and providing documentary evidence that may incriminate oneself. This is what the court opined.
+
+State of Bombay v Kathi Kalu Oghad
+-An 11 judge bench was consituted because the MP Sharma ratio was effectively restricting any investigation.
+-It overruled MP Sharma to say that only oral communication could be protected under Article 20(3) and not documentary evidence.
+-This is a very expediency based argument. Refusal to produce documents may lead to adverse inferences, whereas confessions are at a risk of being beaten out of someone.
+-Read the Oxford Handbook article.
+
+Nandini Satpathy V PL Dani
+-CM from Odisha.
+-she was asked to appear before a police station relating to a vigilance question.
+-Long list of questions about her assets.
+-She refused to answer any question while sitting there for a long time.
+-A complaint was filed against her under Section 179 of the IPC.
+-She claimed that she had protection under both Article 20(3) and Section 161(2) of the CrPC.
+-HC didn't agree with her. She went on appeal to the SC.
+-krishna Iyer said that the fact she was a woman sitting alone in the police station for long hours being probed with questions can be considered compulsion and doesn't have to be exclusively physical torture.
+-Krishna Iyer also said that Article 20(3) protection starts when the police investigation starts and not when chargesheet is filed.
+
+
+Srimati Selvi v State of Karnataka
+-This case was about the legality of using "scientific" techniques like polygraphs, brain mapping, narcoanalysis etc.
+-The court said that this was still very similar to oral testimony because you're still an active participant in any exercise such as this.
+-For physical evidence like blood samples, it has its own story to tell. It doesn't really depend on a person's participation.
+
+2.3.21
+
+Article 21
+-The US Supreme Court struck down a lot of New Deal legislation based on violation of the due process clause.
+
+Lochner v New York
+-Law passed by NY to say that employees of bakery industry cannot be made to work overtime.
+-Law struck down because it impeded the liberty to contract on part of the employer. This violates the due process of the law and was held to be constitutionally invalid.
+
+-When we wanted to import this from the US constitution, we eliminated property and inserted personal before liberty.
+-Then we peeked at the Japanese constitution at the last minute and really liked procedure established by law. Mostly because this allows the government to oppress you better without the courts being a fly in the ointment.
+
+AK Gopalan
+-Nambiar argued that it is an unreasonable violation of life and personal liberty if the state can put people in detention without any sort of check.
+-State argued that any procedure would do, it doesn't need to be reasonable.
+-Nambiar then argued that Gopalan was under house arrest which restricted his freedom of movement, which violated his Article 19 right where restricitons need to be reasonable. The state countered that the challenge could only be based on a single FR because FRs are not linked, they are separate islands.
+-Nambiar told a story where the cook of the Duke of Rochester was accused of theft. A thief in those times would be roasted alive. Nambiar asked whether this was a fair procedure just because it was established by law. The judges skirted around this example.
+-The judges rejected all arguments made by Nambiar and upheld the state's stance.
+-Only Fazl Ali dissented, saying that the Japanese constitution was drafted where there was a distinct American influence. This means that it does not mean law simply, but has the effect of due process as in the US constitution. Since, we imported procedure established by law from the Japanese constitution, that means we have imported the due process clause too.
+
+3.3.21
+
+Kharak Singh v State of UP
+-Already did it in LM. Nothing new here.
+-At a very preliminary stage, the counsel for the state admitted that the UP Police Regulations are not backed by any law. This is the reason why, neither procedure established by law nor a reasonable restriction argument were used by the state to jsutify it.
+-Thus, the court was only checking for if the following was valid:
+	1.Domiciliary visits.
+	2.Surveillance.
+	3.Freedom of movement.
+
+-The compartmentalisation of different FRs was starting to break down. Kharak Singh struck down domiciliary visits which was a procedure established by law, sginifying a change from the hard positivist mentality of the SC.
+
+RC Cooper v Union of India
+-Already did it. Nothing new here.
+
+Govind v State of MP
+-Exactly similar police surveillance law as Kharak Singh.
+-However, the entire police regulation was found to be valid, unlike Kharak Singh.
+-There is a penumbral region in Article 21 which is where many related rights reside, such as the right to privacy. This observation is what is important about the case.
+-Major difference with Kharak Singh was that in this case, the counsel argued that the regulations were a procedure established by law. This is a big reason why this was upheld in its entirety.
+
+5.3.21
+
+Maneka Gandhi v Union of India
+-Passport Act has Section 10(3)(c) says a person's passport can be impounded.
+-Section 10(5) of the Act says that you need to provide reasons for doing so, unless the Central government feels that doing so goes against public interest.
+-Madan Bhatia represented Maneka Gandhi in this case because the other ones didn't take up her case.
+-He argued on the ground of arbitrariness of the act. As a distant arguendo, he also included that it impacted her freedom of speech and expression because without a passport, she could not go to the talks abroad. The Article 21 issue was just tacked on as an afterthought.
+-The government filed a counter-affidavit saying that it was only to prevent her from leaving while the inquiry by the Shah Commission into the Emergency was ongoing. As she had already deposed before the Commission, the government declared that her passport would be given back.
+-The SC could have dropped this matter saying the suit was now infructuous as Maneka Gandhi's passport would be returned. However, the court had two objectives in not letting it go that easily:
+	1.To shore up public confidence in the SC after the ADM Jabalpur case.
+	2.To get rid of the shackles of Gopalan which could lead to situations like ADM Jabalpur.
+-A few takeaways from Maneka Gandhi:
+	1.Life and personal liberty has a lot of unenumerated rights included in it.
+	2.Stop looking at FRs as isolated islands. When testing a provision against Article 21, it should also satisfy Articles 14 & 19. Basically, if any of these Articles are used for the test, the other two Articles always have to be satisfied. This is the Golden Triangle/Thread.
+	3.We get procedural "due process" with different judges taking various ways to reach there. Bhagwati argued that arbitrariness stood in the way of mere procedure, in the form of Article 14. Chandrachud, Beg and Krishna Iyer said that Article 21 by itself is sufficient to say that requirement of procedure established by law be just, fair and reasonable. Except for YVC, the other judges don't even mention "due process".
+	
