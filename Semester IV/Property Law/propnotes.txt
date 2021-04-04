@@ -287,3 +287,102 @@ Jaydayal Poddar (Deceased) v Mst. Bibi Hazra And Ors on 19 October, 1973
 	3. the true character of the transaction is governed by the intention of the person who has contributed the purchase money and  
 
 	4. the question as to what his intention was has to be decided on the basis of the surrounding circumstances, the relationship of the parties, the motives governing their action in bringing about the transaction and their subsequent conduct, etc.
+
+8.3.21
+
+Section 43
+
+Jumma Masjid v Kodiman Indra AIR 1962 SC 847
+
+Rajapaksh v Fernando
+-The court observed that: where a granter purported to grant an interest to a land that he did not possess, but subsequently acquires an interest in the land, it automatically passed to the grantee.
+
+Pandiri Bangaram v Kuru Moory 1911
+-1/3rd share of a joint family property
+-Laid down that
+
+11.3.21
+
+Section 52
+-A is the owner of the property and B is in possession of thr property. They secretly agreed that B will claim to be the owner of the property. A will then challenge this public ownership while B will transfer it to C by way of sale. Then, A and B will divide the proceeds from this sale. The court will then decide in favour of A and the transfer to C will be voided. This is collusion between A and B to defraud C. However, as this is a collusive deal, the transfer to C cannot be invalidated to protect the interests of an innocent third party.
+
+Nagubhai v B. Shyam Rao 1956 SCR 451
+-SC said that collusive proceedings are fictitious and only to take advantage of third parties.
+
+-A took a loan from B and didn't pay it back. B takes out a money suit against A and asks the court to attach and sell the property of A to recoup the loan.
+
+Two points to keep in mind:
+	1.The property must be substantially in dispute.
+	2.The interests of a third party must be affected.
+
+-A and B are in a dispute over non-payment of rent. Is the property a substantial part of the case? Since, the tenant moves with the property as tenancy is a statutory right, the property itself is not a substantial part of the dispute. If A transfers the property to C, the interests of B are not affected. B is concerned about the rent amount paid and the amenities offered, not the status of its ownership.
+
+Mahesh Prasad case
+-Mere mention of an immovable property in the plaint is not enough.
+
+13.3.21
+
+Section 53
+-A is the owner of a house and he took a loan of 10k from B. A sells the property to C. Two situations arise, C knew that A had an outstanding loan and was transferring the property only to deceive B or that C was unaware about any of this. If it was the first case, the transfer to C would be void at the option of B.
+
+15.3.21
+
+Section 53A Part Performance
+-A transfers a property to B, but the registration deed has not been fully changed while B is in possession of the property. In the meantime, A sells the property to C and hands over the deed. Now C is within his rights to ask B to vacate the property.
+
+16.3.21
+
+Section 53A Part Performance
+-Statute of Fraud Act 1677 from the UK is relevant here. Check Section IV of the Act.
+
+Muhammad Moosa case 1930
+-Two persons entered into a compromise decree over property. They took possession of the respective portions of property. After the death of A and B, they wanted to repudiate the compromise decree on the ground that it was written but not registered.
+
+Arif v Jadunath 1931
+-A transferred this land by way of an oral lease. B took the possession of the land and constructed a building over the land. After 10 years, A says B will be a tenant instead of a lessee.
+-Calcutta HC followed the principle of equity and gave judgement for B.
+-On appeal, the Privy Council held that the English principle of equity cannot override legislation that specifies that permanent leases need to be written down. Judgement entered for A.
+
+18.3.21
+
+-A wanted to transfer property and B wanted to purchase property. B took possession after paying half the price. How long can B keep possessing the property?
+
+-BB Mitra says that it is settled law that any writing that confers upon a person certain rights does not require registration under Section 17A of the Registration Act.
+
+Mool Chand Bakhru: https://indiankanoon.org/doc/1390060/
+
+Part Performance will have a question EXAM!!!
+
+19.3.21
+
+Read: https://www.lawfinderlive.com/Articles-1/Article57.htm
+
+22.3.21
+
+Mortgage (Chapter IV)
+
+Section 58
+-A has property worth 12 lakhs and he is in need of 10 lakhs. What does he do?
+
+Indira Kaur v Sheolal Kapoor AIR 1988 SC 1074
+-A is the owner of a property and transferred it by way of a sale deed to B for 5 lakhs. The sale was completed on 22.3.15. On the same date, B executed another agreement that said B will sell the property back to A in 10 years for Rs 5 lakhs. It will stay in A's possesion and all taxes on the property is to be paid by A.
+
+25.3.21
+
+Equity of Redemption
+-Genesis from law of equity, which was developed by the Chancery, known as the court of conscience.
+-The problem was that people who used to take loans under financial hardship, the mortgagee had the bargaining power to set onerous conditions on this agreement, which could be said to amount to injustice for the mortgagee.
+-Mortgage is a very diverse field and the legislature tried to encompass all of them.
+-If any borrowing transaction reveals a creditor-debtor relationship where an immovable property has been situated as a security for this agreement, then it is a mortgage.
+-Mortgage is not the tranfer of entire interest in the property, it is the transfer of only specific right.
+-For example, if it is an immovable property and certain rights are transferred to the mortgagee, the mortgagor still has the interest of residual ownership. This residual ownership interest can be called back after the mortgage is concluded. This is known as Right to Redeem.
+-BB Mitra pointed out that a mortgagor's right of redemption co-exists with a mortgagee's right of foreclosure or sale in case the mortgage is not concluded.
+-Mitra argues for the balanced appplication of these rights that if a mortgagor's right of redemption protects him, then a mortgagee is also protected by his right of foreclosure.
+-Henry Mayne said law cannot be created in an AC room, even though they didn't have AC at the time, it has to be discovered.
+-Mortgage is a socio-legal institution. Cannot be treated purely as a legal issue.
+-Under the tenancy law, a tenant is always a tenant. This is similar to mortgage, which always remains a mortgage.
+-The main purpose was to create a security for the lender, not to create a right of ownership per se.
+-When the payment is made the mortgagee has no right over the property. The mortgagor must also be afforded particular circumstances where he can repay the money and get the mortgaged property back.
+-Lord Henley observed in Vernon v Bethel 1762(Mulla Principles of Property Law):
+	The Chancery Court as a court of conscience is very jealous of a person taking a property as security and convert it into ownership. Therefore, I take it to mean that the mortgagee can never make it so that the transfer of the security becomes a complete conveyance instead of just security.(Kinda paraphrased)
+-This means that you can't refuse payment of the mortgage or impose unreasonable constraints like paying in a month with no Sunday.

@@ -231,3 +231,35 @@ Screenshot:
 
 Present discounted value of the bond= Y bar/1+rfor 10 termsfor 10 terms. Thus present value is calculated as such. Price, yield and market rate are related. Yield isconstant in a perpetuity. Thus, the inverserelationship between rate and price is established. Thus cost of holding bonds becomes very high so
 Thus, cost of holding bonds becomes very high, sovery low yield for bond. Thus better to hold liquidcash. There is also a chance where before the endof the maturity period liquid cash is needed, can begot by selling the bond. The price of bond may godown if the market recovers. Thus, a capital loss isbeing made.Return=r (market rate of interest prevailing at thetime of sale of the bond) +Expected price ofbond-current price of bond *100/current price ofbond(Expected capital gain).  *expressed in percentages*
+
+11.3.21
+
+Money supply (M1, M2 etc): https://opentextbc.ca/principlesofeconomics2eopenstax/chapter/measuring-money-currency-m1-and-m2/
+
+-Reserve ratio is where a certain percentage of deposits in a commercial bank is kept in the central bank. This has two components:
+	1.Currency reserve ratio
+	2.Statutory liquidity ratio - Certain amount of government bonds that are funded by the commercial banks.
+
+Then there are the repo rates:
+	1.Repo rate - The rate at which commercial banks can get loans from the RBI.
+	2.Reverse repo rate - The rate at which RBI pays the commercial banks interest on the money deposited to the RBI by the commercial banks.
+
+-If you keep your deposit at the RBI, you lose the chance to invest it and gain at the market rate of interest.
+
+How the RBI can increase its assets?
+	1.By giving loans to the government.
+	2.Disocunt window lending where the RBI extends loans to commercial banks.
+	3.Deficit spending, where the RBI buys government bonds.
+	4.Balance of payment disequilibrium. If a country is having a balance of payment is in surplus that means the total amount of services, goods and assets being exported is higher than the import. If there is a deficit in balance of payment, the RBI will sell off its assets to buy back the rupees.
+
+19.3.21
+
+Complete Keynesian Model
+
+22.3.21
+
+10 workers in a firm. 120 units made per day. Price of a unit is $5. If an additional worker is hired, the firm will produce 130 units per day. What is the nominal wage of the workers?
+
+25.3.21
+
+Expansionary Monetary Policy

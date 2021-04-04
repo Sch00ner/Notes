@@ -659,4 +659,149 @@ Maneka Gandhi v Union of India
 	1.Life and personal liberty has a lot of unenumerated rights included in it.
 	2.Stop looking at FRs as isolated islands. When testing a provision against Article 21, it should also satisfy Articles 14 & 19. Basically, if any of these Articles are used for the test, the other two Articles always have to be satisfied. This is the Golden Triangle/Thread.
 	3.We get procedural "due process" with different judges taking various ways to reach there. Bhagwati argued that arbitrariness stood in the way of mere procedure, in the form of Article 14. Chandrachud, Beg and Krishna Iyer said that Article 21 by itself is sufficient to say that requirement of procedure established by law be just, fair and reasonable. Except for YVC, the other judges don't even mention "due process".
-	
+
+8.3.21
+
+-Within a few months of Maneka Gandhi, judgements started flowing in that talked about procedural "due process". One such landmark case was Sunil Batra.
+
+Sunil Batra v Delhi Administration
+-Batra was in solitary confinement for a long time.
+-Such solitary confinement was challenged as unjust, unfair and unreasonable.
+-Section 30(2) of the Prisons Act talks about solitary confinement as punishment and this is what was challenged.
+-The procedure of solitary confinement was what was challenged and not the punishment itself.
+-This procedure was read down as it was in violation of Article 21.
+
+Bacchan Singh v State of Punjab
+-Here, a substantive provison was challenged, Section 302 of the IPC.
+-The court upheld the provision but issued guidelines that governed the application of the death penalty.
+-This shows that the court entertained the thought that it could examine even substantive "due process", even though Maneka Gandhi specifically allowed procedural "due process".
+-However, because substantive "due process" was not disallowed in Maneka Gandhi, the majority in this case used this as probably a loophole.
+
+Mithu Singh v State of Punjab
+-Concerning the constitutionality of Section 303 of the IPC.
+-Section 235
+-Under Section 303 , nothing of the sort is happening. As there is an automatic death sentence awarded to people who get life imprisonment.
+-The litigants wanted to argue that it deprives one of certain procedural safeguards and thus, to declare it violative of Article 21, they didn't really talk about the nature of the law itself.
+-However, if the law itself is unjust, unreasonable or unfair then also "due process" can be employed. This is the most important part of this judgement.
+
+9.3.21
+
+Article 25 and 26
+-There are a lot of riders on freedom of religion under these provisions.
+-The state heavily regulates religion based on the Essential Religious Practices (ERP) Doctrine.
+
+ODisha Freedom of Religion and MP Swatantrata Adhiniyam
+-Acts that tried to prevent conversion.
+-Challenged on:
+	1.State has no legislative competence.
+	2.Violates Article 25.
+-The state tried to defend itself on the 1st ground by saying that such propagation can lead to public order problems.
+-Odisha HC struck down the law. They said inducement was a vague term.
+-MP HC upheld the law. Saying it was a threat to public order.
+-Case went to the SC, where a five judge bench headed by CJI Ray heard the matter.
+
+SC Ruling on anti-conversion law
+-Ray said that right to propagate does not include the right to convert.
+-Ray said that everyone has the right to freedom of conscience in Article 25. So, if someone decides to convert they must voluntarily exercise their conscience to convert. It cannot be based on any inducement, monetary or otherwise.
+-Seervai critiqued this saying that succesful propagation leads to conversion. So, how can the process be allowed, but the result banned?
+
+10.3.21
+
+What is a religious denomination?
+
+Commissioner, Hindu Religious Endowment v Sri Laxmindra Thirtha Swamiar (Shirur Mutt case)
+-Justice BK Mukherjee laid down certain criteria which will determine whether a group a denomination or not:
+	1. Collection of individuals having common faith and belief
+	2. Organisation
+	3. Designation by a single name.
+-If these above criteria can be satisfied a group can be called a denomination.
+-If an acitvity is secular, the court said that the government may regulate it.
+-This would come to be known as the Essential Religious Pratices test.
+
+Bramchari Siddheshwar Bhai v State of West Bengal
+-The Ramkrishna Mission was accepted as a minority religion by the Calcutta HC. However, when it went on appeal before the SC, it was classified as a religious denomination.
+
+The Auroville case
+-The government wanted to regulate Auroville, but the followers of Sri Aurobindo objected to this saying Auroville was their property as they were a denomination.
+-SC said that the philosophies of Sri Aurobindo could not be classified as religious. Sri Aurobindo never wanted to form a religion.
+-However, this judgement was criticised because the line between philosophy and religion can be very thin. So, a blatant statement like this was maybe unwise.
+
+12.3.21
+
+Three ways to restrict religious practices:
+	1.Looking into whether a religious practice is essential or not.
+	2.Being grossly violative of FRs means it cannot be allowed to stay.
+	3. Articles 25 & 26 themselves have certain grounds like public order, health, morality and on which grounds it can be curtailed.
+
+Durgah Committee Ajmer v Hussain Ali & Shri Govindlalji v State of Rajasthan
+-In both these cases there are two laws, Durgah Khwaja Samiti Act and Nathdwara Act.
+-These laws want to regulate the running of the temple.
+-Both of these places are run by two religious denominations.
+-The question is whether being a denomination means they have complete freedom to run their affairs as they want or are they subject to some restrictions?
+-Justice Gajendragadkar looks at historic precedents to come to a decision.
+-Gajendragadkar found there was a long history of these places being under the regulatory shadow of the then rulers.
+-The difference from Shirur Mutt is that we moved from looking at whether practices are essetnially religious to whether such practices are essential to the religion or not.
+-Also, he says that even if such practices are essential to the religion, if they are born of superstition, they can be regulated and be excluded from the ambit of the ERP.
+
+-This means that Article 26 is circumscribed not just by public order, morality and health, but also Article 25(2)(a) & (b).
+
+15.3.21
+
+Atri asked a question: If a certain practice is essential to a religion but is detrimental to public order, morality and health, will it be allowed?
+-No, the practice has to be shut down. But, courts often don't go to this extent.
+
+Yagnapurushdsji v Muldas
+-The SC says that judges are not endowed with a three step inquiry to find out whether:
+	1. A claim is religious at all.
+	2. Whether it was essential to the religion.
+	3. Even if essential, if it complied with the public order, health and morality.
+-These will enable the courts to find whether a state regulation is valid or not.
+
+Sardar Syedna Saifuddin Saheb v State of Bombay
+-Bombay Prevention of Excommunication Act, 1949 was challenged.
+-Groups in Bombay especially the Dawoodi Bohra community was very tightly bound. The chief was called the Dayi whose authority was very strong.
+-So, it was found out that the Dayi was routinely excommunicating people from the group.
+-Certain rights were being restricted, such as entry into Bohra mosques or burial in their cemeteries.
+-This is why Bombay passed this law. To prevent such deprivation.
+-The Bohras argued that excommunication was an ERP.
+-The court accepted that excommunication was an ERP in both opinions. The majority by Justice Dasgupta and the concurring opinion of Justice Iyengar.
+-Here, only the first two prongs are being adhered to, the third is not being taken into account.
+
+Acharya Jagadishwarananda Avadhoot v Commissioner of Police, Calcutta 1983
+-Anand Margis have been looked at with suspicion by the state.
+-Founded by Prabhat Ranjan Sarkar in 1955, gave himself the Sri Sri Anandmurtiji
+-In 1966, he said that the faith needed to be propagated. By taking out a procession on a particular day of the year wearing human skulls and bones while dancing. This was called Tandav by him.
+-The Commissioner of Police did not allow them the permission to take out this procession as it may lead to a public order situation.
+-When this matter went to the SC, it was argued on two grounds:
+	1.Tandav is an ERP and the state cannot restrict it.
+	2.Because they were a denomination, 
+-The SC looked into it and said Tandav is not an ERP and thus, the state can regulate it on the basis of public order.
+-This was not proper, even if it is an ERP, it can be regulated under the aegis of public order.
+-SC said it was a new group and during its founding there was no mention of ERP. Since, it was not written down in the founding texts or the tenets of the religion, thus Tandav is not an ERP.
+
+-After the judgement was delivered, Prabhat Ranjan Sarkar brought out a new edition of the text that included Tandav.
+-Emboldened by this, Anand Margis went to the Commissioner again and are denied permission.
+
+Commissioner of Police, Calcutta v Acharya Jagadishwarananda Avadhoot 2004
+-Second case starts. 3 judge bench of the SC.
+-SC says that what is essential to the religion cannot change so frequently. Justice Rajendrababu delivered this opinion.
+-This approach is problematic as it cannot be logically sustained. This way, we can ban Christmas and Kali Pujo and everything under the sun.
+-Justice Laxmanan dissented and said it was futile to look for ERPs. Even if it is an ERP, for maintenance of public order, the state can regulate it.
+
+16.3.21
+
+Sabarimala case
+-Kerala Hindu Places of Worship (Authorisation of Entry) Act, 1965. This law was the subject of contention with Section 3 and 4 being the major sticking points.
+-The proviso to Section 3 states that a religious denomination could restrict access anyway they liked.
+-Rule 3(b) also said that women who were not allowed into public places by way of custom and usage, would also not be allowed into places of worship.
+
+Read: https://indconlawphil.wordpress.com/2017/10/13/asking-the-right-questions-the-supreme-courts-referral-order-in-the-sabarimala-case/
+Also these posts: https://indconlawphil.wordpress.com/tag/sabarimala/
+
+19.3.21
+
+A lot of doubt clearing.
+
+23.3.21
+
+Syllabus is over. Just doubt clearing.
