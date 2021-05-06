@@ -37,7 +37,7 @@ DIRECTIVE PRINCIPLES OF STATE POLICY
 
 -DP Joshi vs Madhya Bharat(State of MP later)1955: MP had reserved seats in medical seats and Joshi challenged this saying that this was discrimination based on place of birth. Court said that this was based on residency and not place of birth. MP justified it by saying that medical colleges are heavily subsidised by the state government and thus, if the students from the state are prioritised it is not a problem. For example, if a student from WB studies in a MP medical college and goes back to practice in WB, MP sees no benefit.
 
--BN Rao was a major architect of the Constitution. He went to the US to check out the Bill of Righst because he was fascinated with it.
+-BN Rao was a major architect of the Constitution. He went to the US to check out the Bill of Rights because he was fascinated with it.
 -The 5th and 14th amendments to the Bill of Rights say that no one can be deprived of their liberty except by the "due process of law".
 -Article 31 of the Japanese Constitution however used the term "procedure established by law" which is what we adopted.
 
@@ -107,11 +107,11 @@ READ THIS: Zoroastrian Co-operative Housing Society Limited and Another v Distri
 -RD Shetty case: International Airports Authority was counted as an instrumentality of the Indian government, so, it would be counted as State.
 -Ajay Hasia v Khalid Mujib: Regional Engineering College in Srinagar had a system where some marks were allotted to a written test and an interview. Hasia challenged the weightage of the interview process. The SC agreed and said that it was indeed arbitrary. They did this inspite of the fact that it was a registered society, going aginst the precedent of Sabhajit Tiwari. Bhagwati gives a 6 prong criteria to identify a body as State:
     1. One thing is clear that if the entire share capital of the corporation is held by Government it would go a long way towards indicating that the Corporation is an instrumentality or agency of Government. 
-    2. Where the financial assistance of the State is so much as to  meet almost entire  expenditure  of  the  corporation,  it  would afford some  indication of the corporation being impregnated with governmental  character.
-    3. Whether  the corporation enjoys monopoly status  which  is State conferred  or  State protected. 
-    4. Existence of deep and pervasive  State   control may afford an indication that the Corporation is a state agency or instrumentality.
-    5. If the  functions of  the corporation of public importance and   closely  related  to governmental functions, it would be a relevant factor in classifying the corporation an instrumentality or agency of Government.
-    6. Specifically, if a department of Government is  transferred to  a corporation, it would be a strong factor supportive of this inference of the corporation being an instrumentality or agency of Government.
+    2. Where the financial assistance of the State is so much as to meet almost entire expenditure of the corporation, it would afford some indication of the corporation being impregnated with governmental character.
+    3. Whether the corporation enjoys monopoly status which is State conferred or State protected. 
+    4. Existence of deep and pervasive State control may afford an indication that the Corporation is a state agency or instrumentality.
+    5. If the functions of the corporation is of public importance and closely related to governmental functions, it would be a relevant factor in classifying the corporation as an instrumentality or agency of Government.
+    6. Specifically, if a department of Government is transferred to a corporation, it would be a strong factor supportive of this inference of the corporation being an instrumentality or agency of Government.
 -Pradeep Kumar Biswas v Indian Institute of Chemical Biology: Ruma Pal J proposed a test which is the current position of law today and it is as follows:
     The question in each case would be whether in the light of the cumulative facts as established, the body is financially, functionally and administratively dominated by or under the control of the Government. Such control must be particular to the body in question and must be pervasive. If this is found then the body is a State within Article 12.
 
@@ -184,9 +184,9 @@ Salient points:
 -Pradeep Tandon case: Court upheld a scheme of reservation in hilly areas but not in villages. The population of a village is too heterogeneous for it to be included in the scheme.
 -State of WB v Anwar Ali Sarkar: WB special courts case. Anwar and 49 other unrelated cases were sent to a special court. Anwar challenged this saying it was against Art.14 as other cases like his were tried in ordinary courts under the CrPC. Court ruled that this was against Art.14 as there was no intelligible differntia for the cases being referred to the special court.
 -Kathi Raning Rawat v State of Saurashtra: A similar law for special courts was present. However, it was seen that a whole category of cases was referred to the special court. However, there were two crucial differnces with Anwar Ali; first, that it was a whole category of cases was picked compared to particular cases in Anwar Ali, second, there was a preamble in this law which included a reason as to why this law was needed. These two differences made sure that the law was upheld by the court.
--In Re SPecial Courts Bill, 1978: Bill moved by Janata government that all abuse of power during Emergency would be referred to a special court. Court allowed this as Emergency was an extraordinary period of time. However, a flaw in the Bill was also pointed out by the court that cases from February 1975 till the end of Emergency was also included even though the Emergency started in June 1975. Thus, the law was not valid for that period.
--Deepak Sibal v Punjab University: PU had a rule stating that the evening session was only for government and semi-government employees because they had work during the daytime. Sibal challenged this rule and the court said that there was no intelligible difference to discriminate between government, semi-government and other employees who had work during the day.
--DS Nakara v Union of India: New pension scheme launched that wuld be applicable to people who retired on a specific date and onwards. Nakara challenged this saying it was creating a sub-classification within pensioners. The court agreed and said that it should not be based on the date of retirement.
+-In Re Special Courts Bill, 1978: Bill moved by Janata government that all abuse of power during Emergency would be referred to a special court. Court allowed this as Emergency was an extraordinary period of time. However, a flaw in the Bill was also pointed out by the court that cases from February 1975 till the end of Emergency was also included even though the Emergency started in June 1975. Thus, the law was not valid for that period.
+-Deepak Sibal v Punjab University: PU had a rule stating that the evening session was only for government and semi-government employees because they had work during the daytime. Sibal challenged this rule and the court said that there was no intelligible differentia to discriminate between government, semi-government and other employees who had work during the day.
+-DS Nakara v Union of India: New pension scheme launched that would be applicable to people who retired on a specific date and onwards. Nakara challenged this saying it was creating a sub-classification within pensioners. The court agreed and said that it should not be based on the date of retirement.
 
 19.1.21
 
@@ -218,7 +218,7 @@ Section 377 and Homosexuality
 Navtej Johar
 -Justice Indu Malhotra and Justice Shah talked about sexual orientation.
 -DYC said that the whole idea of natural and unnatural offences is premised upon a very majoritarian bias. For example, death is natural but that does not mean it is desirable.
--Mishra said that there is no rational nexus is not satisfied as it doesn't really protect women and children.
+-Mishra said that there is no rational nexus as it doesn't really protect women and children.
 -DYC said that the intelligible differentia is also absent as there is no difference between homosexuals and heterosexuals.
 -Malhotra said that basing distinctions upon factors out of one's control cannot be the basis for any kind of intelligible classification.
 -All of the judges found that Section 377 was manifestly arbitrary.
@@ -247,15 +247,13 @@ Specific questions to be answered:
 1. How do you determine backwardness and what are its indicators?
 2. Are such affirmative action measures an exception to the general rule of non-discrimination or in furtherance of non-discrimination?
 
-How do you determine backwardness and what are its indicators?
-
 Cases
 MR Balaji v State of Mysore(1963)
 -Issue: whether caste can be the sole indicator of backwardness?
 -The court said caste can be a relevant factor but it cannot be the sole factor for SEBC. Other factors can be poverty, occupation, location.
 
 R. Chitralekha v State of Mysore
--The parameters for defining backwardness were economic condition and occuopation.
+-The parameters for defining backwardness were economic condition and occupation.
 -
 
 Two cases decided in the same year differed on whether caste can be used to primarily decide backwardness:
@@ -270,13 +268,13 @@ State of AP v P Sagar
 -In NM Thomas, Nehru's view was challenged as the court said that caste could be counted as the sole determinant of backwardness.
 -Jayashree v State of Kerala was a case that reiterated the stand of NM Thomas.
 -KC Vasanth Kumar v State of Karnataka(1985): The five judges gave different criteria for backwardness:
-    1.CJI Chandrachud said that person would be considered backward only if their backwardness is conmparable to SC/ST. Secondly, that they must meet a laid down economic criterion.
+    1.CJI Chandrachud said that person would be considered backward only if their backwardness is comparable to SC/ST. Secondly, that they must meet a laid down economic criterion.
     2.Justice Desai said that the only criteria for determining backwardness is economic.
-    3.Justice Chinappa Reddy said that the primary factor is class poverty among other relevant like caste, occupation etc.
+    3.Justice Chinappa Reddy said that the primary factor is class poverty among other relevant factors like caste, occupation etc.
     4.Justice Sen said that the predominant factor should be poverty. Caste is only a factor to determine the Chandrachud test.
     5.Justice Venkataramaiah said that there were three main factors for determining backwardness is caste, economic standing and occupation.
 The ratio of this case is nothing.
--The above case is why Indra Sawhney was need soon because this case was too divided in the opinions offered.
+-The above case is why Indra Sawhney was needed soon because this case was too divided in the opinions offered.
 
 Are such affirmative action measures an exception to the general rule of non-discrimination or in furtherance of non-discrimination?
 
@@ -297,11 +295,11 @@ General Manager, Southern Railways v S. Rangachari
 -This commission too submitted a report that primarily focused on caste as a determinant of backwardness.
 -However, this time the perspective on backwardness had changed a lot from the time of the first commission. This was due to the judicial uncertainty as to the factors of backwardness and NM Thomas.
 -The list for backward classes was based on the 1931 census and it was recommended that 27% reservation be given in central and state employment along with educational institutions.
--The report came out in 1980. Because a person's caste had more weightage than economic and educational indicators. Since, caste had more weightage, this list became almost a list of backward castes instead of backward classes.
+-The report came out in 1980. A person's caste had more weightage than economic and educational indicators. Since, caste had more weightage, this list became almost a list of backward castes instead of backward classes.
 
 -VP Singh was the one of the first to camopaign with the promise to essentially implement the recommendations of the Mandal Commission.
 -However, the plan was to allow states to form their own list of backward classes. This meant that if some backward classes were included in the state list but not in the central list, in that state they would get all the benefits of reservation. If a backward class was in the central list, but not the state list, they would get the benefits of reservation in central services throughout India.
--This meant that effectively, the reservation was 49.5% on paper, but effectively it could cross 50% depending on how the state list is.
+-This meant that the reservation was 49.5% on paper, but effectively it could cross 50% depending on how the state list is.
 
 -PV Narasimha Rao passed an office memorandum on 25.9.1991 saying that:
 	1.In the 27% reservation, preference is to be given to the poorer of the backward classes.
@@ -349,7 +347,7 @@ UP Power Corporation vs. Rajesh Kumar
 -The court struck it down.
 -There was widespread furore in the country.
 -Because of this, the government brought forward the 117th constitutional amendment that legalised reservation in promotion with consequential seniority.
--The Bill failed, but it demonstrated that the state finally realised that Nagaraj was a Frankenstein that needed to be put down.
+-The Bill failed, but it demonstrated that the state finally realised that Nagaraj was a Frankenstein's monster that needed to be put down.
 
 Jarnail Singh v. Lakshmi Narayan Gupta
 -The primary question was whether the three points laid down in Nagaraj was valid.
@@ -382,7 +380,7 @@ EV Chinniah v State of Andhra Pradesh
 State of Punjab v Davinder Singh
 -There was a Punjab law that made sub-classifications within SCs that said 50% of the SC seats would be reserved for Valmiki and Mazhavi Sikhs.
 -The court thought that it needed to be considered by a larger bench.
--So, the case was referred to a 5 judge bench. Justice Arun Mishra severely criticised EV Chinnaiah. The case was then referred it to an even bigger 11 judge bench.
+-So, the case was referred to a 5 judge bench. Justice Arun Mishra severely criticised EV Chinnaiah. The case was then referred to an even bigger 11 judge bench.
 -The judgement from the 11 judge bench is still pending but, it looks like EV Chinnaiah will probably be overturned along with some reconsideration of Indra Sawhney.
 
 Read: https://indconlawphil.wordpress.com/2020/09/04/guest-post-sub-classification-in-reservations-ii/
@@ -450,7 +448,7 @@ The evolution of Article 19(2)
 -There were two periodicals that caught the ire of the government.
 	1.Crossroads was a periodical that was published by the communist party, whose editor was Romesh Thapar the brother of the Romila Thapar. It was highly critical of Nehru's foreign policy and there would be strikes and protests whenever a new issue came out. The state of Madras invoked the Madras Maintenance of Public Order Act, 1949 to ban the circulation, distribution and sale of the periodical. This was done in the interest of public order even though it was not a ground under the original Article 19(2).
 	2.The Organiser was the mouthpiece of the RSS and SP Mookherjee criticised the pact between India and Pakistan about the settlement of refugees. The Punjab government brought about the Public Safety Act, 1959 to similarly ban the Organiser for the benefit of public order.
--The two cases dealing with these bans were Romesh Thappar vs State of Madras and Brij Bhushan vs State of Delhi. The majority judgement was delivered by Patanjali Shastri and in both these cases struck down the restrictions. They said that the restrictions could not be sustained as public order was not a ground under the original Article 19(2) and the standard of undermined the security of the state or tending to overthrow the state was much higher. So, unless your speech was literally fomenting a civil war, it could not qualify to be restricted. Fazl Ali said that the state should be able to decide at what stage it counted as going against the state as under the original Article 19(2) as part of its sovereign prerogative. Fazl Ali said that the distincition between public order and public safety is quite flimsy.
+-The two cases dealing with these bans were Romesh Thappar vs State of Madras and Brij Bhushan vs State of Delhi. The majority judgement was delivered by Patanjali Shastri and in both these cases struck down the restrictions. They said that the restrictions could not be sustained as public order was not a ground under the original Article 19(2) and the standard of undermined the security of the state or tending to overthrow the state was much higher. So, unless your speech was literally fomenting a civil war, it could not qualify to be restricted. Fazl Ali said that the state should be able to decide at what stage it counted as going against the state as under the original Article 19(2) as part of its sovereign prerogative. Fazl Ali said that the distinction between public order and public safety is quite flimsy.
 -State of Bihar v Shailabala Devi 1950: Devi owned a printing press that had brought out a Bengali leaflet called Sangram, that included a dialogue between Maa Kali who said I am the bloodhtirsty goddess who yearns for revolution against the shackles. Bihar restricted this leaflet for inciting violence against the state. Justice Sharju Prasad said:
 	“if a person were to go on inciting murder or other cognisable offences either through the press or by word of mouth, he would be free to do so with impunity” as “he would claim the privilege of exercising his fundamental right of freedom of speech and expression”
 -As a response to these three judgements, the first constitutional amendment was brought about.
@@ -515,7 +513,7 @@ Can the right to open an educational institution fall under Article 19(1)(g)?
 -Similarly in 2002, TMA Pai also said the same thing.
 -In Islamic Academy, the court recommended setting up of committees to ensure fair fee structure. As education was not supposed to be a profiteering venture.
 
--In the case of Md. Hanif Qureshi, Court said that if there is restriction on slaughter of non-milk producing cattle, it will not be justified. Justice BK Mukherjee got a Hindu Brahmin priest to read out the Koran which said that x number of different kinds of cattle be sacrificed. Thus, Justice Mukherjee said that slaughter of cows is not mandatory and other aninmals would do.
+-In the case of Md. Hanif Qureshi, Court said that if there is restriction on slaughter of non-milk producing cattle, it will not be justified. Justice BK Mukherjee got a Hindu Brahmin priest to read out the Koran which said that x number of different kinds of cattle be sacrificed. Thus, Justice Mukherjee said that slaughter of cows is not mandatory and other animals would do.
 -State Of Gujarat vs Mirzapur Moti Kureshi Kassab: Total prohibition on slaughter.
 -You can also ban businesses by applying the doctrine of Res Extra Commercium. When some businesses are so abhorrent that such business cannot be allowed, such as gambling and prostitution.
 -Fantasy sports leagues were not counted as gambling. The court relied on two cases for this:
@@ -563,7 +561,7 @@ Best Bakery case (Zaheera v State of Gujarat)
 -The court in Gujarat acquitted the accused with a lot of discrepancies.
 -The SC decided to have a retrial in Maharashtra because of the many discrepancies.
 
-MAqbool Hussain v State of Bombay
+Maqbool Hussain v State of Bombay
 -Person nabbed at the airport carrying unaccounted gold.
 -A criminal trial was instituted against him under FERA and a customs inquiry was also happening simultaneously.
 -Person claimed this was double jeopardy, but since only the FERA one was a criminal trial, it did not satisfy Article 20(2).
@@ -588,7 +586,7 @@ State of Bombay v Kathi Kalu Oghad
 
 Nandini Satpathy V PL Dani
 -CM from Odisha.
--she was asked to appear before a police station relating to a vigilance question.
+-She was asked to appear in a police station relating to a vigilance question.
 -Long list of questions about her assets.
 -She refused to answer any question while sitting there for a long time.
 -A complaint was filed against her under Section 179 of the IPC.
@@ -596,7 +594,6 @@ Nandini Satpathy V PL Dani
 -HC didn't agree with her. She went on appeal to the SC.
 -krishna Iyer said that the fact she was a woman sitting alone in the police station for long hours being probed with questions can be considered compulsion and doesn't have to be exclusively physical torture.
 -Krishna Iyer also said that Article 20(3) protection starts when the police investigation starts and not when chargesheet is filed.
-
 
 Srimati Selvi v State of Karnataka
 -This case was about the legality of using "scientific" techniques like polygraphs, brain mapping, narcoanalysis etc.
@@ -647,7 +644,7 @@ Govind v State of MP
 5.3.21
 
 Maneka Gandhi v Union of India
--Passport Act has Section 10(3)(c) says a person's passport can be impounded.
+-Passport Act has Section 10(3)(c) which says a person's passport can be impounded.
 -Section 10(5) of the Act says that you need to provide reasons for doing so, unless the Central government feels that doing so goes against public interest.
 -Madan Bhatia represented Maneka Gandhi in this case because the other ones didn't take up her case.
 -He argued on the ground of arbitrariness of the act. As a distant arguendo, he also included that it impacted her freedom of speech and expression because without a passport, she could not go to the talks abroad. The Article 21 issue was just tacked on as an afterthought.
@@ -690,7 +687,7 @@ Article 25 and 26
 -There are a lot of riders on freedom of religion under these provisions.
 -The state heavily regulates religion based on the Essential Religious Practices (ERP) Doctrine.
 
-ODisha Freedom of Religion and MP Swatantrata Adhiniyam
+Odisha Freedom of Religion and MP Swatantrata Adhiniyam
 -Acts that tried to prevent conversion.
 -Challenged on:
 	1.State has no legislative competence.
@@ -715,7 +712,7 @@ Commissioner, Hindu Religious Endowment v Sri Laxmindra Thirtha Swamiar (Shirur 
 	2. Organisation
 	3. Designation by a single name.
 -If these above criteria can be satisfied a group can be called a denomination.
--If an acitvity is secular, the court said that the government may regulate it.
+-If an activity is secular, the court said that the government may regulate it.
 -This would come to be known as the Essential Religious Pratices test.
 
 Bramchari Siddheshwar Bhai v State of West Bengal
@@ -740,7 +737,7 @@ Durgah Committee Ajmer v Hussain Ali & Shri Govindlalji v State of Rajasthan
 -The question is whether being a denomination means they have complete freedom to run their affairs as they want or are they subject to some restrictions?
 -Justice Gajendragadkar looks at historic precedents to come to a decision.
 -Gajendragadkar found there was a long history of these places being under the regulatory shadow of the then rulers.
--The difference from Shirur Mutt is that we moved from looking at whether practices are essetnially religious to whether such practices are essential to the religion or not.
+-The difference from Shirur Mutt is that we moved from looking at whether practices are essentially religious to whether such practices are essential to the religion or not.
 -Also, he says that even if such practices are essential to the religion, if they are born of superstition, they can be regulated and be excluded from the ambit of the ERP.
 
 -This means that Article 26 is circumscribed not just by public order, morality and health, but also Article 25(2)(a) & (b).
@@ -751,7 +748,7 @@ Atri asked a question: If a certain practice is essential to a religion but is d
 -No, the practice has to be shut down. But, courts often don't go to this extent.
 
 Yagnapurushdsji v Muldas
--The SC says that judges are not endowed with a three step inquiry to find out whether:
+-The SC says that judges are now endowed with a three step inquiry to find out whether:
 	1. A claim is religious at all.
 	2. Whether it was essential to the religion.
 	3. Even if essential, if it complied with the public order, health and morality.
@@ -759,7 +756,7 @@ Yagnapurushdsji v Muldas
 
 Sardar Syedna Saifuddin Saheb v State of Bombay
 -Bombay Prevention of Excommunication Act, 1949 was challenged.
--Groups in Bombay especially the Dawoodi Bohra community was very tightly bound. The chief was called the Dayi whose authority was very strong.
+-Groups in Bombay, especially the Dawoodi Bohra community was very tightly bound. The chief was called the Dayi whose authority was very strong.
 -So, it was found out that the Dayi was routinely excommunicating people from the group.
 -Certain rights were being restricted, such as entry into Bohra mosques or burial in their cemeteries.
 -This is why Bombay passed this law. To prevent such deprivation.
@@ -769,7 +766,7 @@ Sardar Syedna Saifuddin Saheb v State of Bombay
 
 Acharya Jagadishwarananda Avadhoot v Commissioner of Police, Calcutta 1983
 -Anand Margis have been looked at with suspicion by the state.
--Founded by Prabhat Ranjan Sarkar in 1955, gave himself the Sri Sri Anandmurtiji
+-Founded by Prabhat Ranjan Sarkar in 1955, gave himself the title Sri Sri Anandmurtiji.
 -In 1966, he said that the faith needed to be propagated. By taking out a procession on a particular day of the year wearing human skulls and bones while dancing. This was called Tandav by him.
 -The Commissioner of Police did not allow them the permission to take out this procession as it may lead to a public order situation.
 -When this matter went to the SC, it was argued on two grounds:
