@@ -12,7 +12,7 @@ A century later, a collective called the Combahee River Collective issued a stat
 
 ## Kimberle Crenshaw
 - Kimberle Crenshaw is a black feminist lawyer who started the discourse on intersectionality as we know it today.
-- She [talks about](Demarginalizing%20the%20Intersection%20of%20Race%20and%20Sex%20A%20Black%20Feminist%20Critique.pdf) how there is a multidimensional aspect to the experiences of discrimination faced by a Black woman.
+- She [[Demarginalizing the Intersection of Race and Sex A Black Feminist Critique.pdf|talks about]] how there is a multidimensional aspect to the experiences of discrimination faced by a Black woman.
 - For example, in the DeGraffenreid case, where the judge says Black women cannot ask for "super-remedy" based on both their Blackness and their sex.
 
 **Q:** If we are to consider intersectionality as a multidimensional matrix, what are the basis vectors of the plane because if we don't know what they are, will Black people not continue to slip through the gaps?
@@ -35,7 +35,7 @@ The prioritisation of seeing as the basis of an evidentiary framework, contained
 
 The Rigoberta Menchu and Anita Hill cases raise questions about judgement and testimony. It is similar to the recent Tarun Tejpal case of sexual assault.
 
-The [book](Why%20We%20Doubt%20What%20Women%20Say%20About%20Their%20Lives.pdf) talks about tainted witnesses whose testimony cannot be relied upon.
+This [[Why We Doubt What Women Say About Their Lives.pdf|book]] talks about tainted witnesses whose testimony cannot be relied upon.
 This has been replicated across history such as the Criminal Tribes scheme in British India.
 
 # 9.6.21
@@ -60,7 +60,7 @@ Some links about this controversy:
 - Clarence later weaponised white guilt and said that Anita was a front used by white racists who didn't want a black judge to succeed. He not only racialised himself, but he had to deracialise Anita to succeed.
 
 ## Hadiya
-- We all know the [story](https://www.ndtv.com/india-news/hadiya-case-a-timeline-of-kerala-love-jihad-case-1780500).
+- We all know the [[https://www.ndtv.com/india-news/hadiya-case-a-timeline-of-kerala-love-jihad-case-1780500|story]].
 - A display of the person being an insufficient witness of the experiences of their own life.
 
 From this, we can gather that there can be no perfect victim. No victim that can have a legitimate claim to their suffering or being wronged. The system will find ways to discredit anyone on the stand, as and when it wants.
@@ -84,7 +84,7 @@ An intersectional approach, on the other hand, would say that the normative foun
 
 There can be no community where everything is great. Living with others is inherently inconvenient. However, making sure that this hurt and anger is channelled in a constructive way is important.
 
-**Read:** *Structures of Feelings* by Raymond Williams.
+>**Read:** *Structures of Feelings* by Raymond Williams.
 
 **Q:** How do you shift the conversation from the dominant of a community to those who are traditionally under-represented?
 **A:** Maybe reservations, but also shifting the focus of the conversation from just the dominant table itself.
