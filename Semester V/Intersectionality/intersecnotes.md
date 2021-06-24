@@ -38,7 +38,7 @@ The prioritisation of seeing as the basis of an evidentiary framework, contained
 - The video of Rodney King was isolated into a few frames and these images were then used to exonerate the policemen, void of their context.
 - There is also a sexual undertone to the beating of black men like Rodney. Where white paranoia manifests in homophobia represented by phallic instruments of applying violence, like batons.
 
-The Rigoberta Menchu and Anita Hill cases raise questions about judgement and testimony. It is similar to the recent Tarun Tejpal case of sexual assault.
+The [[#^fc9974|Rigoberta Menchu]] and [[#^aac5b5|Anita Hill]] cases raise questions about judgement and testimony. It is similar to the recent Tarun Tejpal case of sexual assault.
 
 This [[Why We Doubt What Women Say About Their Lives.pdf|book]] talks about tainted witnesses whose testimony cannot be relied upon.
 
@@ -49,6 +49,9 @@ This form of *institutionalised doubt* and *presumption of guilt* has been repli
 The law itself is not evaluating experiences, it is actively creating experiences of trauma. The experiences outlined below show how the judicial and other legal mechanisms are insufficient to address some harms.
 
 ## Rigoberta Menchu
+
+^fc9974
+
 - A Guatemalan activist who campaigned for indigenous rights and pursued the conviction of human rights violations and the Spanish Embassy burning where people died.
 - David Stoll had written a book called *Rigoberta Menchú and the Story of All Poor Guatemalans* that contradicted some of the points in her story.
 
@@ -59,6 +62,9 @@ Some links about this controversy:
 4. https://www.jstor.org/stable/463643?seq=1
 
 ## Anita Hill
+
+^aac5b5
+
 - She wrote about the sexual harrassment she had suffered at the hands of Clarence Thomas.
 - She had to testify in front of a committee which degraded her status as a victim and painted her as the party at fault.
 - Full of white men and headed by centrist in chief, Joe Biden.
