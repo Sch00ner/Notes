@@ -113,14 +113,14 @@ There can be no community where everything is great. Living with others is inher
 - Instituted by the British by way of the Indian Penal Code.
 - While it didn't have much life in the courts, it could lead to blackmail, sexual exploitation and a general environment of fear.
 - Queer activists argued exactly this, that while it was not used as a legal cudgel, it would and has lead to intimidation by its very virtue.
-- Nas argued that because of Section 377, the queer movement was going underground. The argument also emphasised that this makes it hard to prevent HIV.
+- Naz argued that because of Section 377, the queer movement was going underground. The argument also emphasised that this makes it hard to prevent HIV.
 - Protests were organised in 1991 by ABBA in support of HIV patients, then the movie *Fire* in 1998 which was accused of being against Hindu culture, then a spate of lesbian suicides before the World Social Forum.
 - AP Shah and Muralidhar read Section 377 and said in the context of India, even going against the caste order would be considered "*unnatural*". Ambedkar had demolished this notion and the judges took this to mean that intercaste marriage and queerness could exist and was not "*unnatural*".
 - In Suresh Koushal, the SC reasoned that it only applied to certain kinds of non-consensual acts and not any identity.
 - It was said that the judges could only deliver the Koushal judgement because there were no queer people in the courtroom to deny the separation between acts and identity.
 
 ### Caste and Section 377
-- The testimony that was provided during 2009 was different. It was about being thrown out of houses, social abandonment. This was different from the 2012 judgement which talked about the inconvenience of not having marriage recognised.
+- The testimony that was provided during 2009 was different. It was about being thrown out of houses, social abandonment. This was different from the 2018 judgement which talked about the inconvenience of not having marriage recognised.
 - This meant that queerness was restricted to an upper caste identity because the kind of petitioners who applied were not cognisant of problems faced by queer people with reduced caste and class privilege, such as Ritu Dalmia and Navtej Johar.
 - Like in Dhrubo Jyoti's [[Dhrubo Jyoti - A Letter to My Lover.pdf|piece]], we can see that queerness is not a glue that can bridge the caste differential and queer people associate mostly with those of their own social standings.
 
@@ -162,3 +162,18 @@ For example, when khap panchayats in Haryana had said the consumption of chowmei
 **Q:** How to locate universality in a quest for rights?
 
 **A:** It may not always be possible for people to agree without some kind of specificity in sight. This specificity will depend on the social context of those who are trying to a universal narrative.
+
+# 30.6.21
+## Patan Jamal Vali v State Of Andhra Pradesh
+- Judgement does dwell extensively and positively on intersectionality.
+- But, amendment that lowered threshold from intention to knowledge was in 2016. This was why the conviction on the ground of the PoA Act could not be upheld.
+- Only the conviction on the ground of Section 376(2) of the IPC was held.
+
+While disability is an empirical fact, though caste also empirically disadvantages people, it never rises to the status of empirical enough to base the judgement around.
+
+The judiciary is the least accountable branch of the state. Do we really want DYC to go wild with whatever he wants to do? To me, this an incredibly slippery slope. Taking things to their *logical conclusion* would be an outcome that is far worse and unsustainable. Think about taking the Paperclip machine to its logical conclusion.
+
+## The Equality Bill
+- Anti-discrimination law can be used to target non-conforming communities like in Europe.
+- Equality provisions can also be co-opted by privileged communities to protect their own characteristics to the disadvantage of others.
+- There are real constraints around the law and the interpretation of statutes itself.
