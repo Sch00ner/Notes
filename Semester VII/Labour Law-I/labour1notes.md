@@ -15,5 +15,7 @@
 - Markets are needed to further your life, but markets also need to be regulated to protect humans.
 
 - Labour law does not protect every single worker. The protections are quite narrow.
-- It was assumed that independent contractors could adequately protect their own interests, unlike employees.
-- 
+- It was assumed that independent contractors could adequately protect their own interests, unlike employees, so they are typically not included under labour law.
+
+# 4.7.22
+We talked about employment contracts or something. I zoned out.
